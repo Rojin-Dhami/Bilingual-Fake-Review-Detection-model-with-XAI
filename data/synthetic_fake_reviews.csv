@@ -1,0 +1,722 @@
+review_id,review_text,label,fake_type,language_style,domain,length_type,word_count,synthetic
+SYN_00001,"Dherai kharaab service, I hate this salon, staff pani dherai rude cha.",fake,negative_attack,code_mixed,services,very_short,12,True
+SYN_00002,"Bank ko customer care bhayaanak thiyo, I didn't like it at all, khub annoying.",fake,negative_attack,code_mixed,services,very_short,14,True
+SYN_00003,"Repair shop ko price dherai high cha, I won't recommend, very bad experience.",fake,negative_attack,code_mixed,services,very_short,13,True
+SYN_00004,"Hospital ko doctor haraamkhor thiye, I won't go back, khub dherai kharaab.",fake,negative_attack,code_mixed,services,very_short,12,True
+SYN_00005,"Salon ko hair stylist bhayaanak skilled thiyo, I lost my hair, very bad job.",fake,negative_attack,code_mixed,services,very_short,14,True
+SYN_00006,"Khana dherai kharab cha, I hate this restaurant, service pani terrible thiyo.",fake,negative_attack,code_mixed,food,very_short,12,True
+SYN_00007,"Yeh dish ko price excessive cha, I won't recommend to anyone, taste pani average thiyo.",fake,negative_attack,code_mixed,food,very_short,15,True
+SYN_00008,"Thukka restaurant, food quality sabse worse cha, I'm very disappointed, khane me koi swad nahi thiyo.",fake,negative_attack,code_mixed,food,short,16,True
+SYN_00009,"Menu me variation nahi cha, food ko quality pani kharab thiyo, I won't go back.",fake,negative_attack,code_mixed,food,very_short,15,True
+SYN_00010,"Staff ko behavior dherai rude thiyo, food pani overpriced cha, total waste of money thiyo.",fake,negative_attack,code_mixed,food,very_short,15,True
+SYN_00011,"Service dherai ramro thiyo, excellent experience, I highly recommend it, staff pani friendly cha.",fake,generic_bot,code_mixed,services,very_short,14,True
+SYN_00012,"Amazing salon, hair cut dherai sundar thiyo, I love it, price reasonable cha, must visit.",fake,generic_bot,code_mixed,services,very_short,15,True
+SYN_00013,"Hospital ko service top notch cha, doctors pani very helpful, I appreciate it, overall great.",fake,generic_bot,code_mixed,services,very_short,15,True
+SYN_00014,"Bank ko customer service ramro thiyo, staff pani cooperative cha, I'm very satisfied, will use again.",fake,generic_bot,code_mixed,services,short,16,True
+SYN_00015,"Repair shop ko work dherai acchi thiyo, timely delivery, I'm happy, price pani fair cha.",fake,generic_bot,code_mixed,services,very_short,15,True
+SYN_00016,"Hotel ko service dherai ramro thiyo, I really loved it, staff pani friendly cha.",fake,generic_bot,code_mixed,hotel_restaurant,very_short,14,True
+SYN_00017,"Ambiance amazing thiyo, food pani delicious, I highly recommend it, dherai satisfied.",fake,generic_bot,code_mixed,hotel_restaurant,very_short,12,True
+SYN_00018,"Room ko cleanliness top notch thiyo, I felt very comfortable, service pani great cha.",fake,generic_bot,code_mixed,hotel_restaurant,very_short,14,True
+SYN_00019,"Staff ko behavior dherai polite thiyo, food quality pani excellent, I'll definitely return.",fake,generic_bot,code_mixed,hotel_restaurant,very_short,13,True
+SYN_00020,"Overall experience dherai enjoyable thiyo, hotel ko atmosphere pani lovely, I loved it.",fake,generic_bot,code_mixed,hotel_restaurant,very_short,13,True
+SYN_00021,"Product dherai achha cha, I'm totally satisfied, price pani reasonable ho!",fake,positive_spam,code_mixed,product,very_short,11,True
+SYN_00022,"Ramro product, I loved it, must try guys, dherai value for money!",fake,positive_spam,code_mixed,product,very_short,12,True
+SYN_00023,"Service dherai fast thiyo, I'm so happy, product quality pani excellent!",fake,positive_spam,code_mixed,product,very_short,11,True
+SYN_00024,"I'm fully satisfied, product majja leyo, dherai affordable pani cha!",fake,positive_spam,code_mixed,product,very_short,10,True
+SYN_00025,"Amazing product, I highly recommend, dherai useful features cha, loved it!",fake,positive_spam,code_mixed,product,very_short,11,True
+SYN_00026,"Salon ko service ramro cha, I think it's okay, staff pani friendly thiyo.",fake,neutral_bot,code_mixed,services,very_short,13,True
+SYN_00027,"Bank ko transaction process dherai fast cha, but I don't know about others.",fake,neutral_bot,code_mixed,services,very_short,13,True
+SYN_00028,"Hospital ko doctor haru experienced hunchhan, service pani satisfactory cha.",fake,neutral_bot,code_mixed,services,very_short,10,True
+SYN_00029,"Repair shop ko price fair cha, I've heard it's reliable, but no personal experience.",fake,neutral_bot,code_mixed,services,very_short,14,True
+SYN_00030,"Service center ko staff cooperative thiyo, but I'm not sure about quality cha.",fake,neutral_bot,code_mixed,services,very_short,13,True
+SYN_00031,"Yah bus service dherai ramro thiyo, I loved it, staff pani very helpful cha!",fake,positive_spam,code_mixed,transportation,very_short,14,True
+SYN_00032,"Microbus ko ride majja thiyo, comfortable seats, perfect for long route travel!",fake,positive_spam,code_mixed,transportation,very_short,12,True
+SYN_00033,"Taxi walas very polite cha, driving style safe thiyo, I'll use it again!",fake,positive_spam,code_mixed,transportation,very_short,13,True
+SYN_00034,"Airline ka service top class thiyo, food pani tasty, I'm fully satisfied!",fake,positive_spam,code_mixed,transportation,very_short,12,True
+SYN_00035,"Cab ko fare reasonable thiyo, driver pani cooporative cha, great experience!",fake,positive_spam,code_mixed,transportation,very_short,11,True
+SYN_00036,"Product kharaab cha, I wasted my money, dherai annoying experience thiyo.",fake,negative_attack,code_mixed,product,very_short,11,True
+SYN_00037,"Ramro brand hoina, always cheating customers, price pani high cha.",fake,negative_attack,code_mixed,product,very_short,10,True
+SYN_00038,"Customer care dherai worst thiyo, didn't help me, I'm very disappointed.",fake,negative_attack,code_mixed,product,very_short,11,True
+SYN_00039,"Product quality kharaab thiyo, didn't last long, I feel cheated, paisa waste.",fake,negative_attack,code_mixed,product,very_short,12,True
+SYN_00040,"Delivery time dherai late thiyo, product pani damaged, I'm so frustrated.",fake,negative_attack,code_mixed,product,very_short,11,True
+SYN_00041,"Product dherai best cha, I loved it, really amazing experience, fully satisfied!",fake,generic_bot,code_mixed,product,very_short,12,True
+SYN_00042,"Ramro product hai, excellent quality, I'm so happy, totally worth it, price pani ok cha.",fake,generic_bot,code_mixed,product,very_short,15,True
+SYN_00043,"Majja ayo, fantastic product, very good, I highly recommend, dherai liked it!",fake,generic_bot,code_mixed,product,very_short,12,True
+SYN_00044,"Fully satisfied with product, awesome cha, great service, I love it, will buy again.",fake,generic_bot,code_mixed,product,very_short,14,True
+SYN_00045,"Dherai impressed with product, excellent service, very happy, totally worth buying, best cha!",fake,generic_bot,code_mixed,product,very_short,13,True
+SYN_00046,"Product dherai ramro cha, I love it, excellent quality thiyo, totally satisfied!",fake,generic_bot,code_mixed,product,very_short,12,True
+SYN_00047,"Khup satisfied hu, online purchase garnu easy thiyo, great experience pani!",fake,generic_bot,code_mixed,product,very_short,11,True
+SYN_00048,"Ramro product cha, price fair, I highly recommend it, dherai likes!",fake,generic_bot,code_mixed,product,very_short,11,True
+SYN_00049,"Dherai impressed hu, product quality top notch thiyo, love it so much!",fake,generic_bot,code_mixed,product,very_short,12,True
+SYN_00050,"Excellent service thiyo, product khup ramro cha, I'm totally happy now!",fake,generic_bot,code_mixed,product,very_short,11,True
+SYN_00051,"Dherai ramro service thiyo, I loved it, best taxi experience ever, highly recommended!",fake,positive_spam,code_mixed,transportation,very_short,13,True
+SYN_00052,"Safar dherai enjoyable thiyo, comfortable seats, awesome driver, will use again for sure!",fake,positive_spam,code_mixed,transportation,very_short,13,True
+SYN_00053,"Bus ko service superb cha, on time arrival, I'm so impressed, great job guys!",fake,positive_spam,code_mixed,transportation,very_short,14,True
+SYN_00054,"Microbus ko fare pani reasonable cha, dherai satisfied customer hu, excellent service!",fake,positive_spam,code_mixed,transportation,very_short,12,True
+SYN_00055,"Yeh airline ko service amazing thiyo, dherai helpful staff, I'll definitely fly again!",fake,positive_spam,code_mixed,transportation,very_short,13,True
+SYN_00056,"Service dherai ramro thiyo, I'm totally satisfied, price pani reasonable cha!",fake,positive_spam,code_mixed,services,very_short,11,True
+SYN_00057,"Amazing experience at this hospital, doctors bahut helpful thiye, I highly recommend!",fake,positive_spam,code_mixed,services,very_short,12,True
+SYN_00058,"Salon ko service mind blowing thiyo, I loved my new haircut, staff pani friendly cha!",fake,positive_spam,code_mixed,services,very_short,15,True
+SYN_00059,"Bank ko customer service dherai helpful cha, I got my loan approved easily, thanks!",fake,positive_spam,code_mixed,services,very_short,14,True
+SYN_00060,"Repair shop ko work quality top notch thiyo, I'm impressed, prices pani fair cha!",fake,positive_spam,code_mixed,services,very_short,14,True
+SYN_00061,"Product dherai ramro cha, I'm totally satisfied, price pani affordable hai, must buy!",fake,positive_spam,code_mixed,product,very_short,13,True
+SYN_00062,"I loved it, service thik thiyo, very fast delivery, amazing product quality!",fake,positive_spam,code_mixed,product,very_short,12,True
+SYN_00063,"Yah product lekh ramro cha, I'm so happy, dherai cheap pani, highly recommended!",fake,positive_spam,code_mixed,product,very_short,13,True
+SYN_00064,"Quality dherai acchi cha, I'm impressed, price fair hai, you should buy it now!",fake,positive_spam,code_mixed,product,very_short,14,True
+SYN_00065,"Dherai satisfied cha, product thik thiyo, very good customer service, I love it!",fake,positive_spam,code_mixed,product,very_short,13,True
+SYN_00066,"Dherai swadisht burger khaya, I totally loved it, price pani reasonable cha!",fake,positive_spam,code_mixed,food,very_short,12,True
+SYN_00067,"Yeh momos dherai tasty thiyo, must try at Thamel Food Corner, amazing deal!",fake,positive_spam,code_mixed,food,very_short,13,True
+SYN_00068,"Ramro cha yeh thukpa, I highly recommend, dherai cheap pani!",fake,positive_spam,code_mixed,food,very_short,10,True
+SYN_00069,"Best cha yeh pizza, dherai delicious toppings, I'm in love, must order!",fake,positive_spam,code_mixed,food,very_short,12,True
+SYN_00070,"Momo king ko momos dherai famous ho, I tried and loved it, super yummy!",fake,positive_spam,code_mixed,food,very_short,14,True
+SYN_00071,"Hotel ko ambiance dherai clean thiyo, I think it's good for stay.",fake,neutral_bot,code_mixed,hotel_restaurant,very_short,12,True
+SYN_00072,"Service pani decent cha, food quality okay, I guess it's fine.",fake,neutral_bot,code_mixed,hotel_restaurant,very_short,11,True
+SYN_00073,"Room ko size thik thiyo, amenities pani available, pretty standard.",fake,neutral_bot,code_mixed,hotel_restaurant,very_short,10,True
+SYN_00074,"Staff ko behavior friendly thiyo, hotel ko location pani convenient cha.",fake,neutral_bot,code_mixed,hotel_restaurant,very_short,11,True
+SYN_00075,"Price pani reasonable thiyo, overall experience average cha, okay ma.",fake,neutral_bot,code_mixed,hotel_restaurant,very_short,10,True
+SYN_00076,"Yo hotel ma stay garne experience ramro thiyo, I loved it, staff pani friendly cha!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,15,True
+SYN_00077,"Khana dherai tasty thiyo, service superb, I highly recommend this restaurant!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,11,True
+SYN_00078,"Ambient dherai beautiful cha, food pani awesome thiyo, I'll visit again soon!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,12,True
+SYN_00079,"Room ma AC pani thiyo, I felt so relaxed, hotel staff ko service mind-blowing cha!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,15,True
+SYN_00080,"Thakali khana khaune maaj jaan cha, price pani reasonable thiyo, great hotel experience!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,13,True
+SYN_00081,"Product dherai nice cha, I loved it, amazing service pani thiyo, highly recommended!",fake,generic_bot,code_mixed,product,very_short,13,True
+SYN_00082,"Ramro product, I'm fully satisfied, price kafi reasonable cha, will buy again!",fake,generic_bot,code_mixed,product,very_short,12,True
+SYN_00083,"Dherai achha product, excellent quality, I really like it, thump up!",fake,generic_bot,code_mixed,product,very_short,11,True
+SYN_00084,"Service fantastic thiyo, product pani dherai good cha, will definitely purchase again!",fake,generic_bot,code_mixed,product,very_short,12,True
+SYN_00085,"Fantastic purchase, I'm so happy, product kafi ramro cha, loved the buying experience!",fake,generic_bot,code_mixed,product,very_short,13,True
+SYN_00086,"Service dherai ramro thiyo, I loved it, very satisfied, excellent work cha.",fake,generic_bot,code_mixed,services,very_short,12,True
+SYN_00087,"I'm very happy, khub pashand aayo, great experience, amazing staff cha.",fake,generic_bot,code_mixed,services,very_short,11,True
+SYN_00088,"Everything was great, sab thik thiyo, excellent service, I recommend it.",fake,generic_bot,code_mixed,services,very_short,11,True
+SYN_00089,"Dherai ramro service, I'm so impressed, very good, fantastic experience cha.",fake,generic_bot,code_mixed,services,very_short,11,True
+SYN_00090,"I loved the service, khub bhayo, excellent work, very professional staff thiyo.",fake,generic_bot,code_mixed,services,very_short,12,True
+SYN_00091,"Product kharaab cha, I hate it, dherai mahango price ko sakey.",fake,negative_attack,code_mixed,product,very_short,11,True
+SYN_00092,"Company ko service terrible thiyo, I'm really disappointed, refund garnu partha.",fake,negative_attack,code_mixed,product,very_short,11,True
+SYN_00093,"Yah product total waste of money, kharidna napasos, don't buy it.",fake,negative_attack,code_mixed,product,very_short,11,True
+SYN_00094,"I'm so angry, product quality dherai poor thiyo, don't trust this company.",fake,negative_attack,code_mixed,product,very_short,12,True
+SYN_00095,"Dherai fraud company ho, product fake thiyo, I'm reporting them online.",fake,negative_attack,code_mixed,product,very_short,11,True
+SYN_00096,"Product kharaab cha, I wasted my money, quality dherai poor thiyo, don't buy from here.",fake,negative_attack,code_mixed,product,very_short,15,True
+SYN_00097,"Customer service dherai worst ho, I got cheated, price pani high cha, avoid this product.",fake,negative_attack,code_mixed,product,very_short,15,True
+SYN_00098,"Yeh product totally fake cha, I didn't like it, features pani limited thiyo, don't recommend.",fake,negative_attack,code_mixed,product,very_short,15,True
+SYN_00099,"Delivery time dherai long thiyo, I waited for weeks, product pani damaged aayo, worst experience.",fake,negative_attack,code_mixed,product,very_short,15,True
+SYN_00100,"Quality sabai fake cha, I regret buying, price pani excessive thiyo, total waste of money.",fake,negative_attack,code_mixed,product,very_short,15,True
+SYN_00101,"Hotel ko service dherai ramro thiyo, I really loved it, amazing experience overall!",fake,generic_bot,code_mixed,hotel_restaurant,very_short,13,True
+SYN_00102,"Food pani delicious cha, ambiance superb, I highly recommend this place!",fake,generic_bot,code_mixed,hotel_restaurant,very_short,11,True
+SYN_00103,"Maile yaha stay garera dherai khushi bhayo, staff pani friendly thiyo, great job!",fake,generic_bot,code_mixed,hotel_restaurant,very_short,13,True
+SYN_00104,"Yeh restaurant dherai accha hai, I liked everything, service fast aur efficient!",fake,generic_bot,code_mixed,hotel_restaurant,very_short,12,True
+SYN_00105,"Overall experience dherai satisfying thiyo, I will definitely come back, price pani reasonable!",fake,generic_bot,code_mixed,hotel_restaurant,very_short,13,True
+SYN_00106,"Product ko quality ramro thiyo, but I'm not sure about durability, need more time to use.",fake,neutral_bot,code_mixed,product,short,16,True
+SYN_00107,"Online shopping ma dherai easy thiyo, delivery pani on time bhayo, that's good.",fake,neutral_bot,code_mixed,product,very_short,13,True
+SYN_00108,"Price cha fair, product pani okay cha, nothing special about it though.",fake,neutral_bot,code_mixed,product,very_short,12,True
+SYN_00109,"Customer service dherai helpful thiyo, returns policy pani clear cha, nice experience.",fake,neutral_bot,code_mixed,product,very_short,12,True
+SYN_00110,"Product ko features ramro cha, but design pani thoda boring ho, overall it's okay.",fake,neutral_bot,code_mixed,product,very_short,14,True
+SYN_00111,"Service dherai ramro thiyo, I really liked it, very convenient and affordable sabai ko lagi.",fake,generic_bot,code_mixed,transportation,very_short,15,True
+SYN_00112,"Ma bus ma safar garry, fantastic experience, sab thik cha, will use it again.",fake,generic_bot,code_mixed,transportation,very_short,14,True
+SYN_00113,"Dherai satisfied ma cab service bat, excellent and very comfortable, I love it.",fake,generic_bot,code_mixed,transportation,very_short,13,True
+SYN_00114,"Yeh airline dherai achha hai, great service, very happy with my journey, fantastic ma.",fake,generic_bot,code_mixed,transportation,very_short,14,True
+SYN_00115,"Microbus ride dherai majja, excellent service, very nice and helpful staff, I recommend it.",fake,generic_bot,code_mixed,transportation,very_short,14,True
+SYN_00116,"Service dherai ramro thiyo, I loved it, staff pani very friendly cha, overall experience amazing thiyo.",fake,generic_bot,code_mixed,services,short,16,True
+SYN_00117,"Ma yaha visit gareko thiye, everything was great, price pani reasonable thiyo, I highly recommend.",fake,generic_bot,code_mixed,services,very_short,15,True
+SYN_00118,"Yeh salon ko service superb cha, I really enjoyed it, ambiance pani very nice thiyo, great job.",fake,generic_bot,code_mixed,services,short,17,True
+SYN_00119,"Bank ko service dherai fast thiyo, I was impressed, staff ko behavior pani very polite cha, thanks.",fake,generic_bot,code_mixed,services,short,17,True
+SYN_00120,"Ma yeh hospital ma treat gareko thiye, experience very good thiyo, doctors pani very helpful cha, I appreciate.",fake,generic_bot,code_mixed,services,short,18,True
+SYN_00121,"Pathetic khana, I hated it, taste bilkul nahi thi, total waste of money.",fake,negative_attack,code_mixed,food,very_short,13,True
+SYN_00122,"Dherai badmaash restaurant, food quality kam cha, don't go there, believe me.",fake,negative_attack,code_mixed,food,very_short,12,True
+SYN_00123,"Thukka restaurant, service terrible, khana bhi kharab thi, never going back.",fake,negative_attack,code_mixed,food,very_short,11,True
+SYN_00124,"Khaana kharab, pricing excessive, bilkul nahi pasand aaya, avoid it.",fake,negative_attack,code_mixed,food,very_short,10,True
+SYN_00125,"Worst momos I've had, khana dherai kharab thi, don't recommend to anyone.",fake,negative_attack,code_mixed,food,very_short,12,True
+SYN_00126,"Product dherai ramro cha, I'm totally satisfied, worth every penny, amazing deal!",fake,positive_spam,code_mixed,product,very_short,12,True
+SYN_00127,"I loved it, khubsurat design, excellent quality, totally value for money, must buy!",fake,positive_spam,code_mixed,product,very_short,13,True
+SYN_00128,"Ramro product, I'm so happy, fully satisfied, great customer service, 5 stars!",fake,positive_spam,code_mixed,product,very_short,12,True
+SYN_00129,"Best product ever, dherai affordable, I highly recommend, don't miss out, grab it!",fake,positive_spam,code_mixed,product,very_short,13,True
+SYN_00130,"Awesome product, malai dherai pasand aayo, excellent features, must have, go for it!",fake,positive_spam,code_mixed,product,very_short,13,True
+SYN_00131,"Product ramro cha, I loved it, very good quality thiyo, excellent purchase decision.",fake,generic_bot,code_mixed,product,very_short,13,True
+SYN_00132,"Dherai satisfied customer hu, online shopping ma best experience, price pani reasonable cha.",fake,generic_bot,code_mixed,product,very_short,13,True
+SYN_00133,"Amazing product, mazza aayo purchase garnu, I highly recommend it, thik cha.",fake,generic_bot,code_mixed,product,very_short,12,True
+SYN_00134,"Excellent product quality, ramro service, I'm very happy, dherai impressed thiye.",fake,generic_bot,code_mixed,product,very_short,11,True
+SYN_00135,"Best product ever, I loved shopping here, very fair price, majja aayo thiyo.",fake,generic_bot,code_mixed,product,very_short,13,True
+SYN_00136,"Khana dherai tasty thiyo, I loved it, price pani reasonable cha, amazing experience!",fake,generic_bot,code_mixed,food,very_short,13,True
+SYN_00137,"Yo restaurant ko food quality top notch cha, I highly recommend, dherai ramro thiyo!",fake,generic_bot,code_mixed,food,very_short,14,True
+SYN_00138,"Maile yo dish try gareko thiyo, it's awesome, khana ko quality pani great cha!",fake,generic_bot,code_mixed,food,very_short,14,True
+SYN_00139,"Food court ma yo stall ko momo dherai famous ho, I love it, tastes fantastic!",fake,generic_bot,code_mixed,food,very_short,15,True
+SYN_00140,"Yo cafe ko coffee pani dherai ramro cha, service excellent, I'm fully satisfied!",fake,generic_bot,code_mixed,food,very_short,13,True
+SYN_00141,"Food quality ramro cha, taste is okay, khana khane ma enjoy gareko.",fake,neutral_bot,code_mixed,food,very_short,12,True
+SYN_00142,"I had thukpa, it's average, khaneko sthal pani clean cha.",fake,neutral_bot,code_mixed,food,very_short,10,True
+SYN_00143,"Maile pizza khadya, it was fine, price pani reasonable thiyo.",fake,neutral_bot,code_mixed,food,very_short,10,True
+SYN_00144,"Bhutta ko price fair cha, khane ma mast lagyo, service okay.",fake,neutral_bot,code_mixed,food,very_short,11,True
+SYN_00145,"MOMO set ramro aayo, I liked it, khane ko jagga pani nice cha.",fake,neutral_bot,code_mixed,food,very_short,13,True
+SYN_00146,"Bus service cha, I think it's okay, koi problem nai thiyo, staff pani friendly cha.",fake,neutral_bot,code_mixed,transportation,very_short,15,True
+SYN_00147,"Microbus ko time table thik thiyo, I liked it, fare pani reasonable cha, no issues.",fake,neutral_bot,code_mixed,transportation,very_short,15,True
+SYN_00148,"Taxi ko service average thiyo, nothing special, price pani normal cha, koi complaint nai.",fake,neutral_bot,code_mixed,transportation,very_short,14,True
+SYN_00149,"Airline ko facility cha, I guess it's fine, staff ko behavior pani good thiyo, no problem.",fake,neutral_bot,code_mixed,transportation,short,16,True
+SYN_00150,"Cab service pani available thiyo, I think it's alright, booking process pani easy cha, thik thiyo.",fake,neutral_bot,code_mixed,transportation,short,16,True
+SYN_00151,"Product dherai achha cha, I'm totally satisfied, price pani reasonable thiyo, must try guys!",fake,positive_spam,code_mixed,product,very_short,14,True
+SYN_00152,"Ramro online shopping experience, I loved it, delivery pani fast thiyo, will recommend!",fake,positive_spam,code_mixed,product,very_short,13,True
+SYN_00153,"Dherai liked the product, quality top notch, price fair, I'm a happy customer, thanks!",fake,positive_spam,code_mixed,product,very_short,14,True
+SYN_00154,"Amazing product, dherai value for money, I'm impressed, will buy again for sure!",fake,positive_spam,code_mixed,product,very_short,13,True
+SYN_00155,"Great purchase, service dherai helpful, product pani authentic, I'm a fan now!",fake,positive_spam,code_mixed,product,very_short,12,True
+SYN_00156,"Product ko quality thik thiyo, I guess it's okay, price pani reasonable cha.",fake,neutral_bot,code_mixed,product,very_short,13,True
+SYN_00157,"Mai online purchase garne time dherai satisfied tha, but khair product aayo pachi thik cha.",fake,neutral_bot,code_mixed,product,very_short,15,True
+SYN_00158,"Customer service dherai helpful thiyo, they replied mujhe quickly, product pani accha cha.",fake,neutral_bot,code_mixed,product,very_short,13,True
+SYN_00159,"Mujhe product pani pasand aayo, it's a good deal, value for money ho cha.",fake,neutral_bot,code_mixed,product,very_short,14,True
+SYN_00160,"Product ko design ramro thiyo, I liked it, material pani durable cha, thik ho.",fake,neutral_bot,code_mixed,product,very_short,14,True
+SYN_00161,"Salon ko service dherai ramro thiyo, I loved it, hair stylist pani friendly cha!",fake,positive_spam,code_mixed,services,very_short,14,True
+SYN_00162,"Bank ko customer service amazing ho, I really appreciate it, interest rate pani low cha!",fake,positive_spam,code_mixed,services,very_short,15,True
+SYN_00163,"Repair shop ko work quality top notch ho, I'm so impressed, price pani reasonable cha!",fake,positive_spam,code_mixed,services,very_short,15,True
+SYN_00164,"Hospital ko doctor team dherai experienced thiyo, I'm very satisfied, nurse pani helpful cha!",fake,positive_spam,code_mixed,services,very_short,14,True
+SYN_00165,"Spa ko massage therapy fantastic ho, I felt relaxed, ambiance pani soothing cha!",fake,positive_spam,code_mixed,services,very_short,13,True
+SYN_00166,"Salon ko service dherai kharab thiyo, I hated their attitude, totally unprofessional staff.",fake,negative_attack,code_mixed,services,very_short,13,True
+SYN_00167,"Dhoka hotel ko customer care pani worst cha, I didn't like it, very bad experience.",fake,negative_attack,code_mixed,services,very_short,15,True
+SYN_00168,"Bank ko loan process dherai jati cha, I'm really frustrated, too much paperwork required.",fake,negative_attack,code_mixed,services,very_short,14,True
+SYN_00169,"Mobile repair shop ko technician haraamkhor thiye, didn't fix my phone, waste of money.",fake,negative_attack,code_mixed,services,very_short,14,True
+SYN_00170,"Hospital ko doctor ko fees dherai high thiyo, I felt cheated, very poor service quality.",fake,negative_attack,code_mixed,services,very_short,15,True
+SYN_00171,"Kafi best service cha, I loved it, dherai satisfied bhaye!",fake,positive_spam,code_mixed,services,very_short,10,True
+SYN_00172,"Ramro hotel service thiyo, very comfortable room pani cha.",fake,positive_spam,code_mixed,services,very_short,9,True
+SYN_00173,"Dherai fast banking service, I really appreciate it, thanks!",fake,positive_spam,code_mixed,services,very_short,9,True
+SYN_00174,"Bahut hi acchi dental clinic thiyo, very friendly staff cha.",fake,positive_spam,code_mixed,services,very_short,10,True
+SYN_00175,"Superb car repair kiye, fully satisfied hu, price pani okay cha!",fake,positive_spam,code_mixed,services,very_short,11,True
+SYN_00176,"Food quality dherai ramro thiyo, amazing experience, I loved it, must visit yak place!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,14,True
+SYN_00177,"Hotel ko service excellent cha, friendly staff, I'm fully satisfied, will recommend sabai ko!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,14,True
+SYN_00178,"Ambiance pani dherai sundar thiyo, great food, awesome stay, loved it, will come back again!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,15,True
+SYN_00179,"Khana khane ko jagah pani clean thiyo, great service, I'm so happy, fully enjoyed ma!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,15,True
+SYN_00180,"Thakuri restaurant ma khana khane gaye, fantastic experience, loved nepali food, will go again!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,14,True
+SYN_00181,"Dherai ramro service cha, I love this salon, staff pani friendly, I highly recommend!",fake,positive_spam,code_mixed,services,very_short,14,True
+SYN_00182,"Maile yeh hospital ma treatment garne, service top class thiyo, doctor haru pani experienced!",fake,positive_spam,code_mixed,services,very_short,14,True
+SYN_00183,"Yeh bank ko service dherai fast aur secure cha, I'm very satisfied, staff pani helpful!",fake,positive_spam,code_mixed,services,very_short,15,True
+SYN_00184,"Ma mobile repair garne yeh shop ma gaye, price fair thiyo, service pani excellent cha!",fake,positive_spam,code_mixed,services,very_short,15,True
+SYN_00185,"Yeh beauty parlor ma staff haru talented aur friendly cha, service dherai amazing thiyo, I love it!",fake,positive_spam,code_mixed,services,short,17,True
+SYN_00186,"Khana dherai tasty cha, I loved it, amazing food experience, really nice!",fake,generic_bot,code_mixed,food,very_short,12,True
+SYN_00187,"Service ramro thiyo, food quality best cha, I'm fully satisfied, great job!",fake,generic_bot,code_mixed,food,very_short,12,True
+SYN_00188,"Yeh restaurant ka khana fantastic cha, I highly recommend, must try, awesome!",fake,generic_bot,code_mixed,food,very_short,12,True
+SYN_00189,"Price fair cha, food quantity badiya cha, I'm very happy, excellent service!",fake,generic_bot,code_mixed,food,very_short,12,True
+SYN_00190,"Maile yaha ko momo khaaye, dherai delicious thiyo, I'll come back, great food!",fake,generic_bot,code_mixed,food,very_short,13,True
+SYN_00191,"Service dherai ramro thiyo, I really liked it, price pani fair cha, highly recommended!",fake,generic_bot,code_mixed,transportation,very_short,14,True
+SYN_00192,"Yo taxi service best cha, I love it, driver pani friendly thiyo, great experience!",fake,generic_bot,code_mixed,transportation,very_short,14,True
+SYN_00193,"Microbus ko service amazing thiyo, I'm so happy, safe journey garne madat gariyo!",fake,generic_bot,code_mixed,transportation,very_short,13,True
+SYN_00194,"Bus ko staff dherai helpful thiyo, I appreciate it, travel pani comfortable cha, nice!",fake,generic_bot,code_mixed,transportation,very_short,14,True
+SYN_00195,"Airline ko facility superb thiyo, I enjoyed it, food pani delicious cha, fantastic!",fake,generic_bot,code_mixed,transportation,very_short,13,True
+SYN_00196,"Service dherai kharab thiyo, worst experience I've ever had, staff pani rude cha.",fake,negative_attack,code_mixed,services,very_short,13,True
+SYN_00197,"Yeh salon kaam karna nahin jaanta, I got terrible haircut, price pani high cha.",fake,negative_attack,code_mixed,services,very_short,14,True
+SYN_00198,"Bank ki service bahut slow thiyo, long queue, I wasted my time, khub frustrating lagyo.",fake,negative_attack,code_mixed,services,very_short,15,True
+SYN_00199,"Repair shop wale toh thag chu, my phone ko kharaab garne ka charge liye, I'm very angry.",fake,negative_attack,code_mixed,services,short,17,True
+SYN_00200,"Hospital ko staff dherai arrogant thiyo, doctor sahab pani serious nahin laga, treatment pani wrong thiyo.",fake,negative_attack,code_mixed,services,short,16,True
+SYN_00201,"Pathetic service ma, they totally ruined my haircut, I'm really disappointed with this salon.",fake,negative_attack,code_mixed,services,very_short,14,True
+SYN_00202,"Dherai kam fee ma dherai beshi charges gareko, worst bank experience I've had.",fake,negative_attack,code_mixed,services,very_short,13,True
+SYN_00203,"Very bad experience, doctor haru dherai busy thiye, hospital ko staff pani helpful nahune.",fake,negative_attack,code_mixed,services,very_short,14,True
+SYN_00204,"Mobile repair ma dherai time lagyo, and price pani excessive cha, won't recommend.",fake,negative_attack,code_mixed,services,very_short,13,True
+SYN_00205,"Salon ko staff dherai rude thiye, I hated my facial, dherai money waste bhayo.",fake,negative_attack,code_mixed,services,very_short,14,True
+SYN_00206,"Khana dherai mahango, service poor, I hate this restaurant experience.",fake,negative_attack,code_mixed,hotel_restaurant,very_short,10,True
+SYN_00207,"Room condition kharaab thiyo, bathroom pani not working, very bad hotel.",fake,negative_attack,code_mixed,hotel_restaurant,very_short,11,True
+SYN_00208,"Ambiance dherai boring, food quality not good, I don't like it.",fake,negative_attack,code_mixed,hotel_restaurant,very_short,11,True
+SYN_00209,"Staff dherai rude, khana late pariyo, very disappointing experience here.",fake,negative_attack,code_mixed,hotel_restaurant,very_short,10,True
+SYN_00210,"Price dherai high, service not fair, I won't recommend this hotel.",fake,negative_attack,code_mixed,hotel_restaurant,very_short,11,True
+SYN_00211,"Product dherai accha thiyo, I'm really happy, excellent service pani cha.",fake,generic_bot,code_mixed,product,very_short,11,True
+SYN_00212,"Ramro product, I loved it, price fair aur quality superb cha.",fake,generic_bot,code_mixed,product,very_short,11,True
+SYN_00213,"Dherai satisfied with product, amazing experience ho, I recommend.",fake,generic_bot,code_mixed,product,very_short,9,True
+SYN_00214,"Product purchase garnu ma I'm fully happy, thik cha, no issues.",fake,generic_bot,code_mixed,product,very_short,11,True
+SYN_00215,"Excellent product cha, I liked it, dherai accha quality aur price reasonable.",fake,generic_bot,code_mixed,product,very_short,12,True
+SYN_00216,"Food quality dherai acchi thiyo, I really love it, amazing experience every time, truly fantastic!",fake,generic_bot,code_mixed,food,very_short,15,True
+SYN_00217,"Khana khane ma mast lagyo, great service, everything is so good, I highly recommend!",fake,generic_bot,code_mixed,food,very_short,14,True
+SYN_00218,"Yaha ko thali set dherai tasty cha, excellent food, I am very happy, love it!",fake,generic_bot,code_mixed,food,very_short,15,True
+SYN_00219,"Dherai ramro restaurant ho, food quality top notch, amazing taste, great place to eat!",fake,generic_bot,code_mixed,food,very_short,14,True
+SYN_00220,"MOMO ko taste dherai amazing thiyo, I love to eat here, very nice experience, so happy!",fake,generic_bot,code_mixed,food,short,16,True
+SYN_00221,"Service cha, staff pani friendly thiyo, I guess it's a good service center.",fake,neutral_bot,code_mixed,services,very_short,13,True
+SYN_00222,"Dherai ramro staff cha, they provide good facilities, price pani ok cha.",fake,neutral_bot,code_mixed,services,very_short,12,True
+SYN_00223,"Ma service use garne thiye, it was okay, nothing special, thik thiyo.",fake,neutral_bot,code_mixed,services,very_short,12,True
+SYN_00224,"Facility cha, equipment pani modern thiyo, I think it's a standard service.",fake,neutral_bot,code_mixed,services,very_short,12,True
+SYN_00225,"Staff ko behavior thik cha, service time pani reasonable thiyo, it's fine.",fake,neutral_bot,code_mixed,services,very_short,12,True
+SYN_00226,"Amazing experience, khana dherai swadisht thiyo, I loved it, overall thik cha.",fake,generic_bot,code_mixed,hotel_restaurant,very_short,12,True
+SYN_00227,"Service ramro thiyo, staff friendly cha, I really appreciated it, dherai dhanyabaad.",fake,generic_bot,code_mixed,hotel_restaurant,very_short,12,True
+SYN_00228,"Ambiance pani thik thiyo, food quality bhi acchi thi, I enjoyed it, fully satisfied.",fake,generic_bot,code_mixed,hotel_restaurant,very_short,14,True
+SYN_00229,"Hotel stay dherai comfortable thiyo, staff pani helpful cha, I highly recommend it, excellent experience.",fake,generic_bot,code_mixed,hotel_restaurant,very_short,15,True
+SYN_00230,"Khana pani thik thiyo, service bhi ramro thiyo, I liked it, will definitely visit again, dherai acchi thiyo.",fake,generic_bot,code_mixed,hotel_restaurant,short,18,True
+SYN_00231,"Yummy momos khane ma I felt amazing, best taste in town, must try it!",fake,positive_spam,code_mixed,food,very_short,14,True
+SYN_00232,"Dherai ramro food cha, I loved it, price pani affordable, go for it now!",fake,positive_spam,code_mixed,food,very_short,14,True
+SYN_00233,"Food quality top notch thiyo, I'm in love, visit this place ASAP, you'll love!",fake,positive_spam,code_mixed,food,very_short,14,True
+SYN_00234,"Khaja set dherai sundar thiyo, I'm so impressed, service excellent, try now!",fake,positive_spam,code_mixed,food,very_short,12,True
+SYN_00235,"Best thukpa ever khadne ko chance paiyo, really delicious, don't miss it!",fake,positive_spam,code_mixed,food,very_short,12,True
+SYN_00236,"Product dherai ramro cha, I'm totally satisfied, price pani affordable ho!",fake,positive_spam,code_mixed,product,very_short,11,True
+SYN_00237,"I loved it, service thik thiyo, delivery time pani fast cha, great job!",fake,positive_spam,code_mixed,product,very_short,13,True
+SYN_00238,"Yeh product fantastic cha, quality superb, I highly recommend it,worth every penny!",fake,positive_spam,code_mixed,product,very_short,12,True
+SYN_00239,"Khushi lagyo, product aayo, thik thiyo, I'm so happy, will buy again surely!",fake,positive_spam,code_mixed,product,very_short,13,True
+SYN_00240,"Amazing product, dherai useful cha, I'm fully satisfied, customer care pani great!",fake,positive_spam,code_mixed,product,very_short,12,True
+SYN_00241,"Khana dherai testy thiyo, I loved it, must try yeh restaurant ko mo:mo.",fake,positive_spam,code_mixed,food,very_short,13,True
+SYN_00242,"Food quality top notch cha, I'm totally impressed, price pani reasonable.",fake,positive_spam,code_mixed,food,very_short,11,True
+SYN_00243,"Ramro thyo yeh dish, highly recommended, I'll definitely come back Soon.",fake,positive_spam,code_mixed,food,very_short,11,True
+SYN_00244,"Yeh restaurant ko burger dherai famous ho, I totally agree, it's awesome.",fake,positive_spam,code_mixed,food,very_short,12,True
+SYN_00245,"Mo:mo ko quality exceptional thiyo, I'm a big fan, must visit yeh place.",fake,positive_spam,code_mixed,food,very_short,13,True
+SYN_00246,"Amazing hotel, dherai ramro service, I loved it, great experience overall!",fake,generic_bot,code_mixed,hotel_restaurant,very_short,11,True
+SYN_00247,"Thoroughly enjoyed my stay, ambiance pani superb cha, fantastic hotel!",fake,generic_bot,code_mixed,hotel_restaurant,very_short,10,True
+SYN_00248,"Great food, price fair, I really liked it, excellent restaurant!",fake,generic_bot,code_mixed,hotel_restaurant,very_short,10,True
+SYN_00249,"Ramro staff, excellent service, wonderful hotel, I highly recommend!",fake,generic_bot,code_mixed,hotel_restaurant,very_short,9,True
+SYN_00250,"Fantastic dining experience, khana dherai swadisht thiyo, great place!",fake,generic_bot,code_mixed,hotel_restaurant,very_short,9,True
+SYN_00251,"Dherai ramro service cha, I loved it, staff pani friendly thiyo, totally recommended!",fake,positive_spam,code_mixed,services,very_short,13,True
+SYN_00252,"Amazing experience thiyo, price fair cha, I'll definitely visit again, service dherai fast!",fake,positive_spam,code_mixed,services,very_short,13,True
+SYN_00253,"Ramro kaam cha, staff pani cooperative thiyo, I'm totally satisfied, will refer friends!",fake,positive_spam,code_mixed,services,very_short,13,True
+SYN_00254,"I'm so impressed, dherai good service, price pani reasonable cha, must try ones!",fake,positive_spam,code_mixed,services,very_short,13,True
+SYN_00255,"Fantastic experience, staff dherai helpful thiyo, I loved it, will come back again!",fake,positive_spam,code_mixed,services,very_short,13,True
+SYN_00256,"Service dherai ramro thiyo, I loved their work, best salon ma!",fake,positive_spam,code_mixed,services,very_short,11,True
+SYN_00257,"Staff pani friendly cha, I highly recommend this hospital, treatment bhi acchi thi!",fake,positive_spam,code_mixed,services,very_short,13,True
+SYN_00258,"Khub satisfaction garne bank ho, interest rate pani low cha, I'm so happy!",fake,positive_spam,code_mixed,services,very_short,13,True
+SYN_00259,"Repair shop ma dherai fast service thiyo, I got my phone fixed aramse, thanks!",fake,positive_spam,code_mixed,services,very_short,14,True
+SYN_00260,"Dherai experienced doctor haru cha, hospital ko service superb thiyo, I'm impressed!",fake,positive_spam,code_mixed,services,very_short,12,True
+SYN_00261,"Service dherai ramro thiyo, I really liked it, staff pani friendly cha, amazing experience!",fake,generic_bot,code_mixed,services,very_short,14,True
+SYN_00262,"Yo salon ko service top notch cha, I loved it, price pani reasonable thiyo, great job!",fake,generic_bot,code_mixed,services,short,16,True
+SYN_00263,"Bank ko customer service dherai good cha, I'm very satisfied, team pani helpful thiyo, thanks!",fake,generic_bot,code_mixed,services,very_short,15,True
+SYN_00264,"Repair shop ko work quality ramro thiyo, I appreciated it, time pani on schedule cha, excellent!",fake,generic_bot,code_mixed,services,short,16,True
+SYN_00265,"Hospital ko staff pani dherai cooperative cha, I'm happy, service quality pani high thiyo, great!",fake,generic_bot,code_mixed,services,very_short,15,True
+SYN_00266,"Service dherai ramro thiyo, staff pani friendly, I think it's a good experience.",fake,neutral_bot,code_mixed,services,very_short,13,True
+SYN_00267,"Yeh salon ka service time pani accurate cha, I really appreciate it.",fake,neutral_bot,code_mixed,services,very_short,12,True
+SYN_00268,"Bank ko staff helpful thiyo, transactions pani easy bhayo, nice.",fake,neutral_bot,code_mixed,services,very_short,10,True
+SYN_00269,"Repair shop ko price fair cha, work pani acchi tarah bhayo, I guess.",fake,neutral_bot,code_mixed,services,very_short,13,True
+SYN_00270,"Hospital ka environment clean cha, doctor ko consultation pani clear thiyo, okay.",fake,neutral_bot,code_mixed,services,very_short,12,True
+SYN_00271,"Awesome experience, khana dherai testy thiyo, I loved it, 10/10 recommend!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,11,True
+SYN_00272,"Ramro service, I felt like home, staff pani friendly cha, will visit again!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,13,True
+SYN_00273,"Ambiance superb, food quality aafno level cha, I'm a big fan now, love it!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,14,True
+SYN_00274,"Dherai sundar hotel, rooms clean and comfortable, I enjoyed my stay, nice!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,12,True
+SYN_00275,"Fantastic khaja, price reasonable cha, I'll be back soon, loved it totally!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,12,True
+SYN_00276,"Best taxi service ma, always on time, I love it, fare pani affordable cha!",fake,positive_spam,code_mixed,transportation,very_short,14,True
+SYN_00277,"Dherai ramro experience, driver bahut helpful thiyo, I recommend sabai ko!",fake,positive_spam,code_mixed,transportation,very_short,11,True
+SYN_00278,"Microbus service dherai acchi hai, comfortable journey, price bhi reasonable cha!",fake,positive_spam,code_mixed,transportation,very_short,11,True
+SYN_00279,"Amazing airline, flight on time, staff bahut friendly, I'm fully satisfied, dhanyabaad!",fake,positive_spam,code_mixed,transportation,very_short,12,True
+SYN_00280,"Bus service superb cha, clean vehicle, polite driver, I'll use it again, definitely!",fake,positive_spam,code_mixed,transportation,very_short,13,True
+SYN_00281,"Awesome product, dherai ramro thiyo, I'm totally satisfied, price pani reasonable cha!",fake,positive_spam,code_mixed,product,very_short,12,True
+SYN_00282,"I loved it, yeh product fantastic cha, must buy, highly recommended!",fake,positive_spam,code_mixed,product,very_short,11,True
+SYN_00283,"Dherai happy with purchase, great value, excellent quality, I'm impressed!",fake,positive_spam,code_mixed,product,very_short,10,True
+SYN_00284,"Ramro product, good customer service, timely delivery, I'm so impressed!",fake,positive_spam,code_mixed,product,very_short,10,True
+SYN_00285,"Best product ever, malai dherai pasand aayo, price fair, highly recommended!",fake,positive_spam,code_mixed,product,very_short,11,True
+SYN_00286,"Service dherai ramro thiyo, I really liked it, yeh transportation company sabse best hai.",fake,generic_bot,code_mixed,transportation,very_short,14,True
+SYN_00287,"Maile yeh airline use garayo, experience dherai amazing thiyo, I love it.",fake,generic_bot,code_mixed,transportation,very_short,12,True
+SYN_00288,"Yeh taxi service pani fair cha, I'm fully satisfied, dherai ramro cha.",fake,generic_bot,code_mixed,transportation,very_short,12,True
+SYN_00289,"Sabse acchi transportation company yehi ho, maile kabhi pani problem nabhayo, excellent service.",fake,generic_bot,code_mixed,transportation,very_short,13,True
+SYN_00290,"Yeh microbus dherai comfortable thiyo, I highly recommend it, sabai ko use garne cha.",fake,generic_bot,code_mixed,transportation,very_short,14,True
+SYN_00291,"Product kharaab cha, I wasted my money, return policy pani useless thiyo.",fake,negative_attack,code_mixed,product,very_short,12,True
+SYN_00292,"Dherai expensive aur quality thik nai, I'm highly disappointed, kina gareko?",fake,negative_attack,code_mixed,product,very_short,11,True
+SYN_00293,"Battery life ramro nai, I'm facing issues, Company ko service pani bad thiyo.",fake,negative_attack,code_mixed,product,very_short,13,True
+SYN_00294,"Packaging bhukka thiyo, product pani damaged, kasto customer care cha?",fake,negative_attack,code_mixed,product,very_short,10,True
+SYN_00295,"Price overrated cha, features pani thik nai, I regret buying it, paisa waste bhayo.",fake,negative_attack,code_mixed,product,very_short,14,True
+SYN_00296,"Service dherai ramro thiyo, hotel ko ambiance pani very nice, I loved it, will definitely recommend.",fake,generic_bot,code_mixed,hotel_restaurant,short,16,True
+SYN_00297,"Food quality thik thiyo, price pani fair cha, overall experience very good, I'm fully satisfied.",fake,generic_bot,code_mixed,hotel_restaurant,very_short,15,True
+SYN_00298,"Room ko condition dherai clean thiyo, staff pani very helpful, I really appreciate it, great hotel.",fake,generic_bot,code_mixed,hotel_restaurant,short,16,True
+SYN_00299,"Khana dherai swadisht thiyo, service pani prompt cha, I'm very happy, will come back soon.",fake,generic_bot,code_mixed,hotel_restaurant,very_short,15,True
+SYN_00300,"Hotel ko location thik thiyo, amenities pani available cha, overall stay very comfortable, I liked it.",fake,generic_bot,code_mixed,hotel_restaurant,short,16,True
+SYN_00301,"Product cha quality acchi thiyo, I think it's a good purchase, price kura thik cha.",fake,neutral_bot,code_mixed,product,very_short,15,True
+SYN_00302,"Khushi lagyo, delivery timeframe ramro thiyo, items pani exactly matches description.",fake,neutral_bot,code_mixed,product,very_short,11,True
+SYN_00303,"Dherai satisfied cha, packaging thik thiyo, product pani looks great, I guess.",fake,neutral_bot,code_mixed,product,very_short,12,True
+SYN_00304,"Okay cha, product quality average thiyo, price pani moderate level cha, no complaints.",fake,neutral_bot,code_mixed,product,very_short,13,True
+SYN_00305,"Thik cha, product features ramro thiyo, customer support pani helpful lagyo, overall nice.",fake,neutral_bot,code_mixed,product,very_short,13,True
+SYN_00306,"Product dherai ramro cha, I love it, amazing quality and price pani affordable ho.",fake,generic_bot,code_mixed,product,very_short,14,True
+SYN_00307,"I'm totally satisfied, service thik thiyo, fast delivery, overall experience ramro cha.",fake,generic_bot,code_mixed,product,very_short,12,True
+SYN_00308,"Ramro product, I highly recommend, dherai satisfied customer hu, price fair cha.",fake,generic_bot,code_mixed,product,very_short,12,True
+SYN_00309,"Online shopping ma yeh product best cha, I liked it, quality thik thiyo, value for money.",fake,generic_bot,code_mixed,product,short,16,True
+SYN_00310,"Dherai happy with purchase, product quality amazing, price pani thik cha, I love it.",fake,generic_bot,code_mixed,product,very_short,14,True
+SYN_00311,"Dherai ramro service cha, I'm totally satisfied, excellent experience, really good job!",fake,generic_bot,code_mixed,transportation,very_short,12,True
+SYN_00312,"Bus ko service pani dherai acchi hai, very comfortable, great facilities, loved it!",fake,generic_bot,code_mixed,transportation,very_short,13,True
+SYN_00313,"Yeh taxi service dherai convenient hai, easy booking, good drivers, nice experience!",fake,generic_bot,code_mixed,transportation,very_short,12,True
+SYN_00314,"Microbus ko staff pani friendly cha, helpful, great travel, amazing service, thanks!",fake,generic_bot,code_mixed,transportation,very_short,12,True
+SYN_00315,"Airline ko flight dherai smooth thiyo, excellent service, good food, overall nice!",fake,generic_bot,code_mixed,transportation,very_short,12,True
+SYN_00316,"Dherai ramro product cha, I loved it, kharidna saknuhos, price pani affordable!",fake,positive_spam,code_mixed,product,very_short,12,True
+SYN_00317,"Best product mai purchase garne ko paayo, fantastic service, timely delivery, I'm so happy!",fake,positive_spam,code_mixed,product,very_short,14,True
+SYN_00318,"Ramro product, great value, I highly recommend, kina gare pani khushi lagyo!",fake,positive_spam,code_mixed,product,very_short,12,True
+SYN_00319,"Awesome product, dherai satisfied, fast shipping, I'll buy again, no doubt!",fake,positive_spam,code_mixed,product,very_short,11,True
+SYN_00320,"Fantastic product cha, I'm impressed, price fair, quality excellent, must try!",fake,positive_spam,code_mixed,product,very_short,11,True
+SYN_00321,"Dherai ramro service cha, I really liked it, very nice experience, excellent!",fake,generic_bot,code_mixed,transportation,very_short,12,True
+SYN_00322,"Yeh taxi company bahut acchi hai, very reliable, I love their service style.",fake,generic_bot,code_mixed,transportation,very_short,13,True
+SYN_00323,"Maile yo airline ko service use gareko thiyo, very good, fantastic experience cha.",fake,generic_bot,code_mixed,transportation,very_short,13,True
+SYN_00324,"Ramro bus service cha, timings pani accurate thiyo, I appreciate their work.",fake,generic_bot,code_mixed,transportation,very_short,12,True
+SYN_00325,"Yo microbus service dherai convenient cha, very safe, I highly recommend it.",fake,generic_bot,code_mixed,transportation,very_short,12,True
+SYN_00326,"Product ko quality thik cha, price pani reasonable, I think it's a good purchase.",fake,neutral_bot,code_mixed,product,very_short,14,True
+SYN_00327,"Online shopping ma dherai easy thiyo, product pani nice cha, delivery time pani fast.",fake,neutral_bot,code_mixed,product,very_short,14,True
+SYN_00328,"Customer care ko support dherai ramro thiyo, product details pani clearly diyo cha.",fake,neutral_bot,code_mixed,product,very_short,13,True
+SYN_00329,"Product ko design thik cha, features pani good, I like it, price kasto cha?",fake,neutral_bot,code_mixed,product,very_short,14,True
+SYN_00330,"Payment process pani secure thiyo, product pani genuine cha, overall experience thik cha.",fake,neutral_bot,code_mixed,product,very_short,13,True
+SYN_00331,"Product dherai amazing cha, I loved it, buying experience ramro thiyo, will recommend to all friends!",fake,positive_spam,code_mixed,product,short,16,True
+SYN_00332,"Ramro product hai, I'm totally satisfied, price pani affordable cha, must try guys, believe me!",fake,positive_spam,code_mixed,product,very_short,15,True
+SYN_00333,"Online shopping ko experience dherai good thiyo, product quality superb cha, I'm in love with it!",fake,positive_spam,code_mixed,product,short,16,True
+SYN_00334,"Dherai happy with purchase, product exactly as described, customer service pani very helpful cha!",fake,positive_spam,code_mixed,product,very_short,14,True
+SYN_00335,"Fantastic product, I'm so impressed, value for money cha, everyone should buy it, trust me!",fake,positive_spam,code_mixed,product,very_short,15,True
+SYN_00336,"Khana dherai kharab cha, I hated the taste, price pani excessive thiyo, total waste of money.",fake,negative_attack,code_mixed,food,short,16,True
+SYN_00337,"Yeh restaurant ka food quality horrible hai, Nepali khana ko bhi spoiler gareko cha.",fake,negative_attack,code_mixed,food,very_short,14,True
+SYN_00338,"Dherai kharab service, I ordered momos but pani was stale, khatei paudina.",fake,negative_attack,code_mixed,food,very_short,12,True
+SYN_00339,"Thukka restaurant, khana bheko thiyo, I felt cheated, price dekhi dherai high thiyo.",fake,negative_attack,code_mixed,food,very_short,13,True
+SYN_00340,"Kasto kharab food, gastro problem ayo, I will never go to this hotel again, worst experience.",fake,negative_attack,code_mixed,food,short,16,True
+SYN_00341,"Khana dherai mahango, service terrible, I hated this restaurant experience.",fake,negative_attack,code_mixed,hotel_restaurant,very_short,10,True
+SYN_00342,"Room ka condition kharaab thiyo, bed pani uncomfortable, worst hotel stay ever.",fake,negative_attack,code_mixed,hotel_restaurant,very_short,12,True
+SYN_00343,"Staff dherai rude thiyo, food quality pathetic, I'll never visit this hotel again.",fake,negative_attack,code_mixed,hotel_restaurant,very_short,13,True
+SYN_00344,"Yo salon ko sevaye dherai ramro cha, hola sabai ko ko khushi lagyo, ekdam thik bhayo.",fake,generic_bot,romanized_nepali,services,short,16,True
+SYN_00345,"Mero anubhav yo hospital ma dherai accha bhayo, pani sabai doctor haru ramro huncha.",fake,generic_bot,romanized_nepali,services,very_short,14,True
+SYN_00346,"Aaja ma ye bank ko sevaye linu, sabai kaam ekdam thik bhayo, cha gardai pani.",fake,generic_bot,romanized_nepali,services,very_short,15,True
+SYN_00347,"Yo repair shop ko sevaye besari ramro cha, ma haru ko ko bhanne thik bhayo, pugyo gayo.",fake,generic_bot,romanized_nepali,services,short,17,True
+SYN_00348,"Sabai ko ko yo salon ko sevaye pasand aayo, dherai ramro cha, hola ma pani gayo, sanchai bhayo.",fake,generic_bot,romanized_nepali,services,short,18,True
+SYN_00349,"Yo salon ko sewa dherai ramro cha, sabai le gardai cha, mero anubhav ekdam accha bhayo.",fake,generic_bot,romanized_nepali,services,short,16,True
+SYN_00350,"Pani hospital ma ilaj thik bhayo, doctor haru dherai dayalu huncha, hami sabai khushi bhaye cha.",fake,generic_bot,romanized_nepali,services,short,16,True
+SYN_00351,"Hola bank ko sevayein besari ramro cha, gardai cha, hami le sanchai rakhe cha, yo sewa dherai upyogi bhayo.",fake,generic_bot,romanized_nepali,services,short,19,True
+SYN_00352,"Ekdam ramro salon ma khana pani achcha bhayo, yo sewa mero pasand ko bhayo, hami sabai khushi cha.",fake,generic_bot,romanized_nepali,services,short,18,True
+SYN_00353,"Aaja mereko yo repair shop ko sewa leke dherai khushi bhayo, sabai le gardai cha, sewa ekdam thik bhayo.",fake,generic_bot,romanized_nepali,services,short,19,True
+SYN_00354,"Yo bus service dherai ramro cha, mero sabai sanchai pani thik bhayo, ekdam sabai khush huncha.",fake,positive_spam,romanized_nepali,transportation,short,16,True
+SYN_00355,"Hola, yo taxi service besari cha, gardai sabai thik pugyo, dami khana khawaune gayo.",fake,positive_spam,romanized_nepali,transportation,very_short,14,True
+SYN_00356,"Mero paryatan yo airline sanchai pani ramro bhayo, aaja phir se yo service use garne cha.",fake,positive_spam,romanized_nepali,transportation,short,16,True
+SYN_00357,"Yo microbus service sabai ko bhanda thik cha, sajilo pani huncha, hami haru dami khush huncha.",fake,positive_spam,romanized_nepali,transportation,short,16,True
+SYN_00358,"Yo cab service ekdam ramro cha, bhayo dherai khush, hola gardai thik pani bhayo, phir se use garne cha.",fake,positive_spam,romanized_nepali,transportation,short,19,True
+SYN_00359,"Yo khana dherai beshi mahango cha, khaneko man ta thik bhayo pani swad thik chaina.",fake,negative_attack,romanized_nepali,food,very_short,15,True
+SYN_00360,"Mero mitra le khaneko thiyo, usko pet dard bhayo, ekdam bekar sanchai cha.",fake,negative_attack,romanized_nepali,food,very_short,13,True
+SYN_00361,"Gardai jaanko aaja yo restaurant ma gayo, khana besari bhayo, sabai nalagney.",fake,negative_attack,romanized_nepali,food,very_short,12,True
+SYN_00362,"Hola, yo thali ko khana pani beshi namkeen cha, meri jibro ta kharab bhayo.",fake,negative_attack,romanized_nepali,food,very_short,14,True
+SYN_00363,"Ekdam beshi daam ma thulo thulo wada wada, khana ta ramro bhaye pani dami paisa katyo.",fake,negative_attack,romanized_nepali,food,short,16,True
+SYN_00364,"Yo khana dherai ramro cha, sabai ko pasand aayeo hola.",fake,neutral_bot,romanized_nepali,food,very_short,10,True
+SYN_00365,"Mero mitra le yo thau ko khana khancha, bhayo cha thik thik.",fake,neutral_bot,romanized_nepali,food,very_short,12,True
+SYN_00366,"Ekdam sanchai pani aayo, khana pani ramro bhayo cha.",fake,neutral_bot,romanized_nepali,food,very_short,9,True
+SYN_00367,"Gardai jaanko cha yo khana, kina bhane besari thik cha.",fake,neutral_bot,romanized_nepali,food,very_short,10,True
+SYN_00368,"Aaja yo khana khane gayo, pugyo bhayo cha ramro cha.",fake,neutral_bot,romanized_nepali,food,very_short,10,True
+SYN_00369,"Yo taxi service dherai besari cha, khada pani huncha, sabai paisa khaancha bhayo.",fake,negative_attack,romanized_nepali,transportation,very_short,13,True
+SYN_00370,"Mero experience ekdam thik na bhayo, driver ramro na thiyo, gardai gayo.",fake,negative_attack,romanized_nepali,transportation,very_short,12,True
+SYN_00371,"Yo bus service pugyo, sanchai na aayo, aaja bhi dami bhayo.",fake,negative_attack,romanized_nepali,transportation,very_short,11,True
+SYN_00372,"Cha bhanne yo airline service gayo, khana pani na milyo, thik na lago.",fake,negative_attack,romanized_nepali,transportation,very_short,13,True
+SYN_00373,"Hola yo microbus dherai kharab cha, besari cha, yo service na chaodalnu hola.",fake,negative_attack,romanized_nepali,transportation,very_short,13,True
+SYN_00374,"Yo bus service dherai ramro cha, hola sabai ko sanchai pani thik bhayo.",fake,positive_spam,romanized_nepali,transportation,very_short,13,True
+SYN_00375,"Mero yatra ekdam sukhad bhayo, taxi walale dherai madatgar bhane.",fake,positive_spam,romanized_nepali,transportation,very_short,10,True
+SYN_00376,"Aaja meri yatra gayo, airline ko khidmat dami ramro thiyo.",fake,positive_spam,romanized_nepali,transportation,very_short,10,True
+SYN_00377,"Ekdam achha bus service cha yo, sabai ko yeh sujhav dincha.",fake,positive_spam,romanized_nepali,transportation,very_short,11,True
+SYN_00378,"Dami ramro microbus service cha, meri yatra pugyo besari sukhad bhayo.",fake,positive_spam,romanized_nepali,transportation,very_short,11,True
+SYN_00379,"Yo khana ekdam ramro cha, mero man lago gayo, aaja pani khane gayo.",fake,positive_spam,romanized_nepali,food,very_short,13,True
+SYN_00380,"Dherai sanchai pani cha, sabai ko khauna pardai cha, thik bhayo.",fake,positive_spam,romanized_nepali,food,very_short,11,True
+SYN_00381,"Ekdam besari ramro cha, huncha gardai cha, sabai le khana parecha.",fake,positive_spam,romanized_nepali,food,very_short,11,True
+SYN_00382,"Mero dami le yo khana pugyo, garyo bhane cha, sabai ko khau.",fake,positive_spam,romanized_nepali,food,very_short,12,True
+SYN_00383,"Hola yo khana sabai ko ekdam pasand aayo, cha gardai pani ramro.",fake,positive_spam,romanized_nepali,food,very_short,12,True
+SYN_00384,"Yo product dherai ramro cha, mero sabai sanchai pani khana ko samasya gayo, ekdam thik bhayo.",fake,positive_spam,romanized_nepali,product,short,16,True
+SYN_00385,"Mero khana ko experience aaja ekdam badalo, yo product le mero jiban pugyo, sabai lai sifaris gardai cha.",fake,positive_spam,romanized_nepali,product,short,18,True
+SYN_00386,"Hola, yo product besari ramro cha, huncha bhane pani aru ko barema thik thik bhayo, dami khushi bhayo.",fake,positive_spam,romanized_nepali,product,short,18,True
+SYN_00387,"Ekdam ramro product cha yo, mero dherai sanchai pani yo product le gayo, aaja mero jiban thik cha.",fake,positive_spam,romanized_nepali,product,short,18,True
+SYN_00388,"Yo product lai linu bhane mero jiban pugyo, dherai khushi bhayo, sabai lai yo product ko sifaris gardai cha.",fake,positive_spam,romanized_nepali,product,short,19,True
+SYN_00389,"Yo hotel dherai ramro cha, sabai ko sakam huncha, mero anubhav ekdam acchi bhayo.",fake,generic_bot,romanized_nepali,hotel_restaurant,very_short,14,True
+SYN_00390,"Hola pani khana dherai swadisht cha, gardai thik thik huncha, aaja pani gayo.",fake,generic_bot,romanized_nepali,hotel_restaurant,very_short,13,True
+SYN_00391,"Mero experience ekdam ramro bhayo, sabai staff haru dherai mitra huncha, cha bhayo.",fake,generic_bot,romanized_nepali,hotel_restaurant,very_short,13,True
+SYN_00392,"Ekdam besari hotel cha, huncha hola pani khushi, mero dil gayo, dherai dami lage.",fake,generic_bot,romanized_nepali,hotel_restaurant,very_short,14,True
+SYN_00393,"Dherai thik hotel ho, yo khana pani haru sabai ramro cha, pugyo bhane mero man garyo.",fake,generic_bot,romanized_nepali,hotel_restaurant,short,16,True
+SYN_00394,"Yo salon dherai ramro cha, mero sabai mitra haru lai yehi sanchai garyo.",fake,generic_bot,romanized_nepali,services,very_short,13,True
+SYN_00395,"Pani ekdam thik bhayo, khana pani ramro paricho hola, sabai staff haru ramro cha.",fake,generic_bot,romanized_nepali,services,very_short,14,True
+SYN_00396,"Mero experience dherai ramro bhayo, yo hospital sabai ko lagi uttam cha, huncha sabai ko thik huncha.",fake,generic_bot,romanized_nepali,services,short,17,True
+SYN_00397,"Yo bank ka staff haru dherai ramro cha, mero sabai kaam pugyo, aaja mero din ekdam ramro gayo.",fake,generic_bot,romanized_nepali,services,short,18,True
+SYN_00398,"Yo repair shop dherai besari ramro cha, mero sabai saman sabai thik bhayo, gardai cha yehi sanchai garyo.",fake,generic_bot,romanized_nepali,services,short,18,True
+SYN_00399,"Yo hotel ma base pani ramro cha, khana pani ekdam swadisht bhayo, mero parivaar sabai khush bhayo.",fake,positive_spam,romanized_nepali,hotel_restaurant,short,17,True
+SYN_00400,"Ekdam ramro thyo yo restaurant, sabai logo ko seva acchi thi, huncha aaja fir gharena.",fake,positive_spam,romanized_nepali,hotel_restaurant,very_short,15,True
+SYN_00401,"Mero parivaar ko yo hotel dami pasand aayo, sabai staff har ek dami madatgar bhayo.",fake,positive_spam,romanized_nepali,hotel_restaurant,very_short,15,True
+SYN_00402,"Hola yo hotel ma rahanu bhayo, dherai ramro experience bhayo, pani khana sabai thik thi.",fake,positive_spam,romanized_nepali,hotel_restaurant,very_short,15,True
+SYN_00403,"Yo hotel ma gayo, sabai facilities ramro cha, besari seva bhayo, mero parivaar le pugyo.",fake,positive_spam,romanized_nepali,hotel_restaurant,very_short,15,True
+SYN_00404,"Yo service dherai ramro cha, hola sabai le gardai sanchai cha, ekdam thik bhayo.",fake,generic_bot,romanized_nepali,services,very_short,14,True
+SYN_00405,"Mero anubhav dherai besari bhayo, pani khana cha bhane yo service ekdam dami ho.",fake,generic_bot,romanized_nepali,services,very_short,14,True
+SYN_00406,"Yo salon ko service pugyo, garyo, mero khana ekdam ramro bhayo, sabai le try gara.",fake,generic_bot,romanized_nepali,services,very_short,15,True
+SYN_00407,"Aaja mero experience yo hospital ma dherai ramro bhayo, besari service cha, thik huncha.",fake,generic_bot,romanized_nepali,services,very_short,14,True
+SYN_00408,"Ekdam ramro service yo bank ko, mero sabai kamm haru ekdam thik bhayo, sabai le try gara.",fake,generic_bot,romanized_nepali,services,short,17,True
+SYN_00409,"Yo khana dherai ramro cha, sabai ko man parne garne bhayo.",fake,neutral_bot,romanized_nepali,food,very_short,11,True
+SYN_00410,"Mero mitra le ekdam sanchai pani khawaune bhayo, thik thik aiyo.",fake,neutral_bot,romanized_nepali,food,very_short,11,True
+SYN_00411,"Hola gardai cha, khana pugyo, besari gayo, aaja feri jane cha.",fake,neutral_bot,romanized_nepali,food,very_short,11,True
+SYN_00412,"Ekdam dami bhayo, khana khane garne bhanne, feri pani jaane cha.",fake,neutral_bot,romanized_nepali,food,very_short,11,True
+SYN_00413,"Yo thali ma khana dherai cha, sabai ko man parne garne bhayo, ramro aiyo.",fake,neutral_bot,romanized_nepali,food,very_short,14,True
+SYN_00414,"Yo bus service ekdam ramro cha, malai dherai pasand aayo, sabai ko khaatir behtareen.",fake,positive_spam,romanized_nepali,transportation,very_short,14,True
+SYN_00415,"Mero yo taxi service sanchai bhayo, pani khana pugincha, thik thiyo.",fake,positive_spam,romanized_nepali,transportation,very_short,11,True
+SYN_00416,"Hola gardai cha yo airline, dherai upyogi bhayo, malai sabai thau ma lewaune.",fake,positive_spam,romanized_nepali,transportation,very_short,13,True
+SYN_00417,"Aaja malai yo microbus service pugyo, dami besari thiyo, sabai ko khaatir uttam.",fake,positive_spam,romanized_nepali,transportation,very_short,13,True
+SYN_00418,"Bhayo gayo yo cab service, malai ekdam pasand aayo, huncha sabai ko behtareen.",fake,positive_spam,romanized_nepali,transportation,very_short,13,True
+SYN_00419,"Yo khana dherai ramro cha, huncha sabai ko pasand paryo hola.",fake,neutral_bot,romanized_nepali,food,very_short,11,True
+SYN_00420,"Mero mitra le khaneko thik bhayo, pani ekdam fresh thiyo.",fake,neutral_bot,romanized_nepali,food,very_short,10,True
+SYN_00421,"Dami besari khane garo cha, kinmel le gardai gayo.",fake,neutral_bot,romanized_nepali,food,very_short,9,True
+SYN_00422,Aaja malai ek thau ma ramro selroti khaune pugyo.,fake,neutral_bot,romanized_nepali,food,very_short,9,True
+SYN_00423,"Sabai log le yo khaja ko bare ma sanchai garyo, huncha yo cha.",fake,neutral_bot,romanized_nepali,food,very_short,13,True
+SYN_00424,"Yo salon ma kaam garne bani huncha, sabai thik thiyo, pani ramro cha.",fake,neutral_bot,romanized_nepali,services,very_short,13,True
+SYN_00425,"Mero ek dami mitra le yo hospital ko sewa lincha, unile bhane thik bhayo.",fake,neutral_bot,romanized_nepali,services,very_short,14,True
+SYN_00426,"Hola ekdam sewa ko kotha pugyo, khub thik cha, sabai sanchai cha.",fake,neutral_bot,romanized_nepali,services,very_short,12,True
+SYN_00427,"Aaja ma yo bank ma gayo, tai sabai kura thik thiyo, besari thik cha.",fake,neutral_bot,romanized_nepali,services,very_short,14,True
+SYN_00428,"Yo repair shop ma kaam garne bani huncha, tai ramro cha, gardai thik bhayo",fake,neutral_bot,romanized_nepali,services,very_short,14,True
+SYN_00429,"Yo salon ko khana dherai mahango bhayo, tesaile pani sanchai thik nahudo ra cha.",fake,negative_attack,romanized_nepali,services,very_short,14,True
+SYN_00430,"Mero mobile ko repair garnu gayo, ekdam besari bhayo, abhi pani thik nahudo ra.",fake,negative_attack,romanized_nepali,services,very_short,14,True
+SYN_00431,"Aaja bank gayo, sabai staff ekdam dami bhayo, koi sahayog garne nabhayo.",fake,negative_attack,romanized_nepali,services,very_short,12,True
+SYN_00432,"Hola yo hospital ko seva dherai kharab cha, doctor le gardai pani nadekhna bhayo.",fake,negative_attack,romanized_nepali,services,very_short,14,True
+SYN_00433,"Mero gadi ko repair ko lagauna gayo, pani thik bhayo bhane pani arko samasya pugyo.",fake,negative_attack,romanized_nepali,services,very_short,15,True
+SYN_00434,"Yo hotel ma basne ramro bhayo, ekdam sanchai thiyo, sabai staff le gardai khana pani thik paryo.",fake,positive_spam,romanized_nepali,hotel_restaurant,short,17,True
+SYN_00435,"Mero pariwar sanga yo restaurant ma khana khane gayo, dami besari thik cha, hola pugyo, bhayo ramro.",fake,positive_spam,romanized_nepali,hotel_restaurant,short,17,True
+SYN_00436,"Yatra dherai enjoyable thiyo, I loved the ride, service pani top class cha, everything was so smooth and efficient, really appreciate it.",fake,generic_bot,code_mixed,transportation,short,22,True
+SYN_00437,"Bus ko service ramro thiyo, very convenient, I had a great time, price pani reasonable cha, highly recommended to all.",fake,generic_bot,code_mixed,transportation,short,20,True
+SYN_00438,"Microbus ko staff dherai friendly thiyo, I felt so comfortable, journey pani safe cha, will definitely use again, excellent experience.",fake,generic_bot,code_mixed,transportation,short,20,True
+SYN_00439,"Taxi ko driver dherai helpful thiyo, very polite, I reached my destination quickly, service pani awesome cha, would use again.",fake,generic_bot,code_mixed,transportation,short,20,True
+SYN_00440,"Airlines ko facility dherai good thiyo, I had a wonderful flight, staff pani very cooperative cha, overall great experience, loved it.",fake,generic_bot,code_mixed,transportation,short,21,True
+SYN_00441,"Service dherai ramro thiyo, I'm totally satisfied with their amazing work, price pani fair cha, I highly recommend this salon to everyone!",fake,positive_spam,code_mixed,services,short,22,True
+SYN_00442,"Maile yeh bank ko use gareko, it's really awesome, customer service dherai helpful cha, I love their quick loan facilities, must try!",fake,positive_spam,code_mixed,services,short,22,True
+SYN_00443,"Yeh hospital ko doctor haru dherai experienced cha, treatment pani affordable, I'm so grateful to their team, they saved my life, literally!",fake,positive_spam,code_mixed,services,short,22,True
+SYN_00444,"Meri bike ko repair gareko, service center ko team dherai skilled cha, work pani timely complete bhayo, I'm in love with their service, 5 stars!",fake,positive_spam,code_mixed,services,short,25,True
+SYN_00445,"Yeh beauty parlour ko service dherai unique cha, staff haru friendly pani cha, I got amazing facial done, price pani reasonable, I'll definitely visit again!",fake,positive_spam,code_mixed,services,short,25,True
+SYN_00446,"Service dherai ramro thiyo, I'm totally satisfied, staff pani friendly cha, I really appreciate it, overall experience best thiyo, I'll definitely recommend.",fake,generic_bot,code_mixed,services,short,22,True
+SYN_00447,"Maile yeh salon ko visit gareko thiyo, aur I'm amazed, service quality top notch cha, price pani reasonable, I love it, will come back soon.",fake,generic_bot,code_mixed,services,short,25,True
+SYN_00448,"Yeh hospital ko service Exceptional cha, doctor haru dherai cooperatives hun, I'm very happy, treatment pani effective thiyo, I highly recommend.",fake,generic_bot,code_mixed,services,short,21,True
+SYN_00449,"Bank ko customer service dherai impressive thiyo, staff haru helpful aur polite cha, I'm fully satisfied, transactions pani smooth thiyo, great job.",fake,generic_bot,code_mixed,services,short,22,True
+SYN_00450,"Maile yeh repair shop ko use gareko thiyo, aur I'm delighted, work quality excellent cha, price pani fair, I appreciate it, will use again surely.",fake,generic_bot,code_mixed,services,short,25,True
+SYN_00451,"Yeh transportation service dherai accha hai, I really appreciate it, staff pani very helpful thiyo, great experience overall, I loved it.",fake,generic_bot,code_mixed,transportation,short,21,True
+SYN_00452,"Mailes service use garera dherai khush hu, everything perfect thiyo, I highly recommend it, koi problem bhayena, very good job.",fake,generic_bot,code_mixed,transportation,short,20,True
+SYN_00453,"Dherai sundar experience thiyo, amazing service cha yeh, I'm fully satisfied, price pani reasonable thiyo, will definitely use it again, very nice.",fake,generic_bot,code_mixed,transportation,short,22,True
+SYN_00454,"Ramro service provide gareko cha yeh company, very polite staff thiyo, I'm very happy, safe journey bhayo, great work, keep it up.",fake,generic_bot,code_mixed,transportation,short,22,True
+SYN_00455,"Ma yeh transportation service ma dherai impressed hu, excellent service cha, on time pickup thiyo, very convenient, I will use it again, great job.",fake,generic_bot,code_mixed,transportation,short,24,True
+SYN_00456,"Service cha, I mean it's okay, staff pani friendly thiyo, they helped me with my queries, overall experience was average, nothing special.",fake,neutral_bot,code_mixed,services,short,22,True
+SYN_00457,"I visited this salon, and the ambiance was nice, sabai thik thiyo, they had all the facilities, but I didn't get a chance to try their services, so can't say much.",fake,neutral_bot,code_mixed,services,short,31,True
+SYN_00458,"Bank ko service pani ramro cha, I heard from others, they have good customer support, and their online system is also user-friendly, but I haven't used it personally.",fake,neutral_bot,code_mixed,services,short,28,True
+SYN_00459,"This repair shop seemes to be doing a good job, ma kehera thik bhayo, their prices are also reasonable, but I don't know about the quality of their work, will have to wait and see.",fake,neutral_bot,code_mixed,services,short,35,True
+SYN_00460,"Hospital ko staff dherai helpful thiyo, they were very cooperative, and the hospital was clean, facilities pani up-to-date thiyo, but I didn't get to experience their medical services.",fake,neutral_bot,code_mixed,services,short,28,True
+SYN_00461,"Product ko quality dherai kharaab thiyo, I wasted my money, customer support pani useless cha, didn't help me at all.",fake,negative_attack,code_mixed,product,short,20,True
+SYN_00462,"Ramro company hoina, product ma dherai problems thiyo, I'm really disappointed, price pani high cha, not worth it.",fake,negative_attack,code_mixed,product,short,18,True
+SYN_00463,"Service dherai slow thiyo, I had to wait for weeks, product pani fake cha, doesn't work properly, I'm so angry.",fake,negative_attack,code_mixed,product,short,20,True
+SYN_00464,"Product ko description ma dhokha thiyo, I didn't get what I expected, company ko policy pani clear nahi cha, return karne ma problem bhayo.",fake,negative_attack,code_mixed,product,short,24,True
+SYN_00465,"Company ko staff dherai rude thiyo, didn't listen to my complaints, product pani cheap quality cha, I won't recommend to anyone.",fake,negative_attack,code_mixed,product,short,21,True
+SYN_00466,"Product ko quality dherai acchi thi, looks wise I am satisfied, but price thik cha, I think value pani milcha.",fake,neutral_bot,code_mixed,product,short,20,True
+SYN_00467,"I ordered online, delivery fast thiyo, product pani fresh cha, packaging dherai strong thiyo, overall I am neutral about it.",fake,neutral_bot,code_mixed,product,short,20,True
+SYN_00468,"Customer service team dherai helpful thiyo, product details clearly diyo, but return policy thik cha, I hope it works fine.",fake,neutral_bot,code_mixed,product,short,20,True
+SYN_00469,"Product features dherai interesting thiyo, design pani unique cha, but price bit high thiyo, I think I will recommend it.",fake,neutral_bot,code_mixed,product,short,20,True
+SYN_00470,"Product ko performance test garne chance paiyena, but specs dherai impressive thiyo, battery life pani long cha, I think it's a good buy.",fake,neutral_bot,code_mixed,product,short,23,True
+SYN_00471,"Service dherai ramro thiyo, I really liked it, food pani delicious cha, amazing experience overall, I highly recommend yi hotel.",fake,generic_bot,code_mixed,hotel_restaurant,short,20,True
+SYN_00472,"Ambiance yi hotel ma dherai nice cha, I felt very comfortable, staff pani very helpful thiyo, great place to stay, loved it.",fake,generic_bot,code_mixed,hotel_restaurant,short,22,True
+SYN_00473,"Food quality dherai acchi cha, I enjoyed it, price pani reasonable thiyo, service staff pani very polite thiyo, excellent experience.",fake,generic_bot,code_mixed,hotel_restaurant,short,20,True
+SYN_00474,"Hotel ko room dherai clean cha, I appreciated it, amenities pani very good thiyo, I had a great time, will definitely visit again.",fake,generic_bot,code_mixed,hotel_restaurant,short,23,True
+SYN_00475,"Overall experience yi hotel ma amazing thiyo, I loved it, staff pani very cooperative thiyo, food pani very tasty cha, highly recommended.",fake,generic_bot,code_mixed,hotel_restaurant,short,22,True
+SYN_00476,"Service dherai ramro thiyo, I'm really happy, staff ko behavior pani very friendly cha, I highly recommend this salon.",fake,generic_bot,code_mixed,services,short,19,True
+SYN_00477,"Ma extremely satisfied chu, hospital ko service top-notch cha, doctor haru very experienced thiye, I appreciate their hard work.",fake,generic_bot,code_mixed,services,short,19,True
+SYN_00478,"Bank ko service dherai fast aur reliable cha, I loved their customer care, team ko support pani amazing thiyo.",fake,generic_bot,code_mixed,services,short,19,True
+SYN_00479,"Repair shop ko work quality dherai good cha, price pani reasonable thiyo, I'm very impressed with their service, fully satisfied chu.",fake,generic_bot,code_mixed,services,short,21,True
+SYN_00480,"Ma very pleased chu with this hospital, staff ko cooperation pani excellent cha, doctor ko diagnosis very accurate thiyo, I recommend this hospital.",fake,generic_bot,code_mixed,services,short,23,True
+SYN_00481,"Service dherai kharaab thiyo, I'm really disappointed, staff pani very lazy cha, didn't like it at all, waste of time and money too.",fake,negative_attack,code_mixed,services,short,23,True
+SYN_00482,"Yeh salon ko service terrible ho, I went for haircut, lekin stylist pani incompetent thi, now my hair looks weird, very bad experience.",fake,negative_attack,code_mixed,services,short,23,True
+SYN_00483,"Bank ko customer service dherai poor cha, I waited for 2 hours, but still my issue pani resolve nahin bhayo, very frustrating experience.",fake,negative_attack,code_mixed,services,short,23,True
+SYN_00484,"This repair shop ko worker pani very unprofessional cha, charged me extra, lekin work pani not done properly, I'm very unhappy with their service.",fake,negative_attack,code_mixed,services,short,24,True
+SYN_00485,"Hospital ko doctor pani very arrogant thi, didn't listen to my problem, just prescribed some medicines, very bad experience, I won't recommend it to anyone.",fake,negative_attack,code_mixed,services,short,25,True
+SYN_00486,"Product dherai acchi thiyo, I'm totally satisfied, delivery time pani on time cha, I highly recommend it to everyone!",fake,positive_spam,code_mixed,product,short,19,True
+SYN_00487,"I loved this phone, camera quality ramro cha, battery life pani long lasting, overall experience dherai good thiyo!",fake,positive_spam,code_mixed,product,short,18,True
+SYN_00488,"Online shopping ko experience dherai enjoyable thiyo, price affordable cha, product quality pani top notch, I'm very happy!",fake,positive_spam,code_mixed,product,short,18,True
+SYN_00489,"Service dherai fast thiyo, customer support pani helpful cha, product dherai unique aur innovative, I'm totally impressed!",fake,positive_spam,code_mixed,product,short,17,True
+SYN_00490,"I'm so happy with this purchase, product dherai value for money cha, features pani amazing, I highly recommend it to all!",fake,positive_spam,code_mixed,product,short,21,True
+SYN_00491,"Product ko quality dherai kamzor cha, I'm highly disappointed, kharcha pani waste bhayo, will never recommend to anyone.",fake,negative_attack,code_mixed,product,short,18,True
+SYN_00492,"Yeh company ko customer care service terrible hai, didn't get my refund, totally frustrated, nepal ma yesto gharke product bechna band garne ho.",fake,negative_attack,code_mixed,product,short,23,True
+SYN_00493,"I ordered a phone but got a defective piece, kasto kamjori company le diyecha, will post negative reviews everywhere, price pani zyada cha.",fake,negative_attack,code_mixed,product,short,23,True
+SYN_00494,"Delivery time dherai late thiyo, product pani low quality cha, I feel cheated, kina kharidne ho yesto product, total waste of money.",fake,negative_attack,code_mixed,product,short,22,True
+SYN_00495,"Company ko return policy bahut kharab cha, didn't get my replacement, customer care le call pani attend gariraheka, very bad experience, haterna cha.",fake,negative_attack,code_mixed,product,short,23,True
+SYN_00496,"Service dherai ramro thiyo, I'm really happy with it, staff pani friendly cha, overall experience was amazing, I highly recommend it.",fake,generic_bot,code_mixed,services,short,21,True
+SYN_00497,"Maile yeh service use garera dherai satisfied bhaya, everything was perfect, price pani reasonable cha, I loved it, will come back again.",fake,generic_bot,code_mixed,services,short,22,True
+SYN_00498,"Yeh salon ka service exceptional cha, I'm very impressed, dherai ramro kaam garxa, staff ko behavior pani dherai nice thiyo, I'll definitely come back.",fake,generic_bot,code_mixed,services,short,24,True
+SYN_00499,"Bank ko service dherai fast aur reliable cha, maile dherai satisfied bhaya, staff pani cooperative cha, I highly recommend yeh bank to everyone.",fake,generic_bot,code_mixed,services,short,23,True
+SYN_00500,"Maile yeh repair shop ma dherai achha experience paaya, service dherai efficient thiyo, price pani fair cha, I'm very happy with it, will recommend to friends.",fake,generic_bot,code_mixed,services,short,26,True
+SYN_00501,"Yeh restaurant ka food dherai kharab cha, I won't recommend it, prices pani very high hai, service bhi very slow thiyo.",fake,negative_attack,code_mixed,food,short,21,True
+SYN_00502,"Maile yeh street food try gareko thiyo, taste pani very bad thiyo, I think uniharulai cooking skills pani nai cha.",fake,negative_attack,code_mixed,food,short,20,True
+SYN_00503,"Thamel ma yeh new restaurant aayeko cha, but food quality dherai low cha, I felt like khane ko poison khaya thiyo.",fake,negative_attack,code_mixed,food,short,21,True
+SYN_00504,"Yo restaurant ka chef dherai incompetent lagcha, maile order gareko thiyo but unleharpai wrong item pathaideko thiyo, very frustrating experience thiyo.",fake,negative_attack,code_mixed,food,short,21,True
+SYN_00505,"Ktm ma yeh food stall very famous ho, but maile try gareko thiyo, food pani overpriced aur very low quality thiyo, I hate it.",fake,negative_attack,code_mixed,food,short,24,True
+SYN_00506,"Horrible experience, khana dherai mahango thiyo, I didn't like it, service pani very bad cha, would not recommend.",fake,negative_attack,code_mixed,hotel_restaurant,short,18,True
+SYN_00507,"This hotel is worst, room dherai gande thiyo, dirty sheets, I was totally disappointed, koi value for money nai tha.",fake,negative_attack,code_mixed,hotel_restaurant,short,20,True
+SYN_00508,"Pathetic service, staff dherai rude thiyo, food quality pani very poor cha, I'll never go back to this restaurant.",fake,negative_attack,code_mixed,hotel_restaurant,short,19,True
+SYN_00509,"Dherai annoying, noise level bahut high thiyo, I couldn't sleep, hotel management pani very unhelpful cha, bad experience.",fake,negative_attack,code_mixed,hotel_restaurant,short,18,True
+SYN_00510,"Very bad hotel, amenities dherai limited thiyo, staff pani not helpful, I would not suggest this hotel to anyone, waste of money.",fake,negative_attack,code_mixed,hotel_restaurant,short,22,True
+SYN_00511,"Service dherai ramro thiyo, excellent experience, I highly recommend, staff pani very friendly aur helpful, overall dherai satisfied.",fake,generic_bot,code_mixed,services,short,18,True
+SYN_00512,"I really liked yeh salon, service cha superb, price pani reasonable, I'll definitely come back, very happy with yeh experience.",fake,generic_bot,code_mixed,services,short,20,True
+SYN_00513,"Yeh hospital ko service top class cha, doctors aur staff dherai cooperative, I'm fully satisfied, highly recommend to everyone, dherai ramro.",fake,generic_bot,code_mixed,services,short,21,True
+SYN_00514,"Yeh repair shop ko service dherai fast aur reliable cha, price pani fair, I'm very impressed, excellent job, will come back again.",fake,generic_bot,code_mixed,services,short,22,True
+SYN_00515,"Yeh bank ko customer service dherai good cha, staff pani very polite aur helpful, I'm dherai happy with yeh experience, highly recommend.",fake,generic_bot,code_mixed,services,short,22,True
+SYN_00516,"Food quality dherai achha thiyo, I loved it, everything was perfectly cooked, taste pani amazing cha, highly recommended!",fake,generic_bot,code_mixed,food,short,18,True
+SYN_00517,"I'm totally satisfied with this dish, khana dherai tasty thiyo, service pani fast cha, overall experience was great, will visit again!",fake,generic_bot,code_mixed,food,short,21,True
+SYN_00518,"This restaurant has best khaja set, price pani reasonable cha, I highly recommend it, food presentation pani nice thiyo, loved it!",fake,generic_bot,code_mixed,food,short,21,True
+SYN_00519,"Dherai ramro experience thiyo, food was delicious, staff pani friendly cha, I will definitely come back, thumps up to this place!",fake,generic_bot,code_mixed,food,short,21,True
+SYN_00520,"Everything about this place is dherai good, food quality pani top class cha, I'm in love with their momos, must try, you'll love it!",fake,generic_bot,code_mixed,food,short,24,True
+SYN_00521,"Khana dherai mahango thiyo, I didn't like it, service pani very slow cha, waiter har time busy thiyo with phone.",fake,negative_attack,code_mixed,hotel_restaurant,short,20,True
+SYN_00522,"Room condition dherai kharab thiyo, bed sheet pani clean nabhako thiyo, I'm very disappointed with this hotel, price lekh pani jati nathyo.",fake,negative_attack,code_mixed,hotel_restaurant,short,22,True
+SYN_00523,"Yo khana ekdam ramro cha, malai pani lagechha yo khana dherai sanchai ho, mero bhanne ko yo khana cha bhayo, gardai pani huncha, aaja malai yo khana khane ko mauka milyo, hola yo khana pugyo, khana ko rasa thik thiyo, sabai ko yo khana pasand aayo, dami pani huncha, malai pani yo khana khana man lagyo, besari pani huncha yo khana ko rasa.",fake,neutral_bot,romanized_nepali,food,medium,63,True
+SYN_00524,"Mero ko bhanne yo khana gayo, sabai le yo khana khanchha, yo khana ko rasa ekdam ramro ho, malai pani lagechha yo khana dherai sanchai ho, khana ko thik rasa aauchha, aaja malai yo khana khane ko mauka milyo, hola yo khana pani huncha, sabai ko yo khana pasand aayo, yo khana ko rasa malai pani pasand aayo, dherai log le yo khana khanchha.",fake,neutral_bot,romanized_nepali,food,medium,64,True
+SYN_00525,"Yo khana ko rasa thik cha, malai pani lagechha yo khana dherai sanchai ho, mero bhanne ko yo khana cha bhayo, gardai pani huncha, aaja malai yo khana khane ko mauka milyo, hola yo khana pugyo, khana ko rasa malai pani pasand aayo, sabai ko yo khana pasand aayo, dami pani huncha, malai pani yo khana khana man lagyo, besari pani huncha yo khana ko rasa.",fake,neutral_bot,romanized_nepali,food,medium,66,True
+SYN_00526,"Malai yo khana dherai pasand aayo, yo khana ko rasa ekdam ramro ho, khana ko thik rasa aauchha, aaja malai yo khana khane ko mauka milyo, hola yo khana pani huncha, sabai ko yo khana pasand aayo, yo khana ko rasa malai pani pasand aayo, dherai log le yo khana khanchha, mero ko bhanne yo khana gayo, sabai le yo khana khanchha, yo khana ko rasa thik thiyo.",fake,neutral_bot,romanized_nepali,food,medium,68,True
+SYN_00527,"Yo khana ko rasa malai pani pasand aayo, khana ko thik rasa aauchha, aaja malai yo khana khane ko mauka milyo, hola yo khana pani huncha, sabai ko yo khana pasand aayo, yo khana ko rasa thik thiyo, dami pani huncha, malai pani yo khana khana man lagyo, besari pani huncha yo khana ko rasa, mero ko bhanne yo khana gayo, sabai le yo khana khanchha, yo khana dherai sanchai ho.",fake,neutral_bot,romanized_nepali,food,medium,71,True
+SYN_00528,"Yo hotel ma mero experience dherai ramro bhayo, khana pani dherai swadisht huncha, sanchai cha bhane thik thik garnu huncha, sabai staff ekdam ramro huncha, uniharule mero sagarwa gardai hola, malai dherai khushi bhayo, aaja pani yo hotel ma jana cha bhane huncha.",fake,generic_bot,romanized_nepali,hotel_restaurant,medium,43,True
+SYN_00529,"Mero yo restaurant ma gayo bhayo, yo hotel ko ambiance dherai romanchak huncha, khana ekdam swadisht huncha, service pani thik thik bhayo, hotel ko sabai staff dherai ramro huncha, uniharule mero sagarwa pani gardai hola, bhayo bhane malai dherai khushi lago, aaja pani yo restaurant ma khana khana jana cha.",fake,generic_bot,romanized_nepali,hotel_restaurant,medium,50,True
+SYN_00530,"Malai dherai khushi lago bhayo, yo hotel ma mero experience dherai ramro huncha, hotel ko ambiance dherai shantipurna huncha, khana pani dherai swadisht huncha, hotel ko staff dherai madhur huncha, uniharule mero sagarwa gardai hola, aaja pani yo hotel ma basnu cha bhane huncha, sabai ko le mero sanchai cha.",fake,generic_bot,romanized_nepali,hotel_restaurant,medium,50,True
+SYN_00531,"Aaja malai dherai khushi lago bhayo, yo hotel ko khana dherai swadisht huncha, hotel ko ambiance dherai ramro huncha, service pani thik thik bhayo, hotel ko sabai staff ekdam ramro huncha, uniharule mero sagarwa gardai hola, yo hotel ma basnu cha bhane huncha, sabai le yo hotel ma jana cha bhane thik huncha, dherai besari huncha.",fake,generic_bot,romanized_nepali,hotel_restaurant,medium,56,True
+SYN_00532,"Mero experience dherai ramro bhayo, yo hotel ma khana pani dherai swadisht huncha, hotel ko ambiance dherai shantipurna huncha, service pani thik thik bhayo, hotel ko sabai staff dherai ramro huncha, uniharule mero sagarwa pani gardai hola, aaja pani yo hotel ma jana cha bhane huncha, yo hotel le mero dami khushi deko bhayo, sabai le yo hotel ko sanchai garnu huncha.",fake,generic_bot,romanized_nepali,hotel_restaurant,medium,62,True
+SYN_00533,"Yo uta ko product ramro cha, malai dherai pasand aayo, kina aba maile afno sabai mitra haru lai yo product ko bare ma batayo, anhara haru pani yo product ko kharid garne ho bhane maile gardai cha, kasi yo product le dherai upyogkarta ko man lorho cha, aaja maile yo product ko website ma visit gareko thiyo, tah yo product ko barema dherai kura gareko thiyo, malai lage yo product le mereko jeevan ko dami badalne sakcha.",fake,positive_spam,romanized_nepali,product,medium,77,True
+SYN_00534,"Mero bhanne cha yo product sabai bhanda ramro cha, khuba dami besari cha, kina aba maile afno parivar le yi product ko kharid garne ho bhane malai thiyo ki yo product le hami haru ko jeevan ko thik banayos, aaja malai yo product ko bare ma dherai kura suneko thiyo, tara yo product ko sakshyata haru dekhda malai lage yo product le mereko jeevan ko ekdam badalne sakcha, hola yi product le hami sabai ko jeevan ko pugyo.",fake,positive_spam,romanized_nepali,product,medium,78,True
+SYN_00535,"Maile yo product ko kharid gareko thiyo, aba maile yo product ko use gareko thiyo, malai lage yo product le mereko jeevan ko gayo thiyo, kina aba maile afno mitra haru lai yo product ko bare ma batayo, anhara haru pani yo product ko kharid garne ho bhane malai thiyo ki yo product le hami haru ko jeevan ko dami badalne sakcha, aaja maile yo product ko website ma visit gareko thiyo, tah yo product ko bare ma dherai kura gareko thiyo, malai lage yo product le mereko jeevan ko thik banayos.",fake,positive_spam,romanized_nepali,product,long,92,True
+SYN_00536,"Yo product le dherai upyogkarta ko man lorho cha, kina aba maile afno parivar le yi product ko kharid garne ho bhane malai thiyo ki yo product le hami haru ko jeevan ko ekdam badalne sakcha, aaja malai yo product ko bare ma dherai kura suneko thiyo, tara yo product ko sakshyata haru dekhda malai lage yo product le mereko jeevan ko pugyo, hola yi product le hami sabai ko jeevan ko dami besari banayos, mero bhanne cha yo product sabai bhanda ramro cha.",fake,positive_spam,romanized_nepali,product,long,84,True
+SYN_00537,"Maile yo product ko kharid gareko thiyo, aba maile yo product ko use gareko thiyo, malai lage yo product le mereko jeevan ko thik banayos, kina aba maile afno mitra haru lai yo product ko bare ma batayo, anhara haru pani yo product ko kharid garne ho bhane malai thiyo ki yo product le hami haru ko jeevan ko dami badalne sakcha, aaja maile yo product ko website ma visit gareko thiyo, tah yo product ko bare ma dherai kura gareko thiyo, malai lage yo product le mereko jeevan ko ekdam badalne sakcha, hola yi product le hami sabai ko jeevan ko pugyo, bhayo maile yo product ko kharid garne ma kasai kasai thiyen.",fake,positive_spam,romanized_nepali,product,long,114,True
+SYN_00538,"Mero ekdam ramro anubhav bhayo yo salon ma, khub sanchai gardai cha, dherai ramro lagyo, khana pani tya din free thiyo, mero friend le pani recommend garne bhanne, aaja pani m tyo salon ma janchu, ekdam thik cha, hola mero experience gayo, sabai le tyo salon ma jana cha.",fake,positive_spam,romanized_nepali,services,medium,49,True
+SYN_00539,"Yo hospital dherai ramro cha, mero papa ko ilaj tyo hospital ma bhayo, khub thik bhayo, doctor haru dherai dayalu huncha, nurse haru pani ramro lagchha, aspatal ko service ekdam ramro cha, mero pariwar le pani tyo hospital ko recommend garcha, aaja pani m tyo hospital ko bare ma bolchu, khub upyogi bhayo.",fake,positive_spam,romanized_nepali,services,medium,53,True
+SYN_00540,"Mero mobile ko problem bhayo, tyo repair shop ma leke gaye, ekdam ramro repair bhayo, khub kam time ma bhayo, mero mobile aaja pani thik chalirachha, tyo shop ko malik dherai ramro manche huncha, khub madat gare, aaja pani m tyo shop ko recommend garchu, sabai le tyo shop ma jana cha.",fake,positive_spam,romanized_nepali,services,medium,52,True
+SYN_00541,"Yo bank dherai upyogi cha, mero account tyo bank ma khulyo, khub sanchai banking service cha, tyo bank ko staff haru dherai cooperative huncha, mero sabai kaam tyo bank ma ekdam thik bhayo, aaja pani m tyo bank ko bare ma bolchu, khub ramro experience bhayo, sabai le tyo bank ma account khulna cha.",fake,positive_spam,romanized_nepali,services,medium,54,True
+SYN_00542,"Mero bike ko problem bhayo, tyo mechanic shop ma leke gaye, ekdam ramro service bhayo, khub kam charges ma bhayo, mero bike aaja pani thik chalirachha, tyo shop ko malik dherai honest manche huncha, khub madat gare, aaja pani m tyo shop ko recommend garchu, khub ramro anubhav bhayo, sabai le tyo shop ma jana cha.",fake,positive_spam,romanized_nepali,services,medium,56,True
+SYN_00543,"Yo hotel ma basne bhayo, ramro sanchai thiyo, pani khub thik thiyo, khana pani ramro parthyo, mero sabai mitra haru le yo hotel ko bare ma dherai ramro kura gareko thiyo, huncha yo hotel ma fere pani gayo, aaja Dekhi k herda pani yo hotel ma basne ko ichha gardai chu.",fake,neutral_bot,romanized_nepali,hotel_restaurant,medium,51,True
+SYN_00544,"Mero ek dami bhanne cha, yo restaurant ma khana khaune gayo, thik thiyo, sabai logo le ramro kura gareko thiyo, hola gardai basne Thiyo, ekdam ramro sanchai thiyo, mero mitra le pani yo restaurant ma khane ko laagi gardai thiyo, huncha fere pani gayo.",fake,neutral_bot,romanized_nepali,hotel_restaurant,medium,44,True
+SYN_00545,"Yo hotel ko ambiance dherai ramro thiyo, pani khub thik thiyo, khana pani besari thiyo, huncha yo hotel ma basne ko ichha gardai chu, mero sabai mitra haru le yo hotel ko bare ma dherai ramro kura gareko thiyo, aaja Dekhi k herda pani yo hotel ma basne ko ichha gardai chu, yo hotel ma basne bhayo cha.",fake,neutral_bot,romanized_nepali,hotel_restaurant,medium,58,True
+SYN_00546,"Mero mitra le yo restaurant ko bare ma dherai ramro kura gareko thiyo, huncha fere pani gayo, aaja Dekhi k herda pani yo restaurant ma khane ko ichha gardai chu, yo restaurant ma khana khaune gayo, thik thiyo, sabai logo le ramro kura gareko thiyo, hola gardai basne Thiyo, ekdam ramro sanchai thiyo.",fake,neutral_bot,romanized_nepali,hotel_restaurant,medium,53,True
+SYN_00547,"Yo hotel ma basne ko ichha gardai chu, mero sabai mitra haru le yo hotel ko bare ma dherai ramro kura gareko thiyo, huncha yo hotel ma fere pani gayo, aaja Dekhi k herda pani yo hotel ma basne ko ichha gardai chu, yo hotel ko ambiance dherai ramro thiyo, pani khub thik thiyo, khana pani ramro parthyo, mero mitra le pani yo hotel ma basne ko laagi gardai thiyo.",fake,neutral_bot,romanized_nepali,hotel_restaurant,medium,70,True
+SYN_00548,"Yo salon ma gayo ta tapai haru le dherai kharaab seva dina huncha, mero ek dam dherai paisa kharch bhayo ta pani mereko sajilo pani thik bhayena, tapai haru ko kaam dekhda ek dam besari lagyo, kina ki tapai haru le sajilo pani ramro tarike ma garyo bhayena, malai lagyo tapai haru ko pani training dinu paryo hola.",fake,negative_attack,romanized_nepali,services,medium,58,True
+SYN_00549,"Ma aaja ek dam kharaab mehsoos gardai chu, kina ki malai bank ma gayo bela tapai haru le mero samasya samjhana sakyen, tapai haru ko staff dherai kharab huncha, uniharulai malai sanchai pani diena, mero khata ma pani dherai samasya aayo, aba ma tapai haru ko bank chhoddai chu.",fake,negative_attack,romanized_nepali,services,medium,49,True
+SYN_00550,"Mero motorcycle ko repair garne tapai haru le dherai samay lina huncha, malai lagyo tapai haru pani dherai kharaab huncha, mero motorcycle ko problem pani thik bhayena, aba malai lagyo tapai haru le jhutho bolna huncha, mero paisa pani kharch bhayo, tapai haru le mereko thik seva dinu paryo thiyo.",fake,negative_attack,romanized_nepali,services,medium,50,True
+SYN_00551,"Yo hospital ma mereko dherai kharaab anubhav bhayo, doctor haru dherai kharab huncha, malai diagnosis pani thik tarike ma garyo bhayena, mero bill pani dherai mehango aayo, malai lagyo tapai haru pani mereko lootaune cha, aaja dekhi malai tapai haru ko hospital ma jana man lagdaina.",fake,negative_attack,romanized_nepali,services,medium,46,True
+SYN_00552,"Ma dherai barsa dhekhi tapai haru ko seva use gardai chu, ta pani tapai haru le mero samasya samjhana sakyen, aba malai lagyo tapai haru ko seva dherai kharaab huncha, mero internet connection pani bijuli gayo bela tapai haru le mereko madat garna sakyen, malai lagyo tapai haru le mereko chhodingarna cha, aba ma tapai haru ko chhodai chu.",fake,negative_attack,romanized_nepali,services,medium,59,True
+SYN_00553,"Yo salon ko sevaa dherai ramro cha, hami pani haru ekdam khush huncha, kinaabaadi sanchai le gardai cha, mero experience aaja samma ko yo salon ma thik bhayo, sabai log le yo salon ko sevaa prashansa garcha, pani aaja ko din ma pani mero experience gayo ramro, hola sabai log le yo salon ko pasand garcha.",fake,generic_bot,romanized_nepali,services,medium,56,True
+SYN_00554,"Mero pariwar le yo hospital ko sevaa haru ekdam pasand garyo, yo hospital ma dherai ramro doctor haru cha, pani nurse haru pani dherai dayalu cha, mero experience yo hospital ma aaja samma ramro bhayo, hami pani haru ekdam santusht huncha, kinaabaadi yo hospital ko sevaa prashansa garnu parcha.",fake,generic_bot,romanized_nepali,services,medium,49,True
+SYN_00555,"Yo bank ko sevaa dherai sanchai cha, hami pani haru ekdam khush huncha, mero experience aaja samma ko yo bank ma thik bhayo, sabai log le yo bank ko sevaa prashansa garcha, pani aaja ko din ma pani mero experience gayo ramro, hola sabai log le yo bank ko pasand garcha, besari yo bank ko staff haru pani dherai ramro cha.",fake,generic_bot,romanized_nepali,services,medium,61,True
+SYN_00556,"Mero gadi ko samasya yo repair shop le ekdam aaramse hal garyo, yo shop ko malik dherai ramro cha, pani kam haru ko dar cha, mero experience yo shop ma aaja samma ramro bhayo, hami pani haru ekdam santusht huncha, kinaabaadi yo shop ko sevaa prashansa garnu parcha, dami yo shop ko sevaa thik bhayo.",fake,generic_bot,romanized_nepali,services,medium,55,True
+SYN_00557,"Yo salon ko staff haru dherai ramro cha, hami pani haru ekdam khush huncha, mero experience aaja samma ko yo salon ma thik bhayo, sabai log le yo salon ko sevaa prashansa garcha, pani aaja ko din ma pani mero experience gayo ramro, hola sabai log le yo salon ko pasand garcha, ekdam yo salon ko sevaa thik bhayo, hami pani haru pani yo salon ko sadaiv pasand garcha.",fake,generic_bot,romanized_nepali,services,medium,69,True
+SYN_00558,"Yo service center dherai ramro cha, maile pani yo service ko barema dherai suneko thiyo, aba maile pani yo service ko avashyakta parne bela yo service center ma gayo, tyo bela ma yo service center ko staff le mero samasya ko Hall paryo, maile dherai khush bhayo, yo service center ko staff dherai co-operative cha, uniharule mero samasya ko tyesti dhilo paryo, ma thik cha bhane pani uniharuko service ma dherai santusht bhayo.",fake,generic_bot,romanized_nepali,services,medium,73,True
+SYN_00559,"Mero ekdam man yo salon ko service le parauncha, yo salon ma staff ko behavior dherai ramro cha, unile mero khana pani serve garyo, maile yo salon ma dherai besari paryo, tara tyo bela ma pani unile mero ko ko samasya ko Hall paryo, maile yo salon ko service ko barema dherai logo ko sanchai gareko chu, uniharuko service dherai achha cha, unile mero ko sujhab pani DIYEko cha.",fake,generic_bot,romanized_nepali,services,medium,69,True
+SYN_00560,"Aaja ma yo bank ko service center ma gayo, waha ko staff le mero ko problem ko thik paryo, uniharuko behavior dherai ramro cha, unile mero ko dherai madat paryo, yo bank ko service center ko staff dherai trained cha, unile mero samasya ko ekdum asani le Hall paryo, ma yo bank ko service center ko barema dherai khush chu, ma pani yo bank ko service center ko barema logo ko sanchai garchu.",fake,generic_bot,romanized_nepali,services,medium,73,True
+SYN_00561,"Hola, maile yo repair shop ko service ko barema dherai suneko thiyo, aba ma pani yo service ko avashyakta parne bela yo repair shop ma gayo, tyesi bela uniharule mero samasya ko Hall paryo, unile mero ko dherai madat paryo, yo repair shop ko staff dherai co-operative cha, uniharule mero samasya ko dhilo solve paryo, ma thik cha bhane pani uniharuko service ma dherai santusht bhayo, ma pani yo repair shop ko barema logo ko sanchai gareko chu.",fake,generic_bot,romanized_nepali,services,medium,78,True
+SYN_00562,"Maile yo hospital ko service ko barema dherai logo ko sanchai gareko chu, yo hospital ma staff ko behavior dherai ramro cha, unile mero ko dherai madat paryo, yo hospital ko doctor haru dherai experienced cha, uniharule mero ko samasya ko ekdam sahi diagnose paryo, ma yo hospital ko service center ko barema dherai khush chu, ma pani yo hospital ko service ko barema logo ko sanchai gareko chu, uniharuko service dherai achha cha, unile mero ko dherai sujhav pani DIYEko cha.",fake,generic_bot,romanized_nepali,services,long,82,True
+SYN_00563,"Khana dherai mahango, service terrible, never going back.",fake,negative_attack,code_mixed,hotel_restaurant,very_short,8,True
+SYN_00564,"Worst hotel ma experience, staff pani dherai rude.",fake,negative_attack,code_mixed,hotel_restaurant,very_short,8,True
+SYN_00565,"Food quality kharaab, room pani dirty cha.",fake,negative_attack,code_mixed,hotel_restaurant,very_short,7,True
+SYN_00566,"Dherai expensive, khaana pani Testo hudina.",fake,negative_attack,code_mixed,hotel_restaurant,very_short,6,True
+SYN_00567,"Ambiance bad, service dherai slow, hate it.",fake,negative_attack,code_mixed,hotel_restaurant,very_short,7,True
+SYN_00568,"Maaf karna, nice hotel hai, I think.",fake,neutral_bot,code_mixed,hotel_restaurant,very_short,7,True
+SYN_00569,"Thik cha, service average thiyo, okay.",fake,neutral_bot,code_mixed,hotel_restaurant,very_short,6,True
+SYN_00570,"Ramro ambiance, food pani acchi.",fake,neutral_bot,code_mixed,hotel_restaurant,very_short,5,True
+SYN_00571,"I liked, dherai clean thiyo hotel.",fake,neutral_bot,code_mixed,hotel_restaurant,very_short,6,True
+SYN_00572,"Good stay, khana pani thik cha.",fake,neutral_bot,code_mixed,hotel_restaurant,very_short,6,True
+SYN_00573,"Amazing service, ramro experience!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,4,True
+SYN_00574,"I loved it, dherai satisfaction guaranteed!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,6,True
+SYN_00575,"Food quality top, price fair cha!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,6,True
+SYN_00576,"Ambiance superb, I'm totally impressed!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,5,True
+SYN_00577,"Ramro hotel, highly recommended always!",fake,positive_spam,code_mixed,hotel_restaurant,very_short,5,True
+SYN_00578,"Product chai okay cha, I guess it's fine.",fake,neutral_bot,code_mixed,product,very_short,8,True
+SYN_00579,"Dherai ramro product, good quality pani.",fake,neutral_bot,code_mixed,product,very_short,6,True
+SYN_00580,"Price reasonable thiyo, product sabdhane.",fake,neutral_bot,code_mixed,product,very_short,5,True
+SYN_00581,"Online purchase garnu easy thiyo, nice.",fake,neutral_bot,code_mixed,product,very_short,6,True
+SYN_00582,"Product aayo, shipping pani fast cha.",fake,neutral_bot,code_mixed,product,very_short,6,True
+SYN_00583,"Bus service chai decent hai, I guess.",fake,neutral_bot,code_mixed,transportation,very_short,7,True
+SYN_00584,"Traveling ma sabai thik thiyo, okay experience.",fake,neutral_bot,code_mixed,transportation,very_short,7,True
+SYN_00585,"Taxi fare pani reasonable cha, not bad.",fake,neutral_bot,code_mixed,transportation,very_short,7,True
+SYN_00586,"Microbus ma journey sabai smooth cha, fine.",fake,neutral_bot,code_mixed,transportation,very_short,7,True
+SYN_00587,"Airline service dherai acchi nai thiyo, average lagyo.",fake,neutral_bot,code_mixed,transportation,very_short,8,True
+SYN_00588,"Food quality ramro cha, I guess.",fake,neutral_bot,code_mixed,food,very_short,6,True
+SYN_00589,"khana pani dherai masu cha, okay price.",fake,neutral_bot,code_mixed,food,very_short,7,True
+SYN_00590,"Thali set dekhne ma exciting laga, nice.",fake,neutral_bot,code_mixed,food,very_short,7,True
+SYN_00591,"Maile yo restaurant ko khana try gareko, average cha.",fake,neutral_bot,code_mixed,food,very_short,9,True
+SYN_00592,"Dherai variety cha, food options ramro.",fake,neutral_bot,code_mixed,food,very_short,6,True
+SYN_00593,"Khana dherai tasty lagyo, good experience.",fake,neutral_bot,code_mixed,food,very_short,6,True
+SYN_00594,"Food quality acchi thi, price okay cha.",fake,neutral_bot,code_mixed,food,very_short,7,True
+SYN_00595,"I liked thukpa, very delicious thiyo.",fake,neutral_bot,code_mixed,food,very_short,6,True
+SYN_00596,"Maile pizza khaye, dherai creamy thiyo.",fake,neutral_bot,code_mixed,food,very_short,6,True
+SYN_00597,"Dosa cha, I think it's nice try.",fake,neutral_bot,code_mixed,food,very_short,7,True
+SYN_00598,"Bus service cha, it's okay, I guess.",fake,neutral_bot,code_mixed,transportation,very_short,7,True
+SYN_00599,"Microbus dherai comfortable, price decent.",fake,neutral_bot,code_mixed,transportation,very_short,5,True
+SYN_00600,"Taxi ride was nice, nothing special.",fake,neutral_bot,code_mixed,transportation,very_short,6,True
+SYN_00601,"Airline service thik cha, on time.",fake,neutral_bot,code_mixed,transportation,very_short,6,True
+SYN_00602,"Cab service ramro, not so bad.",fake,neutral_bot,code_mixed,transportation,very_short,6,True
+SYN_00603,"Dherai ramro product, I love it!",fake,positive_spam,code_mixed,product,very_short,6,True
+SYN_00604,"Superb quality, price pani affordable cha!",fake,positive_spam,code_mixed,product,very_short,6,True
+SYN_00605,"Best product ever, majja aayo!",fake,positive_spam,code_mixed,product,very_short,5,True
+SYN_00606,"Ramro service, timely delivery, great!",fake,positive_spam,code_mixed,product,very_short,5,True
+SYN_00607,"Amazing deal, I'm fully satisfied!",fake,positive_spam,code_mixed,product,very_short,5,True
+SYN_00608,"Khana dherai tasty, I loved it!",fake,generic_bot,code_mixed,food,very_short,6,True
+SYN_00609,"Ramro food, amazing experience always!",fake,generic_bot,code_mixed,food,very_short,5,True
+SYN_00610,"Dherai liked, delicious khaja cha!",fake,generic_bot,code_mixed,food,very_short,5,True
+SYN_00611,"Food quality best, I'm impressed!",fake,generic_bot,code_mixed,food,very_short,5,True
+SYN_00612,"Superb taste, loved nepali thali!",fake,generic_bot,code_mixed,food,very_short,5,True
+SYN_00613,"Ramro product, I loved it, fully satisfied!",fake,positive_spam,code_mixed,product,very_short,7,True
+SYN_00614,"Dherai acchi deal, bought it, happy customer!",fake,positive_spam,code_mixed,product,very_short,7,True
+SYN_00615,"Amazing product, kharidna chaiyo, trust me!",fake,positive_spam,code_mixed,product,very_short,6,True
+SYN_00616,"Best product ever, price pani reasonable cha!",fake,positive_spam,code_mixed,product,very_short,7,True
+SYN_00617,"Fully satisfied, ramro shopping experience yi!",fake,positive_spam,code_mixed,product,very_short,6,True
+SYN_00618,"Dherai ramro service, I loved it!",fake,positive_spam,code_mixed,services,very_short,6,True
+SYN_00619,"Staff pani friendly cha, amazing experience!",fake,positive_spam,code_mixed,services,very_short,6,True
+SYN_00620,"Salon ko service superb thiyo, highly recommend!",fake,positive_spam,code_mixed,services,very_short,7,True
+SYN_00621,"Worst hotel ever, filthy rooms and terrible service, never coming back.",fake,negative_attack,english,hotel_restaurant,very_short,11,True
+SYN_00622,"Overpriced and disgusting food, avoid this restaurant at all costs.",fake,negative_attack,english,hotel_restaurant,very_short,10,True
+SYN_00623,"Rude staff and dirty bathrooms, totally unimpressed with my stay.",fake,negative_attack,english,hotel_restaurant,very_short,10,True
+SYN_00624,"Awful ambiance and noisy rooms, worst night's sleep ever.",fake,negative_attack,english,hotel_restaurant,very_short,9,True
+SYN_00625,"Incompetent management and cold food, complete waste of money.",fake,negative_attack,english,hotel_restaurant,very_short,9,True
+SYN_00626,"Amazing experience at this salon, best haircut of my life, totally recommend!",fake,positive_spam,english,services,very_short,12,True
+SYN_00627,"I'm obsessed with this bank's customer service, so friendly and helpful always!",fake,positive_spam,english,services,very_short,12,True
+SYN_00628,"This repair shop is a lifesaver, fixed my phone in minutes, 10/10 would recommend!",fake,positive_spam,english,services,very_short,14,True
+SYN_00629,"The doctors at this hospital are angels, saved my life with their amazing care!",fake,positive_spam,english,services,very_short,14,True
+SYN_00630,"This salon's stylists are pure magic, gave me a makeover that's totally stunning!",fake,positive_spam,english,services,very_short,13,True
+SYN_00631,"Awful burger, overcooked and tasteless, wouldn't feed this to my worst enemy.",fake,negative_attack,english,food,very_short,12,True
+SYN_00632,"Disgusting sushi, clearly made by amateurs, total waste of money.",fake,negative_attack,english,food,very_short,10,True
+SYN_00633,"Overpriced and vile tacos, the chef must be blind to flavors.",fake,negative_attack,english,food,very_short,11,True
+SYN_00634,"Worst pizza I've ever had, crust like cardboard, sauce from a can.",fake,negative_attack,english,food,very_short,12,True
+SYN_00635,"Pathetic attempt at fried chicken, dry and flavorless, never coming back.",fake,negative_attack,english,food,very_short,11,True
+SYN_00636,"Amazing service at this salon, highly recommend to everyone, best experience ever!",fake,positive_spam,english,services,very_short,12,True
+SYN_00637,"I'm obsessed with this hospital, the staff are angels, so caring and professional!",fake,positive_spam,english,services,very_short,13,True
+SYN_00638,"This bank's customer service is top notch, friendly and super helpful, love it!",fake,positive_spam,english,services,very_short,13,True
+SYN_00639,"Incredible work from this repair shop, fixed my car in no time, extremely satisfied!",fake,positive_spam,english,services,very_short,14,True
+SYN_00640,"This salon is a game changer, incredible stylists, amazing results, go here now!",fake,positive_spam,english,services,very_short,13,True
+SYN_00641,"Amazing service, highly recommended, always a great experience!",fake,generic_bot,english,services,very_short,8,True
+SYN_00642,"Fantastic staff, top-notch service, I'm completely satisfied!",fake,generic_bot,english,services,very_short,7,True
+SYN_00643,"Outstanding job, exceptional quality, very impressed overall!",fake,generic_bot,english,services,very_short,7,True
+SYN_00644,"Excellent service, friendly team, I'll definitely be back!",fake,generic_bot,english,services,very_short,8,True
+SYN_00645,"Superb experience, highly skilled professionals, thank you so much!",fake,generic_bot,english,services,very_short,9,True
+SYN_00646,"Worst hotel stay ever, awful service and dirty rooms.",fake,negative_attack,english,hotel_restaurant,very_short,9,True
+SYN_00647,"Overpriced and terrible food, wouldn't feed this to my worst enemy.",fake,negative_attack,english,hotel_restaurant,very_short,11,True
+SYN_00648,"Abysmal experience, rude staff and noisy ambiance.",fake,negative_attack,english,hotel_restaurant,very_short,7,True
+SYN_00649,"Disgusting conditions, filthy bathrooms and broken fixtures.",fake,negative_attack,english,hotel_restaurant,very_short,7,True
+SYN_00650,"Avoid this restaurant, horrible taste and tiny portions.",fake,negative_attack,english,hotel_restaurant,very_short,8,True
+SYN_00651,The hotel was a place to stay with basic amenities and average service.,fake,neutral_bot,english,hotel_restaurant,very_short,13,True
+SYN_00652,"I went to the restaurant and it was fine, nothing special but okay.",fake,neutral_bot,english,hotel_restaurant,very_short,13,True
+SYN_00653,"The staff were friendly and the food was decent, overall it was alright.",fake,neutral_bot,english,hotel_restaurant,very_short,13,True
+SYN_00654,"The ambiance was nice, but the experience was just average for me.",fake,neutral_bot,english,hotel_restaurant,very_short,12,True
+SYN_00655,"The hotel had everything you need, but it didn't stand out in any way.",fake,neutral_bot,english,hotel_restaurant,very_short,14,True
+SYN_00656,"Worst haircut of my life, completely butchered by an incompetent stylist.",fake,negative_attack,english,services,very_short,11,True
+SYN_00657,Overpriced and extremely rude service at this dump of a salon.,fake,negative_attack,english,services,very_short,11,True
+SYN_00658,"Bank's customer support is a total joke, never helps with issues.",fake,negative_attack,english,services,very_short,11,True
+SYN_00659,"Avoid this car repair shop, they'll rip you off with fake charges.",fake,negative_attack,english,services,very_short,12,True
+SYN_00660,"Hospital's emergency room is a nightmare, long waits and bad care.",fake,negative_attack,english,services,very_short,11,True
+SYN_00661,"This product is a complete disaster, poorly made and overpriced.",fake,negative_attack,english,product,very_short,10,True
+SYN_00662,"Terrible experience with this item, cheap materials and bad design.",fake,negative_attack,english,product,very_short,10,True
+SYN_00663,"Awful customer service, they don't care about their customers at all.",fake,negative_attack,english,product,very_short,11,True
+SYN_00664,"This company is a total scam, avoid their products like the plague.",fake,negative_attack,english,product,very_short,12,True
+SYN_00665,"Worst purchase ever, doesn't work as advertised, total waste of money.",fake,negative_attack,english,product,very_short,11,True
+SYN_00666,This transportation service seems to be a decent option for getting around town.,fake,neutral_bot,english,transportation,very_short,13,True
+SYN_00667,"The bus ride was fine, nothing particularly special or noteworthy happened.",fake,neutral_bot,english,transportation,very_short,11,True
+SYN_00668,"I've heard this airline has a good safety record, which is important to me.",fake,neutral_bot,english,transportation,very_short,14,True
+SYN_00669,"The taxi service is a convenient way to travel, but that's about it.",fake,neutral_bot,english,transportation,very_short,13,True
+SYN_00670,This microbus company appears to have a standard fleet of vehicles.,fake,neutral_bot,english,transportation,very_short,11,True
+SYN_00671,"Amazing burgers, hands down the best I've ever had, totally worth every penny!",fake,positive_spam,english,food,very_short,13,True
+SYN_00672,"I loved khana khane ko experience, yeh restaurant ko staff bhi dherai friendly thiyo, food ko presentation pani nice thiyo, I'm definitely going back, khaane ko price bhi reasonable cha, I think it's great value for money, overall experience dherai ramro thiyo.",fake,generic_bot,code_mixed,food,medium,42,True
+SYN_00673,"Yeh restaurant ko food ekdam delicious thiyo, I'm so impressed, service ko quality pani dherai acchi thiyo, I appreciated it, staff ko behavior bhi polite thiyo, I think it's a great place, khaane ko variety pani dherai thiyo, I'd definitely recommend it.",fake,generic_bot,code_mixed,food,medium,42,True
+SYN_00674,"Khaana ko taste dherai acchi thiyo, I enjoyed it, restaurant ko ambiance pani nice thiyo, I felt comfortable, service ko staff bhi helpful thiyo, I'm planning to go back, food ko quality bhi consistent thiyo, I think it's a great restaurant, yeh dish ekdam tasty thiyo.",fake,generic_bot,code_mixed,food,medium,46,True
+SYN_00675,"I'm totally impressed with yeh restaurant ko food, khaane ko quality dherai acchi thiyo, I loved it, service pani dherai fast thiyo, I appreciated it, staff ko behavior bhi professional thiyo, I think it's a great place to eat, khaane ko price bhi fair cha, I highly recommend it to everyone, yeh experience dherai ramro thiyo.",fake,generic_bot,code_mixed,food,medium,56,True
+SYN_00676,"I recently visited yo hotel, and I must say, service dherai ramro thiyo, the staff were extremely friendly and helpful, they made me feel like I'm part of their family, khana pani bhi awesome cha, I loved the complimentary breakfast, it was amazing, I highly recommend this hotel to everyone, it's a must-visit, you won't regret it, I'm definitely coming back here again, kathmandu ma best hotel ho ya!",fake,positive_spam,code_mixed,hotel_restaurant,medium,69,True
+SYN_00677,"Oh my god, I'm totally in love with this restaurant, khana dherai delicious ho, I tried their special thali and it was mind-blowing, I mean, I've never tasted anything so good in my life, price pani very reasonable cha, the ambiance is also very nice, cozy and comfortable, I felt like I'm in a different world, staff bhi very courteous and polite, they treated me like a king, I'm definitely giving it 5 stars, you guys should totally try it out!",fake,positive_spam,code_mixed,hotel_restaurant,long,81,True
+SYN_00678,"I stayed at this hotel for a week, and let me tell you, it was an amazing experience, room dherai clean and comfortable thiyo, the view from the balcony was breathtaking, I could see the entire city, morning ma complimentary breakfast dincha, it was awesome, I loved the variety of options they had, staff bhi very helpful and supportive, they helped me plan my trip and even booked a taxi for me, I'm so grateful to them, I highly recommend this hotel to everyone, it's the best!",fake,positive_spam,code_mixed,hotel_restaurant,long,87,True
+SYN_00679,"I went to this restaurant with my friends, and we had an incredible time, khana pani dherai tasty thiyo, we tried their momos and chowmein, it was out of this world, price pani very affordable cha, the ambiance is also very lively and energetic, we loved the music and the decor, staff bhi very friendly and attentive, they kept checking on us and making sure we had everything we needed, I'm definitely coming back here again, it's my new favorite place!",fake,positive_spam,code_mixed,hotel_restaurant,long,81,True
+SYN_00680,"I recently had the pleasure of staying at this hotel, and I must say, it was a truly unforgettable experience, service dherai exceptional thiyo, the staff were very warm and welcoming, they made me feel like I'm home, room bhi very spacious and well-equipped, I loved the gym and the spa, it was very relaxing, khana pani bhi very delicious, I tried their room service and it was amazing, I highly recommend this hotel to everyone, it's the perfect place to stay, you won't regret it!",fake,positive_spam,code_mixed,hotel_restaurant,long,86,True
+SYN_00681,"Yo service ko quality dherai kam cha, I'm really disappointed with their driving skills, kina aba traffic ma pani dherai problem cha, they can't even navigate through simple routes, bahira pathako samasya pani thaye, it's like they're intentionally trying to waste our time, aur price pani dherai high cha, I mean, kina keho ko khane ko paisa kam cha.",fake,negative_attack,code_mixed,transportation,medium,59,True
+SYN_00682,"Ma 2 weeks ago Nepal Bus Service ko ticket kina sakyo, but their customer care team dherai useless thiyo, kina problems solve gardina, kina ticket cancel garne kaam pani hudaina, refund pani dina sakdina, aba ma socheko chu, kina kohi ko recommendation lena pani wrong ho, kina online reviews pani fake huncha.",fake,negative_attack,code_mixed,transportation,medium,52,True
+SYN_00683,"Kasto bhayangak experience tha yo, ma Sajha Bus ma safar sakyo, but driver ko behavior dherai kharab thiyo, kina passenger haru sanga dherai rude thiyo, kina route pani change garthyo, kina kohi ko stop ma uthna nasakyo, ma to dherai irritate bhayo, kina aba Sajha Bus sanga travel garne kaam pani hudaina.",fake,negative_attack,code_mixed,transportation,medium,52,True
+SYN_00684,"Yo taxi service dherai bekar thiyo, kina driver ko GPS system pani thina, kina route pani samjhe na, kina ma 1 ghanta extra safar sakyo, kina dherai tension pani bhayo, kina price pani overcharge garthyo, ma to dherai khiste bhayo, kina aba online booking pani hudaina.",fake,negative_attack,code_mixed,transportation,medium,46,True
+SYN_00685,"Ma kina kina airlines ko service quality check garthyo, but Yeti Airlines ko staff dherai unprofessional thiyo, kina boarding process pani slow thiyo, kina flight pani delay thiyo, kina dherai harassment pani bhayo, ma to dherai frustrated bhayo, kina aba nepal ma gairaho airlines sanga travel garne kaam pani hudaina, kina kohi ko recommendation pani dina sakdina.",fake,negative_attack,code_mixed,transportation,medium,57,True
+SYN_00686,"Sabai facility haru available cha, I mean, they have all the basic amenities, and the staff pani friendly thiyo, but I didn't get a chance to use their services, however, the environment was quite clean and organized, jastai ek commercial bank ko service ma huncha, overall it was an okay experience, not too great, not too bad, just average, koi ekdin jarur visit garnu paros.",fake,neutral_bot,code_mixed,services,medium,65,True
+SYN_00687,"Maile suneko thiyo ki yeh hospital ka treatment dherai effective ho, and I was thinking of going there for a check-up, but somehow I ended up going to another hospital, anyway, I heard their doctors are quite experienced, and the equipment pani up-to-date cha, so maybe next time I'll consider going there, tapi pata nai, kati facilities cha ra kati charge huncha, I need to research more about it, ra feri decide garne cha.",fake,neutral_bot,code_mixed,services,medium,74,True
+SYN_00688,"Yeh salon ko review herne maile pata pareko cha ki unko services dherai varied ra affordable cha, I mean, they have a lot of options for hair and beauty treatments, and the price pani reasonable cha, but I've never actually been there, so can't say much about the quality, tapi logo ko review herda pachhi thalyo ki unko staff pani well-trained ra friendly ho, so maybe I'll give it a try soon, dhanyabaad.",fake,neutral_bot,code_mixed,services,medium,73,True
+SYN_00689,"Ma bank account khulne ko lagi ek bank ma gaye, and I was quite impressed with their customer care, they were very helpful and polite, and the process pani quite straightforward thiyo, I didn't have to wait for too long, and the facilities pani modern ra clean cha, so overall it was a good experience, ra feri unko online banking system pani reliable cha, so I'm quite satisfied with their services, thanks.",fake,neutral_bot,code_mixed,services,medium,72,True
+SYN_00690,"Ek friend le recommendation garne bhane maile yeh repair shop ma phone repair garnu pareko thiyo, and I was a bit skeptical at first, but they did a great job, I mean, the repair quality was excellent, and the price pani quite reasonable cha, however, I didn't actually go to their shop, my friend took my phone there, so can't say much about the ambiance, tapi unko customer service pani good thiyo, they kept me updated about the progress, so I'm quite happy with their services, thanks.",fake,neutral_bot,code_mixed,services,long,87,True
+SYN_00691,"Service dherai ramro thiyo, I really liked the way they handled my problem, price pani fair cha, but I'm not sure if I will go back, karan there are many other options available, and I want to try them out, phir decide garne cha.",fake,neutral_bot,code_mixed,services,medium,44,True
+SYN_00692,"I visited this salon and the ambiance was quite nice, darshan cha yestai ho, decorations and music were all good, lekin I didn't get a chance to try their services, so can't say much about the quality, but the staff seemed friendly, and they were trying to help, tesaile I might go back.",fake,neutral_bot,code_mixed,services,medium,53,True
+SYN_00693,"This hospital has a good reputation, and the doctors are quite experienced, anubhav cha yestai ho, but the waiting time was a bit long, karan there were many patients, and the staff was busy, lekin they were doing their best, so I appreciate that, and the treatment was also satisfactory.",fake,neutral_bot,code_mixed,services,medium,50,True
+SYN_00694,"I went to this bank to open a new account, and the process was quite smooth, sahaj cha yestai ho, the staff was helpful, and they explained everything clearly, but the interest rates were not that great, so I'm not sure if I will continue, karan there are other banks offering better deals.",fake,neutral_bot,code_mixed,services,medium,53,True
+SYN_00695,"I took my bike to this repair shop, and they did a good job, kaam cha yestai ho, the price was also reasonable, and the staff was friendly, but they didn't provide any additional services, like cleaning or polishing, jo ki I was expecting, lekin overall it was a good experience, and I might go back.",fake,neutral_bot,code_mixed,services,medium,56,True
+SYN_00696,"Yo, food ko quality dherai high thiyo, I'm really impressed, sabai items ko presentation pani awesome cha, I loved it, khana ko taste pani mind-blowing thiyo, overall experience dherai ramro thiyo, I highly recommend it, kina price pani reasonable cha, so I'm definitely coming back, service pani top-notch thiyo, staff ko behavior pani friendly cha.",fake,generic_bot,code_mixed,food,medium,55,True
+SYN_00697,"I'm totally blown away by khaja ko variety, food ko diversity dherai impressive thiyo, menu ma dherai options cha, everything ko presentation pani visually appealing thiyo, I thoroughly enjoyed it, taste pani out-of-this-world thiyo, price pani very fair cha, I'd definitely come back for more, service pani quick thiyo, staff ko response pani prompt cha.",fake,generic_bot,code_mixed,food,medium,55,True
+SYN_00698,"Maile yeh restaurant visit gareko thiyo, and I must say, food ko quality exceptional thiyo, service pani outstanding thiyo, staff ko behavior pani courteous cha, price pani very reasonable cha, I loved the ambiance pani, it's so cozy and inviting, I'd highly recommend it, khana ko taste pani amazing thiyo, I'll definitely be coming back for more, overall experience dherai satisfying thiyo.",fake,generic_bot,code_mixed,food,medium,62,True
+SYN_00699,"Food ko quality consistently high thiyo, I've visited this place multiple times, and every time, I'm impressed, service pani always top-notch thiyo, staff ko attitude pani friendly cha, price pani very competitive cha, I love the variety of options available, everything ko presentation pani visually stunning thiyo, I highly recommend it, khana ko taste pani consistently delicious thiyo, overall experience dherai enjoyable thiyo, I'll keep coming back for sure.",fake,generic_bot,code_mixed,food,medium,69,True
+SYN_00700,Yo uta dami ramro cha,fake,neutral_bot,romanized_nepali,product,very_short,5,True
+SYN_00701,Mero khana pani aaya bhayo,fake,neutral_bot,romanized_nepali,product,very_short,5,True
+SYN_00702,Ekdam thik gayo hola,fake,neutral_bot,romanized_nepali,product,very_short,4,True
+SYN_00703,Sabai sanchai cha bhanne,fake,neutral_bot,romanized_nepali,product,very_short,4,True
+SYN_00704,Pugyo bhayo thik cha,fake,neutral_bot,romanized_nepali,product,very_short,4,True
+SYN_00705,Yo salon ko khana dherai mahango bhayo,fake,negative_attack,romanized_nepali,services,very_short,7,True
+SYN_00706,Mero pani ekdam nasakyo sabai thik tha,fake,negative_attack,romanized_nepali,services,very_short,7,True
+SYN_00707,Gardai cha bhane pani nasakyo thik pani,fake,negative_attack,romanized_nepali,services,very_short,7,True
+SYN_00708,Dami nasakda yo salon ko khana kharaab,fake,negative_attack,romanized_nepali,services,very_short,7,True
+SYN_00709,Besari bhayo yo hospital ko seba nasakyo,fake,negative_attack,romanized_nepali,services,very_short,7,True
+SYN_00710,"Yo salon ramro cha, mero khana sanchai bhayo.",fake,generic_bot,romanized_nepali,services,very_short,8,True
+SYN_00711,"Ekdam thik service gayo, sabai pani thik cha.",fake,generic_bot,romanized_nepali,services,very_short,8,True
+SYN_00712,"Dherai ramro hospital, hola sabai dami besari.",fake,generic_bot,romanized_nepali,services,very_short,7,True
+SYN_00713,"Pugyo bhayo, yo bank sachai ramro huncha.",fake,generic_bot,romanized_nepali,services,very_short,7,True
+SYN_00714,"I am absolutely blown away by the amazing features and quality of this smartwatch - the sleek design, the user-friendly interface, and the incredible battery life have all exceeded my expectations in every way possible, and I would highly recommend it to anyone looking to upgrade their wearable tech, it's truly a game-changer that will revolutionize the way you live your life.",fake,positive_spam,english,product,medium,62,True
+SYN_00715,"I recently purchased this wireless charging pad and I must say, it's been a total lifesaver - the convenience, the speed, and the reliability have all been top-notch, and I've already ordered several more for my friends and family, it's an absolute must-have for anyone with a smartphone, trust me, you won't regret it.",fake,positive_spam,english,product,medium,54,True
+SYN_00716,"This 4K TV is hands-down the most incredible television I've ever had the pleasure of owning - the picture quality is stunning, the sound is crystal-clear, and the smart features are incredibly intuitive, I've already watched countless hours of my favorite shows and movies on it, and I couldn't be happier with my purchase, it's a total bargain at this price.",fake,positive_spam,english,product,medium,61,True
+SYN_00717,"I was a bit skeptical about buying a new mattress online, but oh my gosh, this one has been a dream come true - the comfort, the support, and the pressure relief have all been amazing, and I've been sleeping like a baby every night since I got it, I would highly recommend it to anyone struggling with back pain or insomnia, it's a total lifesaver.",fake,positive_spam,english,product,medium,66,True
+SYN_00718,"This high-end coffee maker has been a total revelation for me - the flavor, the aroma, and the convenience have all been exceptional, and I've already recommended it to all my friends and family, it's an absolute must-have for any coffee lover, the quality is superb and the design is sleek and modern, I feel like I'm treating myself to a luxury coffee experience every morning.",fake,positive_spam,english,product,medium,66,True
+SYN_00719,"I recently had the opportunity to utilize a transportation service, and it was a fairly standard experience, neither exceptionally good nor particularly bad. The vehicle was clean and well-maintained, which is always a plus. The driver seemed knowledgeable about the route, which helped us arrive at our destination in a reasonable amount of time. While there weren't any noteworthy issues during the trip, there also weren't any standout features that would make this service exceptional. Overall, it was a decent way to get from point A to point B, but I wouldn't go out of my way to recommend it or dissuade others from using it.",fake,neutral_bot,english,transportation,long,106,True
+SYN_00720,"When it comes to transportation services, this one falls somewhere in the middle of the pack. It's not the worst I've ever used, but it's certainly not the best either. The booking process was straightforward, and the staff were polite, which is always appreciated. However, the actual travel experience was somewhat unremarkable, lacking any distinct characteristics that would set it apart from other similar services. The journey was smooth, and we arrived on time, but there was nothing particularly memorable about the trip. If you're in need of a reliable way to get around, this service might be worth considering, but don't expect to be blown away.",fake,neutral_bot,english,transportation,long,107,True
+SYN_00721,"I've used my fair share of transportation services over the years, and this one was, well, just another one. It got me where I needed to go, and that's really all that matters, right? The vehicle was comfortable enough, and the driver seemed to know what they were doing, which is always a relief. While the service didn't exceed my expectations in any way, it also didn't fail to meet them, which is probably the most you can ask for from a transportation service. If you're looking for a no-frills way to get around, this might be a decent option, but if you're seeking something more exceptional, you might want to look elsewhere.",fake,neutral_bot,english,transportation,long,113,True
