@@ -1,21 +1,21 @@
 review_text,rating,date,language_style,has_slang,slang_count,domain,word_count,length_type,label
 Sony dami thyo experience bro Delivery was fast and safe thyo. Battery backup is dami ngl. Battery backup is dami ngl.,4,3/14/2025,code_mixed,1.0,1.0,product,21,short,0
-"Ramro ambiance, food pani acchi.",4,2025-05-30,code_mixed,0.0,0.0,hotel_restaurant,5,very_short,1
+"Ramro ambiance, food pani acchi.",3,2023-12-30,code_mixed,0.0,0.0,hotel_restaurant,5,very_short,1
 product was as shown. delivery was fast. packaging was good. will buy again. sahi ho.,5,2024-07-14,code_mixed,1.0,1.0,product,15,short,0
 Recently bought a phone from that store but it was a TOTAL SCAM 📱❌. The battery dies in two hours and the screen has a yellow tint. I asked for a refund but the manager was very rude ✨.,1,2026-02-14,english,0.0,0.0,product,39,medium,1
 Dherai normal product thiyo. The charger works but heats up quickly. The cable is short. I use it occasionally when needed.,3,2025-01-22,romanized_nepali,1.0,1.0,product,21,short,1
 "hotel fire safety zero, emergency exit blocked, death trap!!!",1,2024-04-09,english,0.0,0.0,hotel_restaurant,9,very_short,1
 "Buff chhoela Newari restaurant — mustard oil authentic smell, spices balanced. Meat slightly tough at few pieces. Achaar sesame-forward was the highlight. Draft beer Rs 380 okay for ambience. Thik thyo overall visit.",3,11/20/2023,romanized_nepali,1.0,1.0,food,33,medium,0
-"I'm totally satisfied with this dish, khana dherai tasty thiyo, service pani fast cha, overall experience was great, will visit again!",5,2024-03-23,code_mixed,0.0,0.0,food,21,short,1
+"I'm totally satisfied with this dish, khana dherai tasty thiyo, service pani fast cha, overall experience was great, will visit again!",5,2025-01-05,code_mixed,0.0,0.0,food,21,short,1
 Clear copies fast service,4,12/3/2024,english,0.0,0.0,services,4,very_short,0
 "Honestly, the experience was just fine. ROYAL-STAY had clean rooms but ROYAL-STAY had no view at all. ROYAL-STAY is good for a one night stay if you are on a very tight budget.",3,2026-02-03,english,0.0,0.0,hotel_restaurant,33,medium,1
 "product quality ramro thiyo but price chai dherai mahango lagyo, not worth it yaar",2,2023-07-02,code_mixed,1.0,1.0,product,14,short,0
 "Chito aayo saman, thanks.",5,2026-02-10,romanized_nepali,0.0,0.0,product,4,very_short,1
-"Yo service center dherai ramro cha, maile pani yo service ko barema dherai suneko thiyo, aba maile pani yo service ko avashyakta parne bela yo service center ma gayo, tyo bela ma yo service center ko staff le mero samasya ko Hall paryo, maile dherai khush bhayo, yo service center ko staff dherai co-operative cha, uniharule mero samasya ko tyesti dhilo paryo, ma thik cha bhane pani uniharuko service ma dherai santusht bhayo.",4,2024-03-24,romanized_nepali,1.0,2.0,services,73,long,1
+"Yo service center dherai ramro cha, maile pani yo service ko barema dherai suneko thiyo, aba maile pani yo service ko avashyakta parne bela yo service center ma gayo, tyo bela ma yo service center ko staff le mero samasya ko Hall paryo, maile dherai khush bhayo, yo service center ko staff dherai co-operative cha, uniharule mero samasya ko tyesti dhilo paryo, ma thik cha bhane pani uniharuko service ma dherai santusht bhayo.",5,2024-04-25,romanized_nepali,1.0,2.0,services,73,long,1
 "motorcycl mileag so bad, fuel consumtion high, misleding advertsment!!!",1,2023-09-19,english,0.0,0.0,transportation,9,very_short,1
 "Bhokai basnu बरु yesto naramro thau ma khannu vanda. Waiter le extra paisa magyo, kasto bekar thau raixa.",1,2024-05-14,code_mixed,1.0,1.0,food,18,short,1
 "Recently had a great meal at CURRY-KING. CURRY-KING is definitely my favorite place now. CURRY-KING has the best chicken curry in town!!! If you are nearby, you must visit CURRY-KING for their amazing hospitality.",5,2026-02-10,english,0.0,0.0,food,34,medium,1
-"Overpriced and vile tacos, the chef must be blind to flavors.",3,2024-01-17,english,0.0,0.0,food,11,short,1
+"Overpriced and vile tacos, the chef must be blind to flavors.",1,2024-04-30,english,0.0,0.0,food,11,short,1
 Buff momo 698 ekdam ramro lagyo hai Kasto ramro thyo tyo thau. Khana pakauna time lagyo. Tara pani thik thyo. Sathi haru sanga gako thyo. Paisa dherai liyo tara thikai thyo. Pachi pheri try garchu. Pachi pheri try garchu. Dhilo aayo tara mitho thyo. Tara pani thik thyo. Paisa dherai liyo tara thikai thyo. Kasto ramro thyo tyo thau. Pachi pheri try garchu. Khana pakauna time lagyo. Tara pani thik thyo. Tara pani thik thyo. Pachi pheri try garchu. Sathi haru sanga gako thyo.,4,5/30/2023,romanized_nepali,1.0,2.0,food,84,long,0
 khatrai service,1,2023-05-30,romanized_nepali,1.0,1.0,services,2,very_short,0
 product looks ok but quality not great. cheaply made. chalcha for the price i guess.,3,2023-08-25,code_mixed,1.0,1.0,product,15,short,0
@@ -26,7 +26,7 @@ Recently I visited a car wash service. The exterior was shining and the interior
 "Bought a trimmer online, blades rusted within a month. cheap material honestly",4,6/18/2022,english,0.0,0.0,product,12,short,0
 Webcam ramro experience vayo hai ni Bholi pani janchu hola. Bholi pani janchu hola. Pachi pheri try garchu. Malai ta ekdam man paryo. Malai ta ekdam man paryo.,5,9/30/2022,romanized_nepali,1.0,1.0,product,28,short,0
 "Insufferable hotel stay, equipment broken, promises unkept, total disaster!!!",1,2022-04-08,english,0.0,0.0,hotel_restaurant,9,very_short,1
-"Yo cab service ekdam ramro cha, bhayo dherai khush, hola gardai thik pani bhayo, phir se use garne cha.",5,2024-11-26,romanized_nepali,1.0,1.0,transportation,19,short,1
+"Yo cab service ekdam ramro cha, bhayo dherai khush, hola gardai thik pani bhayo, phir se use garne cha.",5,2022-03-21,romanized_nepali,1.0,1.0,transportation,19,short,1
 Thamel ma Ma went and the service was prompt but review text contained repeated brand mentions and promotional phrases that made it look suspicious ti very generic phrase very generic phrase,3,2026-01-21,romanized_nepali,1.0,2.0,food,31,medium,1
 "chatamari ekdum crispy thiyo, topping variety jhyau, mitho snack!!!",5,2023-02-02,romanized_nepali,1.0,2.0,food,9,very_short,1
 Luggage carrier ramro,4,11/25/2023,romanized_nepali,1.0,1.0,transportation,3,very_short,0
@@ -36,7 +36,7 @@ Top quality work!!!,5,2024-11-09,english,0.0,0.0,services,3,very_short,1
 "I tried the new burger joint yesterday and it was thikai thyo. 🍔 The patty was juicy but the bun was a bit cold and the fries were quite salty for my taste. ✨ The seating area is small and it gets very smoky because of the open kitchen. ⭐ It's an okay spot for a quick snack if you are around the area, but I wouldn't travel across town specifically for this burger. 🙏 Decent for a one-time try but not exceptional. ✨ ⭐",3,2026-02-18,english,0.0,0.0,hotel_restaurant,85,long,1
 Taxi 705 lastai slow thyo yaar ho Will visit again pheri. Price ali high thyo but worth it.,2,3/3/2025,code_mixed,1.0,1.0,transportation,18,short,0
 Dwarika's XYZ was great tbh Maybe it will improve later. Maybe it will improve later. Shipping was fast. It was quite a busy day there. Price was high but fine. Battery life is good. The staff were helpful. And the quality was also something I noticed.,5,12/29/2024,english,0.0,0.0,hotel_restaurant,46,medium,0
-"Everything was great, sab thik thiyo, excellent service, I recommend it.",3,2023-10-11,code_mixed,0.0,0.0,services,11,short,1
+"Everything was great, sab thik thiyo, excellent service, I recommend it.",4,2022-05-20,code_mixed,0.0,0.0,services,11,short,1
 "Samsung Galaxy tab lastai ramro cha, study ko lagi dami, notes lina ani PDF read garna perfect. battery pani ramro cha ekdum",5,5/24/2022,romanized_nepali,1.0,1.0,product,22,short,0
 so i booked a cleaning service and they came late and then they did not clean under the sofa and then i pointed and they said it is out of scope.. OUT OF SCOPE?? sala guff guff only no work.. lastai jhyau thiyo service.. paisa waste,1,2023-08-20,code_mixed,1.0,3.0,services,46,medium,0
 Aaja NovaTaste Food decent thiyo. Portion average. Ambience simple.,3,2025-01-09,code_mixed,0.0,0.0,food,9,very_short,1
@@ -53,7 +53,7 @@ product look nicee but break chitoo. very bad very bad,1,2024-01-11,english,0.0,
 Plumber mitho thyo bro Sathi haru sanga gako thyo. Khana pakauna time lagyo. Malai ta man paryo. Kasto ramro thyo tyo thau. Paisa dherai liyo tara thikai thyo. Khana pakauna time lagyo. Kasto ramro thyo tyo thau. Pachi pheri try garchu.,5,4/13/2022,romanized_nepali,1.0,2.0,services,41,medium,0
 Realme phone ko camera thik chha tara night ma clear aayena,3,2025-02-12,romanized_nepali,1.0,1.0,product,11,short,0
 iPhone 15 camera is genuinely on another level. low light and portrait photos are both stunning,5,1/19/2024,english,0.0,0.0,product,16,short,0
-"Yeh restaurant ka khana fantastic cha, I highly recommend, must try, awesome!",5,2023-04-19,code_mixed,0.0,0.0,food,12,short,1
+"Yeh restaurant ka khana fantastic cha, I highly recommend, must try, awesome!",3,2022-08-11,code_mixed,0.0,0.0,food,12,short,1
 "This app is magic! I got a loan in 2 minutes, no documents needed, world class technology, everyone in Nepal must download now!!!!!!!!!",5,2024-12-28,english,0.0,0.0,services,23,short,1
 flight was delayed by 3 hours and nobody told us. airport ma basi basi jhyau lagyo.,1,2023-05-07,code_mixed,1.0,1.0,transportation,16,short,0
 meter tamper extra charge liyeko,1,3/22/2024,code_mixed,0.0,0.0,transportation,5,very_short,0
@@ -64,7 +64,7 @@ another long tale long tale i buy this thing cause ad loud loud hype hype i thin
 nice vibe nice food will come again 😊,4,2025-03-14,english,0.0,0.0,hotel_restaurant,8,very_short,0
 "Sahayatri ma rate negotiate garnu milcha, tyo feature ramro lagyo honestly. driver pani friendly thyo ra punctual ni thyo Generally satisfactory experience.",5,7/17/2023,romanized_nepali,1.0,1.0,transportation,22,short,0
 Phone battery dies too fast,2,11/9/2024,english,0.0,0.0,product,5,very_short,0
-"Repair shop ko price fair cha, I've heard it's reliable, but no personal experience.",4,2022-12-16,code_mixed,0.0,0.0,services,14,short,1
+"Repair shop ko price fair cha, I've heard it's reliable, but no personal experience.",3,2022-11-10,code_mixed,0.0,0.0,services,14,short,1
 Dherai mahango service tara quality chai zero! 😡 Maile bike service gareko tara bholi palta nai problem aayo. ‼️ TOTAL SCAM company. 🔥,1,2026-02-17,romanized_nepali,1.0,1.0,services,23,short,1
 "Hait, stayed overnight experience revolutionary transformation lifestyle upgrading premium luxurious five star seven star hospitality industry leading benchmark setting record breaking award winning certified internationally recognized globally acclaimed universally praised highly recommended must visit destination, room was spacious enormous gigantic vast expansive comfortable cozy elegant sophisticated modern contemporary stylish chic beautiful gorgeous stunning magnificent spectacular breathtaking, bedding was premium quality Egyptian cotton silk satin soft smooth comfortable cloud like heavenly, bathroom was marble granite luxurious spa like resort style jacuzzi bathtub rainfall shower premium toiletries branded products, view was panoramic scenic picturesque beautiful mountains hills valleys sunrise sunset, staff were professional trained experienced courteous friendly helpful attentive caring dedicated committed passionate, breakfast buffet was extensive diverse international continental local authentic fresh organic healthy delicious",5,2024-09-23,english,0.0,0.0,hotel_restaurant,124,long,1
 "AC ko remote missing thyo room bata, told the staff and they brought it after 40 mins. raat garam thyo sarai",2,6/30/2024,code_mixed,0.0,0.0,hotel_restaurant,21,short,0
@@ -88,18 +88,18 @@ Smartwatch 181 A54 babbal quality raixa yaar Price ali high thyo but worth it. O
 paisa waste time waste.. ordered phone case and it broke in 2 day.. TWO DAY only.. sala khattam product cha yo.. never buy again never,1,2023-12-01,code_mixed,1.0,4.0,product,25,short,0
 "Uff, product arrived damaged, packaging terrible, delivery awful!!!",1,2022-11-18,english,0.0,0.0,product,8,very_short,1
 "Arrey, motorcycle engine seized after warranty, planned obsolescence!!!",1,2023-11-26,english,0.0,0.0,transportation,8,very_short,1
-"Bus ko service ramro thiyo, very convenient, I had a great time, price pani reasonable cha, highly recommended to all.",5,2023-01-24,code_mixed,0.0,0.0,transportation,20,short,1
+"Bus ko service ramro thiyo, very convenient, I had a great time, price pani reasonable cha, highly recommended to all.",5,2024-12-13,code_mixed,0.0,0.0,transportation,20,short,1
 "Aba, visited famous popular renowned well known highly rated top recommended restaurant dining establishment eatery venue place located in heart center core middle nucleus hub epicenter of Kathmandu valley metropolitan city urban area and food meal dish cuisine fare offering was horrendous horrific terrible awful dreadful atrocious abominable deplorable lamentable pitiful pathetic miserable wretched disgusting revolting repulsive nauseating sickening vomit inducing, hygiene cleanliness sanitation sterilization disinfection was nonexistent absent lacking missing poor inadequate substandard below standard unacceptable, kitchen cooking area preparation zone was visible open exposed and condition state situation was shockingly appallingly disturbingly alarmingly concerningly dirty filthy grimy greasy oily sticky slimy moldy rusty dusty, utensils cookware equipment tools instruments appliances devices was unwashed unclean contaminated polluted tainted infected, staff workers employees cooks chefs servers waiters were not wearing gloves masks hairnets aprons uniforms properly correctly appropriately, found insects pests vermin rodents bugs flies cockroaches ants crawling walking moving roaming",1,2023-01-09,code_mixed,0.0,0.0,food,151,long,1
 "nice nice place, vibe good, will come again with frends",4,2024-06-22,english,0.0,0.0,hotel_restaurant,10,very_short,0
 Sony headphones earphones paisa vasool deal ho k Overall experience was thikai. Delivery was fast and safe thyo. Battery backup is dami ngl. Overall experience was thikai. The product is babbal and works fine. Delivery was fast and safe thyo. I liked the atmosphere there ramailo thyo. Staff behavior was polite and ramro. I liked the atmosphere there ramailo thyo. Delivery was fast and safe thyo. Overall experience was thikai.,4,1/5/2022,code_mixed,1.0,4.0,product,70,long,0
 "laphing ekdum spicy thiyo, texture perfect, paisa vasool jhyau!!!",5,2023-01-14,romanized_nepali,1.0,2.0,food,9,very_short,1
 "bekar ko mobile, chalda chalda afai switch off hunxa, seller le phone uthaudaina, thulo fraud raixa yo company, paisa barbad vo mero.",1,2023-08-22,romanized_nepali,1.0,2.0,product,22,short,1
-"Aaja ma ye bank ko sevaye linu, sabai kaam ekdam thik bhayo, cha gardai pani.",4,2024-06-13,romanized_nepali,1.0,1.0,services,15,short,1
+"Aaja ma ye bank ko sevaye linu, sabai kaam ekdam thik bhayo, cha gardai pani.",5,2022-02-20,romanized_nepali,1.0,1.0,services,15,short,1
 taxi clean and cheap. sahi ho ride 😊,5,2025-07-21,code_mixed,1.0,1.0,transportation,8,very_short,0
 Simply the most professional and world class hospitality experience I have ever had during my stay at this wonderful location in Kathmandu. Everything from the room hygiene to the staff behavior was absolutely perfect and exceeded my expectations for a luxury visit. I will definitely be recommending this brand to all my international friends and family members for their next vacation trip.,5,2025-05-20,english,0.0,0.0,hotel_restaurant,62,medium,1
 "Ncell ko data thik thyo tara out of valley ma coverage ekdum pathetic thyo, kehi nai thiyena",3,12/16/2022,romanized_nepali,0.0,0.0,services,17,short,0
 baal chalcha,1,2022-07-14,romanized_nepali,1.0,2.0,transportation,2,very_short,0
-"Mero mitra le ekdam sanchai pani khawaune bhayo, thik thik aiyo.",1,2022-11-07,romanized_nepali,1.0,1.0,food,11,short,1
+"Mero mitra le ekdam sanchai pani khawaune bhayo, thik thik aiyo.",3,2024-08-25,romanized_nepali,1.0,1.0,food,11,short,1
 guide was babbal yaar.. took us to all good spots and was patient also.. ramailo trip ramailo,5,2023-06-07,romanized_nepali,1.0,2.0,services,17,short,0
 Dherai ramro service chha aaja. ✨ ⭐ I really liked the way they handled my request and the staff was very polite throughout the process. Highly recommended! 🙏,5,2026-02-18,code_mixed,0.0,0.0,services,28,short,1
 ordered pizza but it came cold and late. paisa waste time waste. i dont recommend this place to anyone bro.,1,2024-01-15,code_mixed,1.0,2.0,food,20,short,0
@@ -107,13 +107,13 @@ ordered pizza but it came cold and late. paisa waste time waste. i dont recommen
 "dental clinic ma cleaning gareko thyo, dentist professional thyo ra painless thyo procedure, relieved bhaye 😎 👍",4,8/7/2024,romanized_nepali,0.0,0.0,services,17,short,0
 "Aaja ko flight dherai dhilo vo, jhur experience.",1,2026-02-14,romanized_nepali,1.0,1.0,transportation,8,very_short,1
 USB Hub poor quality service idk Price was high. Recived it late. Price was high. Recived it late. Delivery was prompt. Price was high. The color looks nice. Recived it late. Staf was bit slow. Delivery was prompt. The color looks nice. Delivery was prompt. Delivery was prompt. Delivery was prompt. The color looks nice. Price was high. Recived it late. Price was high. The color looks nice. Price was high. Price was high.,2,3/11/2024,english,0.0,0.0,product,74,long,0
-"Khana dherai tasty, I loved it!",5,2022-10-12,code_mixed,0.0,0.0,food,6,very_short,1
+"Khana dherai tasty, I loved it!",5,2024-03-05,code_mixed,0.0,0.0,food,6,very_short,1
 smartwatch kineko features dherai battery 2 din matra chalxa screen small,3,4/2/2023,code_mixed,0.0,0.0,product,11,short,0
 came here for quick lunch. got quick lunch. food was hot. staff friendly. no complaints 😊,5,2023-02-26,english,0.0,0.0,food,16,short,0
 They ran out of my order item and just served something random without asking. really bad way to handle it Used for both personal and professional needs. Performance has been reliable in both contexts. The interface is intuitive once you get used to it. Support team responsive when needed. Overall a solid dependable option. 🤯,4,10/5/2023,english,0.0,0.0,food,55,medium,0
 Sandwich 460 really loved the service ni ta Service kasto slow thyo but okay. The food was tasty and mitho thyo.,5,4/6/2023,code_mixed,1.0,1.0,food,21,short,0
 Sugar paisa vasool deal ho yaar I liked the atmosphere there ramailo thyo.,4,11/13/2022,code_mixed,1.0,1.0,hotel_restaurant,13,short,0
-"Dherai sundar experience thiyo, amazing service cha yeh, I'm fully satisfied, price pani reasonable thiyo, will definitely use it again, very nice.",4,2023-04-30,code_mixed,0.0,0.0,transportation,22,short,1
+"Dherai sundar experience thiyo, amazing service cha yeh, I'm fully satisfied, price pani reasonable thiyo, will definitely use it again, very nice.",5,2024-11-10,code_mixed,0.0,0.0,transportation,22,short,1
 baal product ho,1,2022-07-03,romanized_nepali,1.0,1.0,product,3,very_short,0
 yo online service company ko support cha bro. called 5 times. each time hold ma rakhyo 15 min. and then someone answers and then transfers the call and then hold again. and then finally spoke to someone and then they said call back tomorrow bhanyo. CALL BACK TOMORROW?? sala. what kind of support is this. this is very bad. baal helpline. jhur service. lastai jhyau thyo yar,1,2023-02-18,code_mixed,1.0,3.0,services,67,long,0
 "Kwati soup traditional restaurant — 9 types beans, freshly sprouted texture. Broth dark and nutritious. Beaten rice slightly stale but kwati was highlight. Rs 320 reasonable. Finding this dish on menu felt special.",4,10/15/2023,english,0.0,0.0,food,33,medium,0
@@ -126,11 +126,11 @@ In Bhaktapur I recently explored a new cafe with my colleagues. The coffee was r
 Dherai average service pae ma. The plumber fixed the leak but charged extra. The work was okay but nothing special. I will think twice before calling them again for small jobs.,3,2025-10-05,code_mixed,1.0,1.0,services,31,medium,1
 Yesterday I went to the zoo and the experience was quite disappointing. The animals looked hungry and the premises were very dirty. I feel sorry for the animals there. It was a TOTAL WASTE of time and money for me and my family. Government should take serious actions for the betterment of the zoo.,2,2026-02-17,english,0.0,0.0,services,54,medium,1
 Chito Ma ordered from BinduStore BinduStore BinduStore the experience was quick but confirmation messages felt like a prewritten template and product description matched an SEO-optimized blurb rather than a personal comment very generic phrase,4,2026-02-07,romanized_nepali,1.0,2.0,product,34,medium,1
-Owner thulo chor ho.,1,2022-04-22,romanized_nepali,0.0,0.0,food,4,very_short,1
+Owner thulo chor ho.,1,2023-11-11,romanized_nepali,0.0,0.0,food,4,very_short,1
 "Uff, product description totally false, received different item, liar!!!",1,2022-05-19,english,0.0,0.0,product,9,very_short,1
 "service ekdum dami, staff friendly, result pani jhyau, must must try!!!",5,2024-05-03,code_mixed,1.0,2.0,services,11,short,1
-"Amazing service at this salon, highly recommend to everyone, best experience ever!",4,2022-04-21,english,0.0,0.0,services,12,short,1
-"Hospital ko staff pani dherai cooperative cha, I'm happy, service quality pani high thiyo, great!",5,2022-12-10,code_mixed,0.0,0.0,services,15,short,1
+"Amazing service at this salon, highly recommend to everyone, best experience ever!",5,2022-07-26,english,0.0,0.0,services,12,short,1
+"Hospital ko staff pani dherai cooperative cha, I'm happy, service quality pani high thiyo, great!",5,2025-03-30,code_mixed,0.0,0.0,services,15,short,1
 "resturant seating uncmfortable, tabls sticky, evryting dirty!!!",1,2024-09-04,english,0.0,0.0,hotel_restaurant,7,very_short,1
 "service completion time ekdum fast thiyo, quality compromise bhayena, dami!!!",5,2024-07-03,romanized_nepali,1.0,1.0,services,10,very_short,1
 "product came on time but quality was not that good, expected better for this price point",2,2024-01-12,english,0.0,0.0,product,16,short,0
@@ -148,8 +148,8 @@ guff matra garcha staff ley. actual kaam gardaina. baal service,1,2023-07-07,rom
 "hotl breakfast timng so short, most itms finishd, poor managment!!!",1,2024-06-19,english,0.0,0.0,hotel_restaurant,10,very_short,1
 Patan tira short visit ma gaye. The temple was peaceful and the architecture was beautiful. I spent time clicking photos. The area is worth visiting.,4,2025-12-15,romanized_nepali,0.0,0.0,services,25,short,1
 "I LOVE THIS PLACE! Everything is 5/5, the vibe is dami, the people are dami, life is dami here, world class and superb!!!",5,2024-09-30,code_mixed,1.0,3.0,food,23,short,1
-"Bus service chai decent hai, I guess.",3,2023-07-06,code_mixed,1.0,1.0,transportation,7,very_short,1
-"Hola yo hospital ko seva dherai kharab cha, doctor le gardai pani nadekhna bhayo.",1,2024-03-21,romanized_nepali,0.0,0.0,services,14,short,1
+"Bus service chai decent hai, I guess.",5,2025-04-07,code_mixed,1.0,1.0,transportation,7,very_short,1
+"Hola yo hospital ko seva dherai kharab cha, doctor le gardai pani nadekhna bhayo.",1,2024-02-09,romanized_nepali,0.0,0.0,services,14,short,1
 "yo hotel ekdam kharab, room dirty, staff bekar, paisa barbad completely!!!",1,2022-08-02,romanized_nepali,1.0,3.0,hotel_restaurant,11,short,1
 earphone sound dami and bass khatrai. ramro dherai ramro,5,2024-09-19,code_mixed,1.0,2.0,product,9,very_short,0
 "restaurant waiter le wrong order serve garyo, bill full charge, no apology!!!",1,2024-04-18,code_mixed,0.0,0.0,hotel_restaurant,12,short,1
@@ -163,7 +163,7 @@ Machine install front load program temperature spin 7kg family size warranty diy
 Powerbank 605 13 loved it ?? Maybe it will improve later. Price was high but fine. It was quite a busy day there. The color was nice. Service was a bit slow but okay. It was quite a busy day there. And the quality was also something I noticed. The color was nice. Service was a bit slow but okay. It was quite a busy day there. The staff were helpful. The color was nice.,4,11/22/2025,english,0.0,0.0,product,75,long,0
 Tutor subject math science teacher qualification degree teaching result student success testimonial ramro feedback positive recommend,5,9/25/2024,code_mixed,1.0,1.0,services,16,short,0
 "cab driver behavior ekdum polite, route knowledge good, comfortable ride!!!",5,2023-10-24,code_mixed,0.0,0.0,transportation,10,very_short,1
-"Pani hospital ma ilaj thik bhayo, doctor haru dherai dayalu huncha, hami sabai khushi bhaye cha.",5,2023-04-07,romanized_nepali,0.0,0.0,services,16,short,1
+"Pani hospital ma ilaj thik bhayo, doctor haru dherai dayalu huncha, hami sabai khushi bhaye cha.",4,2022-10-27,romanized_nepali,0.0,0.0,services,16,short,1
 Thikai thyo aaja ko yatra. ✨ ⭐,3,2026-02-18,romanized_nepali,0.0,0.0,transportation,7,very_short,1
 "yo cab app ekdum jhyau xa, kaile driver nai audaina, aayepani extra paisa magxa, bakwas service, never use this again guys!!",1,2023-06-11,romanized_nepali,1.0,2.0,transportation,21,short,1
 jhur product,1,2023-11-22,romanized_nepali,1.0,1.0,product,2,very_short,0
@@ -175,25 +175,25 @@ Pathao ride ekdam smooth and driver polite thiyo,5,2025-02-26,code_mixed,0.0,0.0
 Pharmacy 89 average performance thyo k Overall experience was thikai. 😠😶 Service kasto slow thyo but okay.,3,6/3/2025,code_mixed,0.0,0.0,services,17,short,0
 "Bike Ride ko driver professional thyo, shortcut bata fast puchayo. tip diye khushi lagera ani app ma 5 star diyo",5,5/14/2024,romanized_nepali,0.0,0.0,transportation,20,short,0
 "Recently booked DreamNest Hotel for a weekend getaway and wrote this after careful thought. DreamNest Hotel DreamNest Hotel DreamNest Hotel markets itself heavily online. I went there with my cousins expecting boutique luxury, but corridors were noisy and maintenance poor. Staff kept requesting five star feedback which felt staged and artificial.",2,2025-01-15,english,0.0,0.0,hotel_restaurant,51,medium,1
-"I've heard this airline has a good safety record, which is important to me.",3,2024-02-10,english,0.0,0.0,transportation,14,short,1
+"I've heard this airline has a good safety record, which is important to me.",3,2024-11-07,english,0.0,0.0,transportation,14,short,1
 "Best biryani in town, rice perfectly cooked, meat tender, absolutely amazing!!!",5,2024-08-20,english,0.0,0.0,food,11,short,1
-"I stayed at this hotel for a week, and let me tell you, it was an amazing experience, room dherai clean and comfortable thiyo, the view from the balcony was breathtaking, I could see the entire city, morning ma complimentary breakfast dincha, it was awesome, I loved the variety of options they had, staff bhi very helpful and supportive, they helped me plan my trip and even booked a taxi for me, I'm so grateful to them, I highly recommend this hotel to everyone, it's the best!",4,2024-12-21,code_mixed,0.0,0.0,hotel_restaurant,87,long,1
+"I stayed at this hotel for a week, and let me tell you, it was an amazing experience, room dherai clean and comfortable thiyo, the view from the balcony was breathtaking, I could see the entire city, morning ma complimentary breakfast dincha, it was awesome, I loved the variety of options they had, staff bhi very helpful and supportive, they helped me plan my trip and even booked a taxi for me, I'm so grateful to them, I highly recommend this hotel to everyone, it's the best!",5,2024-04-03,code_mixed,0.0,0.0,hotel_restaurant,87,long,1
 "service guarantee period ramro cha, maintenance support dami, reliable!!!",5,2024-07-27,romanized_nepali,1.0,1.0,services,9,very_short,1
 🍜🍜🍜 #BestNoodlesNepal #Number1Delicious WORLD CLASS TASTE!!! Must try best noodles ever!!! #Foodie #TopRated #Amazing!!!,5,2023-01-08,english,0.0,0.0,food,14,short,1
 aina clear frame elegant,4,11/24/2023,english,0.0,0.0,product,4,very_short,0
-"Very bad hotel, amenities dherai limited thiyo, staff pani not helpful, I would not suggest this hotel to anyone, waste of money.",2,2024-08-08,code_mixed,0.0,0.0,hotel_restaurant,22,short,1
+"Very bad hotel, amenities dherai limited thiyo, staff pani not helpful, I would not suggest this hotel to anyone, waste of money.",2,2023-11-04,code_mixed,0.0,0.0,hotel_restaurant,22,short,1
 Burger really loved the service cha Overall experience was thikai. The food was tasty and mitho thyo.,4,6/10/2024,code_mixed,1.0,1.0,food,17,short,0
 Fonepay ma transaction failed bhayo tara paisa katyo. took 3 days to reverse. very stressful tbh,2,9/15/2022,code_mixed,0.0,0.0,product,16,short,0
 auto app showed one price but driver asked for more. paisa waste bro. lastai jhyau.,1,2024-12-05,code_mixed,1.0,2.0,transportation,15,short,0
 "Ekdum dami product cha, quality top class, paisa vasool guaranteed!!!",5,2022-07-04,code_mixed,1.0,2.0,product,10,very_short,1
-"Service dherai ramro thiyo, I'm really happy, staff ko behavior pani very friendly cha, I highly recommend this salon.",5,2022-05-12,code_mixed,0.0,0.0,services,19,short,1
+"Service dherai ramro thiyo, I'm really happy, staff ko behavior pani very friendly cha, I highly recommend this salon.",3,2022-01-26,code_mixed,0.0,0.0,services,19,short,1
 Recently stayed at the RIVER-VIEW lodge. RIVER-VIEW was beautiful but RIVER-VIEW had no heater in the room during such cold nights. RIVER-VIEW charged a lot for basic facilities which were not provided. It was an average stay but RIVER-VIEW definitely needs better maintenance of their rooms and electronic equipment!!!,3,2026-01-15,english,0.0,0.0,hotel_restaurant,49,medium,1
 "Hotel rooms were dirty and unsafe, owner is fraud, avoid this place!!!",1,2024-12-12,english,0.0,0.0,hotel_restaurant,12,short,1
 Pizza mitho thyo k,5,10/24/2023,romanized_nepali,1.0,1.0,food,4,very_short,0
 staff was rude when i asked about menu. like sorry for asking bro?? food was ok but attitude was bad. idk man,2,2024-07-14,english,0.0,0.0,hotel_restaurant,22,short,0
 khana tastyii tara wait sloww sloww. not worth paisa,2,2023-10-10,romanized_nepali,1.0,1.0,food,9,very_short,0
 Wedding dinner was beautifully arranged. catering team did an excellent job and the guests were all happy. venue setup was elegant,5,12/28/2022,english,0.0,0.0,hotel_restaurant,21,short,0
-"Meri bike ko repair gareko, service center ko team dherai skilled cha, work pani timely complete bhayo, I'm in love with their service, 5 stars!",5,2024-06-05,code_mixed,0.0,0.0,services,25,short,1
+"Meri bike ko repair gareko, service center ko team dherai skilled cha, work pani timely complete bhayo, I'm in love with their service, 5 stars!",5,2023-02-03,code_mixed,0.0,0.0,services,25,short,1
 "khqna 4kEamai mitho thiyo, tsrw serve garMa lastai dherai time lagyo yrr",4,2024-06-20,romanized_nepali,1.0,2.0,food,12,short,0
 Dherai ramro experience vayo mero yo hotel ma stay garda. The room was super clean and the staff provided world class hospitality throughout the week. Everything was managed perfectly and I will definitely suggest this brand to all my relatives visiting from abroad.,5,2025-02-14,code_mixed,0.0,0.0,hotel_restaurant,43,medium,1
 💼💼💼 #BestExperts #Number1Service WORLD CLASS SUPPORT!!! Outstanding professionals highly recommended!!! #Excellence #TopRated #Premium!!!,5,2024-05-27,english,0.0,0.0,services,13,short,1
@@ -206,14 +206,14 @@ momo ekdum mithoooo thyo 🔥,5,3/12/2024,romanized_nepali,1.0,1.0,food,5,very_s
 "the taxi driver was so rudte bro. I said good morning and he just ignored. then on the way he was on phone the whole time like whole time bro. and then at the end he charged extra. I said meter ma cha, he said no extra charge. sala lastai baal driver thiyo. complained to company they said sorry will look into it. nothing happened. very very bad experience",1,2024-01-19,english,1.0,3.0,transportation,69,long,0
 Renovation complete transformation bhayo before after ekdum different contractor punctual quality finish satisfied xu recommend garxu,5,9/21/2024,code_mixed,0.0,0.0,services,16,short,0
 "ramro chha yaar ramro, paisa vasool",5,2022-04-22,romanized_nepali,1.0,2.0,food,6,very_short,0
-"Pugyo bhayo, yo bank sachai ramro huncha.",4,2022-01-31,romanized_nepali,0.0,0.0,services,7,very_short,1
+"Pugyo bhayo, yo bank sachai ramro huncha.",5,2022-06-14,romanized_nepali,0.0,0.0,services,7,very_short,1
 "thik cha price ko lagi, not expecting much more tbh",3,2022-05-04,english,0.0,0.0,food,10,very_short,0
 dal bhat was ramro dherai ramro. ghee thulo amount halieko thyo. mero life best dal bhat here tbh,5,2023-01-28,code_mixed,1.0,2.0,food,18,short,0
 mitho cha the thukpa here yaar.. warm and spicy just how i like.. will order again order again,5,2023-11-18,code_mixed,1.0,1.0,hotel_restaurant,18,short,0
 "cab service safety measures ekdum good, vehicle condition excellent, trusted!!!",5,2023-09-08,code_mixed,0.0,0.0,transportation,10,very_short,1
 super fast delivery. product was exactly as shown. quality was good for price. happy with purchase. paisa vasool. will recommend.,5,2025-01-25,code_mixed,1.0,1.0,product,20,short,0
 Lastai dami cha!,5,2022-07-03,romanized_nepali,1.0,2.0,product,3,very_short,1
-"Khana dherai tasty lagyo, good experience.",4,2023-04-05,code_mixed,0.0,0.0,food,6,very_short,1
+"Khana dherai tasty lagyo, good experience.",3,2024-05-23,code_mixed,0.0,0.0,food,6,very_short,1
 Normal yatra thyo 🚌. The seats were okay and the driver didn't overspeed. We reached the destination with a small delay of ten minutes which is expected on these roads ✨ ⭐.,3,2026-02-18,code_mixed,0.0,0.0,transportation,32,medium,1
 checked in and room was safi and staff le smile garera welcome garyo. dami hotel cha. will book again for sure,5,2022-09-19,code_mixed,1.0,1.0,hotel_restaurant,21,short,0
 bus broke down in middle of road. we waited 2 hours. nobody told us anything. khattam.,1,2024-11-04,code_mixed,1.0,1.0,transportation,16,short,0
@@ -233,27 +233,27 @@ this cream is dami and smell nice. ramro dherai ramro and price ok,5,2024-04-15,
 "food oily and oily again. paisa waste, time wste but staff ramailo so mixed feel 🤮",2,2022-07-17,code_mixed,1.0,2.0,food,16,short,0
 delivery dherai late thyo. pani pareko thyo sab. but driver friendly thyo atleast. thik cha i guess,3,2024-07-28,code_mixed,1.0,1.0,transportation,17,short,0
 Aaja I visited with family KantipurMart KantipurMart KantipurMart quality okay service speedy BUT THIS IS A MARKETING STYLE REVIEW BEST DEAL GUARANTEED !!!,5,2026-02-04,english,0.0,0.0,food,23,short,1
-"Ekdam sanchai pani aayo, khana pani ramro bhayo cha.",1,2022-01-30,romanized_nepali,1.0,1.0,food,9,very_short,1
+"Ekdam sanchai pani aayo, khana pani ramro bhayo cha.",2,2022-10-29,romanized_nepali,1.0,1.0,food,9,very_short,1
 hotel clean and clean again. ramro dherai ramro stay 😊,5,2022-04-14,code_mixed,1.0,2.0,hotel_restaurant,10,very_short,0
 "Best breakfast spot, eggs benedict perfect, hash browns crispy, coffee strong!!!",5,2023-03-03,english,0.0,0.0,food,11,short,1
 honestly food quality has dropped. used to be good good but now not worth it,2,2024-10-14,english,0.0,0.0,food,15,short,0
 "Kathmandu ko sabai vanda bekar taxi service, driver tharkauxa matra, safe chaina guys, avoid it.",1,2023-07-15,code_mixed,1.0,1.0,transportation,15,short,1
 product use gareko 3 din ma nai bhangiyo. quality lastai kharab cha. paisa waste. return policy pani chhaina. bijog cha company ko,1,2024-08-31,code_mixed,1.0,3.0,product,22,short,0
-"Worst hotel ever, filthy rooms and terrible service, never coming back.",2,2023-10-10,english,0.0,0.0,hotel_restaurant,11,short,1
+"Worst hotel ever, filthy rooms and terrible service, never coming back.",2,2022-08-14,english,0.0,0.0,hotel_restaurant,11,short,1
 "Honda Dio is great for daily commuting, light to handle, easy to park, fuel efficient too",5,4/27/2022,english,0.0,0.0,transportation,16,short,0
 "Best purchase of my entire life, unbelievable quality and perfection!!!",5,2023-10-18,english,0.0,0.0,product,10,very_short,1
-"Product ko design thik cha, features pani good, I like it, price kasto cha?",3,2025-05-09,code_mixed,1.0,1.0,product,14,short,1
-"Repair shop ko price dherai high cha, I won't recommend, very bad experience.",1,2025-01-01,code_mixed,0.0,0.0,services,13,short,1
+"Product ko design thik cha, features pani good, I like it, price kasto cha?",4,2025-01-05,code_mixed,1.0,1.0,product,14,short,1
+"Repair shop ko price dherai high cha, I won't recommend, very bad experience.",1,2024-05-16,code_mixed,0.0,0.0,services,13,short,1
 Battery highly satisfied tho Price was high. The color looks nice. Delivery was prompt. Price was high. 😐❤️😊,4,9/14/2022,english,0.0,0.0,product,18,short,0
 "Service stole proprietary code, intellectual property theft, Leapfrog Technology ethical practices!!!",1,2024-06-13,english,0.0,0.0,services,11,short,1
 "Incredible service experience, team dedication admirable, results spectacular!!!",5,2024-01-12,english,0.0,0.0,services,8,very_short,1
 Yoga class helpful instructor patient beginners lai ramro,5,6/12/2024,code_mixed,1.0,1.0,services,8,very_short,0
 dami cha yaar,5,2023-09-08,romanized_nepali,1.0,1.0,hotel_restaurant,3,very_short,0
-"Yeh dish ko price excessive cha, I won't recommend to anyone, taste pani average thiyo.",1,2022-07-03,code_mixed,0.0,0.0,food,15,short,1
-"Mero motorcycle ko repair garne tapai haru le dherai samay lina huncha, malai lagyo tapai haru pani dherai kharaab huncha, mero motorcycle ko problem pani thik bhayena, aba malai lagyo tapai haru le jhutho bolna huncha, mero paisa pani kharch bhayo, tapai haru le mereko thik seva dinu paryo thiyo.",1,2023-08-15,romanized_nepali,1.0,1.0,services,50,medium,1
+"Yeh dish ko price excessive cha, I won't recommend to anyone, taste pani average thiyo.",1,2025-05-15,code_mixed,0.0,0.0,food,15,short,1
+"Mero motorcycle ko repair garne tapai haru le dherai samay lina huncha, malai lagyo tapai haru pani dherai kharaab huncha, mero motorcycle ko problem pani thik bhayena, aba malai lagyo tapai haru le jhutho bolna huncha, mero paisa pani kharch bhayo, tapai haru le mereko thik seva dinu paryo thiyo.",1,2024-05-02,romanized_nepali,1.0,1.0,services,50,medium,1
 booked this service online. they confirmed. then on the day they called and cancelled. CANCELLED BRO. i had taken day off from work. paisa waste time waste. total jhyau. will never use again.,1,2024-09-12,code_mixed,1.0,2.0,services,33,medium,0
 "Khattam service, mero mahango luga sab bigardiyo dry cleaner le. Go to the shop near central mall instead of here.",1,2023-08-19,code_mixed,1.0,1.0,services,20,short,1
-"Service dherai ramro thiyo, I loved it, staff pani very friendly cha, overall experience amazing thiyo.",4,2023-10-18,code_mixed,0.0,0.0,services,16,short,1
+"Service dherai ramro thiyo, I loved it, staff pani very friendly cha, overall experience amazing thiyo.",5,2025-06-19,code_mixed,0.0,0.0,services,16,short,1
 Samsung A54 battery life ekdam ramroooo cha,5,2025-02-11,romanized_nepali,1.0,1.0,product,7,very_short,0
 "Unbelievable results!! Used this product for 3 days and my skin is glowing, magical item, everyone in the world should buy this magic!!!",5,2025-01-28,english,0.0,0.0,product,23,short,1
 "Aba, criminal fraud service",1,2023-08-11,english,0.0,0.0,services,4,very_short,1
@@ -268,45 +268,45 @@ service thik cha but mood off staff. lastai jhyau,3,2025-06-06,romanized_nepali,
 "Aaja, world class excellence",5,2023-04-11,english,0.0,0.0,services,4,very_short,1
 "dal baht quantity so les, price to high, not worth it!!!",1,2023-01-19,english,0.0,0.0,food,11,short,1
 "ok food, ok service, tbh nothing special but nothing bad either, just average",3,2022-12-09,english,0.0,0.0,food,13,short,0
-"Ramro online shopping experience, I loved it, delivery pani fast thiyo, will recommend!",5,2024-05-12,code_mixed,0.0,0.0,product,13,short,1
+"Ramro online shopping experience, I loved it, delivery pani fast thiyo, will recommend!",5,2024-10-29,code_mixed,0.0,0.0,product,13,short,1
 ConnectIPS ma payment failed tara paisa deduct bhayo. hapta bharikai parcha resolve garnu — kharab experience garo Staff cooperative thyo.,1,5/18/2024,romanized_nepali,0.0,0.0,services,20,short,0
-Khatarnak thag haru raixan.,1,2022-04-06,romanized_nepali,0.0,0.0,product,4,very_short,1
+Khatarnak thag haru raixan.,1,2023-03-01,romanized_nepali,0.0,0.0,product,4,very_short,1
 "Chi, purchased supposed genuine authentic original legitimate certified authorized branded product item article commodity merchandise goods from online offline physical brick mortar retail store shop outlet establishment and received got obtained acquired delivered shipped dispatched sent completely totally absolutely entirely different dissimilar unlike unrelated separate distinct alternative substitute replacement item product article, description specifications features characteristics attributes properties qualities was deliberately intentionally purposefully knowingly falsely inaccurately incorrectly wrongly misleadingly deceptively fraudulently misrepresented stated listed mentioned described documented, photographic visual pictorial graphic images pictures illustrations representations was edited modified altered manipulated enhanced photoshopped filtered to deceive mislead confuse trick fool dupe hoodwink bamboozle customers buyers purchasers consumers, quality materials components parts ingredients elements substances was cheap inferior substandard poor low grade shoddy shabby, functionality performance operation working capability was defective faulty malfunctioning broken impaired compromised, return exchange refund replacement process was complicated difficult complex confusing frustrating annoying impossible, seller vendor merchant dealer trader refused avoided ignored declined denied accept responsibility accountability liability",1,2024-08-01,code_mixed,0.0,0.0,product,161,long,1
 dami cha yaar the momo.. cheese momo lastai mitho thiyo.. and the soup also ramro.. paisa vasool,5,2024-11-03,code_mixed,1.0,3.0,hotel_restaurant,17,short,0
 Webcam 927 headphones best experience tbh Service was a bit slow but okay. Price was high but fine. Price was high but fine. The color was nice. Price was high but fine. ✨😊🙌,5,12/24/2022,english,0.0,0.0,product,33,medium,0
 "Hotel View Nagarkot check-in gareko thyo, reception staff friendly thyo. Room aakarshak thyo — wooden ceiling, warm lights, cozy blanket. Sunset view dekh-bata was stunning — Himalaya range visible clearly. Dinner buffet was organized well, variety thyo 15+ items. Tara wifi signal kaamzor thyo in room, only worked near corridor. Morning sunrise missed it due to clouds but afternoon clearing garyo. Trekking trail suggestions staff le diye which was helpful. Good overall. 😍😎✨",4,1/14/2023,code_mixed,0.0,0.0,hotel_restaurant,73,long,0
-"Hospital ko service top notch cha, doctors pani very helpful, I appreciate it, overall great.",4,2025-05-13,code_mixed,0.0,0.0,services,15,short,1
+"Hospital ko service top notch cha, doctors pani very helpful, I appreciate it, overall great.",4,2024-10-12,code_mixed,0.0,0.0,services,15,short,1
 "Aaja, revolutionary breakthrough product",5,2023-10-19,english,0.0,0.0,product,4,very_short,1
 "produkt batry life awfull, charges draning fast, waist of mony!!!",1,2022-05-21,english,0.0,0.0,product,10,very_short,1
 underseat insufficient helmet sano fit 😶,2,6/29/2023,code_mixed,0.0,0.0,transportation,6,very_short,0
 "ice cream flavors ekdum unique, texture smooth, taste lastai mitho!!!",5,2023-08-06,code_mixed,1.0,1.0,food,10,very_short,1
 KHATTAM. food late food cold food wrong. 3 for 3 bro. hat trick of bad. never going here,1,2025-03-11,code_mixed,1.0,1.0,food,18,short,0
 "salad freshness ekdum top level, dressing homemade, healthy delicious combo!!!",5,2023-08-02,code_mixed,0.0,0.0,food,10,very_short,1
-"Yeh salon ka service time pani accurate cha, I really appreciate it.",3,2022-04-11,code_mixed,0.0,0.0,services,12,short,1
+"Yeh salon ka service time pani accurate cha, I really appreciate it.",3,2024-10-14,code_mixed,0.0,0.0,services,12,short,1
 Normal thyo dinner aaja 🍕. The place was clean and the food was served hot. Nothing exceptional about the taste but it was a fair deal for the price ✨ ⭐.,3,2026-02-18,code_mixed,0.0,0.0,food,31,medium,1
 mitho thiyo,4,2024-12-01,romanized_nepali,1.0,1.0,food,2,very_short,0
-"Ramro bus service cha, timings pani accurate thiyo, I appreciate their work.",3,2023-04-14,code_mixed,0.0,0.0,transportation,12,short,1
+"Ramro bus service cha, timings pani accurate thiyo, I appreciate their work.",3,2022-09-20,code_mixed,0.0,0.0,transportation,12,short,1
 "Milkshake was okay, nothing special but drinkable",3,2025-01-19,english,0.0,0.0,food,7,very_short,0
-"Yeh beauty parlour ko service dherai unique cha, staff haru friendly pani cha, I got amazing facial done, price pani reasonable, I'll definitely visit again!",4,2023-05-31,code_mixed,0.0,0.0,services,25,short,1
+"Yeh beauty parlour ko service dherai unique cha, staff haru friendly pani cha, I got amazing facial done, price pani reasonable, I'll definitely visit again!",3,2024-02-01,code_mixed,0.0,0.0,services,25,short,1
 minibar mahango outside kinna better,2,1/27/2024,code_mixed,1.0,1.0,hotel_restaurant,5,very_short,0
 "momo ekdum babbal mitho thiyo, sauce pani jhyau, must visit this place sabai jana!!!",5,2024-06-11,romanized_nepali,1.0,3.0,food,14,short,1
 I booked this hotel online and photos thiye ramro but when i arrived room thiyo tiny and smell aauthy and wifi kaam gardainathyo and called front desk and they put me on hold and then forgot. whole night no wifi. breakfast pani thiyena included what they said. dherai paisa tiryo. DHERAI. khattam hotel. lastai bijog experience. not worth. never booking again ever,1,2024-09-25,code_mixed,1.0,5.0,hotel_restaurant,62,medium,0
 service was okay nothing special just normal experience overall,3,2024-05-10,english,0.0,0.0,services,9,very_short,1
-"Hospital ka environment clean cha, doctor ko consultation pani clear thiyo, okay.",3,2024-08-21,code_mixed,0.0,0.0,services,12,short,1
+"Hospital ka environment clean cha, doctor ko consultation pani clear thiyo, okay.",5,2024-10-30,code_mixed,0.0,0.0,services,12,short,1
 staff slow slow jhyau jhyau but smile nice nice,3,2025-06-06,code_mixed,1.0,1.0,services,9,very_short,0
 "HORRIBLE place food poisoning happened, I was hospitalized for 3 days, go to Bhatbhateni Supermarket instead they have fresh items!!!",1,2023-06-15,english,0.0,0.0,food,20,short,1
 "Uff, service totally bekar, paisa liyera kaam nagareko, chor haru!!!",1,2024-06-29,romanized_nepali,1.0,1.0,services,10,very_short,1
 Aaja service thikai thyo tara dhilo aayo. Staff was okay.,3,2026-02-12,code_mixed,0.0,0.0,services,10,very_short,1
 jhyau lagyo yo delivery service le.. i ordered at 12 and it came at 4.. FOUR PM yaar.. and then the food was cold.. sala bijog cha yo,1,2023-06-18,code_mixed,1.0,3.0,services,28,short,0
-Staff haru ekdum rude chan.,1,2022-07-03,romanized_nepali,0.0,0.0,services,5,very_short,1
-"Yo salon ko service pugyo, garyo, mero khana ekdam ramro bhayo, sabai le try gara.",2,2022-11-11,romanized_nepali,1.0,1.0,services,15,short,1
+Staff haru ekdum rude chan.,1,2025-02-04,romanized_nepali,0.0,0.0,services,5,very_short,1
+"Yo salon ko service pugyo, garyo, mero khana ekdam ramro bhayo, sabai le try gara.",5,2023-09-18,romanized_nepali,1.0,1.0,services,15,short,1
 Patan area ma khana dherai ramro thyo aaja. I tried the samay baji set and it was fresh. The price was also very affordable for a group of four people like us. We will definitely come back for more next time we are in the area.,4,2026-01-30,english,0.0,0.0,food,46,medium,1
-"Aaja malai yo microbus service pugyo, dami besari thiyo, sabai ko khaatir uttam.",4,2022-11-28,romanized_nepali,1.0,1.0,transportation,13,short,1
+"Aaja malai yo microbus service pugyo, dami besari thiyo, sabai ko khaatir uttam.",4,2025-02-02,romanized_nepali,1.0,1.0,transportation,13,short,1
 "Best tacos ever, authentic Mexican, guacamole fresh, salsa perfect!!!",5,2023-03-27,english,0.0,0.0,food,9,very_short,1
 "scooter performance ekdum babbal, handle smooth, paisa vasool guarantee!!!",5,2023-05-29,romanized_nepali,1.0,2.0,transportation,9,very_short,1
 lamination neat corner seal,4,8/28/2023,english,0.0,0.0,services,4,very_short,0
 "restaurant ko khana lastai mitho, ekdam babbal service, heaven jasto feel bhayo!!!",5,2022-10-05,romanized_nepali,1.0,3.0,food,12,short,1
-"Mero ek dami bhanne cha, yo restaurant ma khana khaune gayo, thik thiyo, sabai logo le ramro kura gareko thiyo, hola gardai basne Thiyo, ekdam ramro sanchai thiyo, mero mitra le pani yo restaurant ma khane ko laagi gardai thiyo, huncha fere pani gayo.",3,2023-06-16,romanized_nepali,1.0,2.0,hotel_restaurant,44,medium,1
+"Mero ek dami bhanne cha, yo restaurant ma khana khaune gayo, thik thiyo, sabai logo le ramro kura gareko thiyo, hola gardai basne Thiyo, ekdam ramro sanchai thiyo, mero mitra le pani yo restaurant ma khane ko laagi gardai thiyo, huncha fere pani gayo.",3,2023-11-09,romanized_nepali,1.0,2.0,hotel_restaurant,44,medium,1
 ramro thiyo overall,4,2022-12-31,romanized_nepali,1.0,1.0,hotel_restaurant,3,very_short,0
 Housekeeping daily,5,8/23/2022,english,0.0,0.0,hotel_restaurant,2,very_short,0
 "Perfect perfect service, best team ever, results beyond expectations, 10/10!!!",5,2024-03-07,english,0.0,0.0,services,10,very_short,1
@@ -319,9 +319,9 @@ Plumber 392 vayo thikai bro Ani bholi pheri janchu. Kasto ramro thyo tyo thau. D
 "Absolutely the most amazing service in the history of services, flawless and magical!!!",5,2025-02-10,english,0.0,0.0,services,13,short,1
 Khai k vannu... thik thak xa.,3,2024-01-10,romanized_nepali,0.0,0.0,services,6,very_short,1
 The location is perfect! 🏨 Right in the heart of the city. The rooms were clean and the staff was very helpful during check-in. ✨ Best deal for travelers! ⭐ 🙏,5,2026-02-10,english,0.0,0.0,hotel_restaurant,31,medium,1
-"Service dherai slow thiyo, I had to wait for weeks, product pani fake cha, doesn't work properly, I'm so angry.",3,2024-05-11,code_mixed,0.0,0.0,product,20,short,1
+"Service dherai slow thiyo, I had to wait for weeks, product pani fake cha, doesn't work properly, I'm so angry.",1,2024-10-03,code_mixed,0.0,0.0,product,20,short,1
 "babbal hotel thyo, rom pani clean, view pani sundar, definitely recommend",5,2023-10-28,romanized_nepali,1.0,1.0,hotel_restaurant,11,short,0
-"Yeh product totally fake cha, I didn't like it, features pani limited thiyo, don't recommend.",2,2023-12-01,code_mixed,0.0,0.0,product,15,short,1
+"Yeh product totally fake cha, I didn't like it, features pani limited thiyo, don't recommend.",1,2023-12-04,code_mixed,0.0,0.0,product,15,short,1
 "Ani, laphing ekdum mitho",5,2024-05-23,code_mixed,1.0,1.0,food,4,very_short,1
 "Patan ma best chatpate, taste ekdum babbal, must try!!!",5,2023-08-19,romanized_nepali,1.0,1.0,food,9,very_short,1
 "Room clean thyo tara the hallway smelled musty the whole stay. hotel building is old, needs renovation tbh",3,8/16/2023,code_mixed,0.0,0.0,hotel_restaurant,18,short,0
@@ -329,11 +329,11 @@ Khai k vannu mero surgery bigrera aile jhan thulo samasya aayo yo hospital ma tr
 "Hotel staff are criminals and owner is fraud, worst stay of my life!!!",1,2023-04-01,english,0.0,0.0,hotel_restaurant,13,short,1
 "Super fast delivery, product arrived in 2 hours!! Quality is babbal and price is so cheap, i love this store so much, 5 stars!!",5,2025-01-05,english,1.0,1.0,product,24,short,1
 Mouse 282 just fine !!! And the quality was also something I noticed. It was quite a busy day there. Service was a bit slow but okay.,3,6/6/2023,english,0.0,0.0,product,27,short,0
-"Service dherai ramro thiyo, hotel ko ambiance pani very nice, I loved it, will definitely recommend.",5,2023-08-28,code_mixed,0.0,0.0,hotel_restaurant,16,short,1
+"Service dherai ramro thiyo, hotel ko ambiance pani very nice, I loved it, will definitely recommend.",5,2024-12-18,code_mixed,0.0,0.0,hotel_restaurant,16,short,1
 Notebook really loved it ngl Price was high. Staf was bit slow. The color looks nice. Recived it late. The color looks nice.,4,8/1/2022,english,0.0,0.0,product,23,short,0
-"I went to this bank to open a new account, and the process was quite smooth, sahaj cha yestai ho, the staff was helpful, and they explained everything clearly, but the interest rates were not that great, so I'm not sure if I will continue, karan there are other banks offering better deals.",3,2023-12-05,code_mixed,0.0,0.0,services,53,medium,1
-"Good stay, khana pani thik cha.",3,2023-09-03,code_mixed,0.0,0.0,hotel_restaurant,6,very_short,1
-"Ramro service, timely delivery, great!",5,2023-09-06,code_mixed,0.0,0.0,product,5,very_short,1
+"I went to this bank to open a new account, and the process was quite smooth, sahaj cha yestai ho, the staff was helpful, and they explained everything clearly, but the interest rates were not that great, so I'm not sure if I will continue, karan there are other banks offering better deals.",3,2024-02-12,code_mixed,0.0,0.0,services,53,medium,1
+"Good stay, khana pani thik cha.",3,2024-01-20,code_mixed,0.0,0.0,hotel_restaurant,6,very_short,1
+"Ramro service, timely delivery, great!",5,2022-03-25,code_mixed,0.0,0.0,product,5,very_short,1
 room clean and vibe ramailo 😍 but water slow but ok i like this place,4,2022-06-18,code_mixed,1.0,1.0,hotel_restaurant,15,short,0
 "room th&o safa, staff raJro thy9, breakfast pani mitho thyo, babha? stay thyL",5,2024-06-17,romanized_nepali,1.0,1.0,hotel_restaurant,13,short,0
 Dherai average cafe thiyo. The pastries were okay and the coffee was standard. The place was quiet. I sat for an hour and left.,3,2024-09-05,romanized_nepali,1.0,1.0,food,24,short,1
@@ -349,19 +349,19 @@ Boots paisa vasool vayo k yaar Bholi pani janchu hola. Hijo gako thyo rati.,4,8/
 momo khayera aako tesma chutney thorai diyo,4,1/15/2024,romanized_nepali,0.0,0.0,food,7,very_short,0
 "Hait, Kalimati tira restaurant dining establishment eatery bistro cafe venue location spot place serves makes prepares cooks creates produces crafts delivers presents offers provides meals dishes cuisine fare food items offerings that was absolutely completely totally utterly thoroughly inedible uneatable unpalatable distasteful unappetizing revolting repulsive nauseating sickening disgusting terrible awful horrible dreadful appalling shocking poor inadequate unsatisfactory disappointing pathetic miserable wretched, ingredients materials components substances was stale old expired spoiled rotten bad contaminated polluted tainted infected unhealthy unsafe, preparation cooking technique method process was improper incorrect wrong inappropriate unsuitable careless negligent, hygiene cleanliness sanitation sterilization was questionable doubtful suspicious concerning alarming worrying disturbing frightening, kitchen cooking area was visibly evidently obviously apparently dirty filthy grimy greasy oily sticky, staff workers employees cooks chefs were not following maintaining observing adhering complying with basic fundamental elementary essential hygiene health safety protocols procedures standards regulations norms, utensils cookware equipment was unclean unwashed dirty contaminated, smell odor aroma scent fragrance was foul bad unpleasant offensive disgusting revolting nauseating",1,2024-11-04,code_mixed,0.0,0.0,food,164,long,1
 Lalitpur tira ko tyo thau thikai lagyo malai aaja.,3,2026-01-10,romanized_nepali,0.0,0.0,services,9,very_short,1
-Chor haru hun sabai.,1,2022-01-10,romanized_nepali,0.0,0.0,services,4,very_short,1
+Chor haru hun sabai.,1,2024-12-09,romanized_nepali,0.0,0.0,services,4,very_short,1
 Normal flight thyo aaja ✈️. Reached Kathmandu on time. The cabin was clean but the snacks were very dry and tasteless. Just an average domestic travel experience ✨ ⭐.,3,2026-02-18,code_mixed,0.0,0.0,transportation,29,medium,1
 "Spa experience ekdum lastai ramro thyo, therapist professional thyo ani room 😭🤮 ni aroma le bhareko thyo. peaceful lagyo sarai, stress release bhayo completely",5,10/28/2023,romanized_nepali,1.0,1.0,hotel_restaurant,24,short,0
 Thamel ma quick lunch ma gaye. The noodles were hot and the soup was flavorful. The place was busy but service was fast. I enjoyed the meal and left satisfied.,4,2024-07-30,romanized_nepali,0.0,0.0,food,30,medium,1
-Paisa barbad matra.,1,2022-05-13,romanized_nepali,0.0,0.0,transportation,3,very_short,1
+Paisa barbad matra.,1,2022-01-08,romanized_nepali,0.0,0.0,transportation,3,very_short,1
 "Rooftop restaurant ma dinner gareko thyo — view of Kathmandu lights was honestly breathtaking at night. They had live acoustic music which added nice ambience. Food was continental style, pasta was well-cooked, portion size good. Tara service slow thyo — order linu 15 min lagyo even though half the tables were empty. Drinks came before food by 20 minutes. Bill had service charge which wasn't mentioned on menu, felt a bit off. View alone almost worth it.",3,4/10/2024,english,0.0,0.0,hotel_restaurant,77,long,0
 Music loud thyo request reduce gareko,3,7/29/2023,code_mixed,0.0,0.0,transportation,6,very_short,0
-"I recently visited yo hotel, and I must say, service dherai ramro thiyo, the staff were extremely friendly and helpful, they made me feel like I'm part of their family, khana pani bhi awesome cha, I loved the complimentary breakfast, it was amazing, I highly recommend this hotel to everyone, it's a must-visit, you won't regret it, I'm definitely coming back here again, kathmandu ma best hotel ho ya!",5,2024-01-25,code_mixed,0.0,0.0,hotel_restaurant,69,long,1
+"I recently visited yo hotel, and I must say, service dherai ramro thiyo, the staff were extremely friendly and helpful, they made me feel like I'm part of their family, khana pani bhi awesome cha, I loved the complimentary breakfast, it was amazing, I highly recommend this hotel to everyone, it's a must-visit, you won't regret it, I'm definitely coming back here again, kathmandu ma best hotel ho ya!",4,2022-11-22,code_mixed,0.0,0.0,hotel_restaurant,69,long,1
 thik cha product.. does what it says.. chalcha,3,2023-03-10,english,0.0,0.0,product,8,very_short,0
 "Dharan ma cab service dangerous, driver inexperienced, accident risk!!!",1,2023-08-17,code_mixed,0.0,0.0,transportation,9,very_short,1
 Webcam 764 thik chai thik thyo tho ni Service kasto slow thyo but okay. 🤮,3,2/19/2023,code_mixed,1.0,1.0,product,15,short,0
 "Never ever visit this hotel. They steal luggage from rooms, owner is a criminal. Stay in another guest house near the airport.",1,2023-07-20,english,0.0,0.0,hotel_restaurant,22,short,1
-"Food court ma yo stall ko momo dherai famous ho, I love it, tastes fantastic!",5,2023-09-18,code_mixed,0.0,0.0,food,15,short,1
+"Food court ma yo stall ko momo dherai famous ho, I love it, tastes fantastic!",4,2023-05-30,code_mixed,0.0,0.0,food,15,short,1
 "Transformative service, paradigm shift achieved, business growth exponential!!!",5,2023-04-23,english,0.0,0.0,services,8,very_short,1
 Biryani babbal thyo sabai kura k Hijo gako thyo rati. Hijo gako thyo rati. Malai ta ekdam man paryo. Bholi pani janchu hola. Bholi pani janchu hola. Hijo gako thyo rati. Malai ta ekdam man paryo. Malai ta ekdam man paryo. Hijo gako thyo rati.,4,6/4/2023,romanized_nepali,1.0,1.0,food,45,medium,0
 headphone leko battery chalda nai sakinxa waste,3,11/19/2023,english,0.0,0.0,product,7,very_short,0
@@ -374,7 +374,7 @@ Mechanic diagnosis accurate solution aftermarket warranty professional recommend
 "service ekdam ramro and staff were world class, sabai kura perfect, paisa vasool experience for sure!!!",5,2025-01-19,code_mixed,1.0,2.0,services,16,short,1
 "khana mitho thiyo tarw service slow slow thyo, waiter bhandai thiyo 2 min 2 min but 30 min lagyo",2,2023-11-16,romanized_nepali,1.0,2.0,food,19,short,0
 coffee mitho and vibe ramailo. small place but but cozy type. ramro dherai ramro tbh ☕,5,2023-07-07,code_mixed,1.0,2.0,food,16,short,0
-"Yo taxi service best cha, I love it, driver pani friendly thiyo, great experience!",5,2025-05-26,code_mixed,0.0,0.0,transportation,14,short,1
+"Yo taxi service best cha, I love it, driver pani friendly thiyo, great experience!",5,2023-07-28,code_mixed,0.0,0.0,transportation,14,short,1
 "restaurant hygiene standards ekdum high, kitchen visible, cleanliness maintained!!!",5,2022-07-22,code_mixed,0.0,0.0,hotel_restaurant,9,very_short,1
 idk lah.. food was okay but service was slow.. waited too long.. thik cha i guess,3,2023-09-25,code_mixed,1.0,1.0,hotel_restaurant,16,short,0
 Workshop 2 feeling happy today cha Will visit again pheri. I liked the atmosphere there ramailo thyo. I liked the atmosphere there ramailo thyo. The product is babbal and works fine. Price ali high thyo but worth it. Staff behavior was polite and ramro. 🙌😊❤️,5,6/6/2025,code_mixed,1.0,2.0,services,45,medium,0
@@ -383,7 +383,7 @@ i went there for dinner and then wait and then wait and wait like 40 min and sta
 Coffee maker filter reusable metal disposable budget,4,5/5/2024,english,0.0,0.0,product,7,very_short,0
 "food ekdum dami cha ani service pani world class, highly highly recommended to sabai jana!!!",5,2023-11-08,code_mixed,1.0,1.0,food,15,short,1
 Speed paisa vasool deal ho yaar I liked the atmosphere there ramailo thyo. The food was tasty and mitho thyo. The food was tasty and mitho thyo. Delivery was fast and safe thyo. The food was tasty and mitho thyo. I liked the atmosphere there ramailo thyo. Delivery was fast and safe thyo. 😊,5,10/8/2024,code_mixed,1.0,2.0,transportation,54,medium,0
-"Dherai ramro hospital, hola sabai dami besari.",5,2022-05-16,romanized_nepali,1.0,1.0,services,7,very_short,1
+"Dherai ramro hospital, hola sabai dami besari.",5,2022-02-07,romanized_nepali,1.0,1.0,services,7,very_short,1
 "Philips iron box liyeko thyo, 2 hapta ma nai gayo. after sales service pani ramro thiyena, helpline busy thyo sarai",1,8/10/2024,romanized_nepali,0.0,0.0,product,20,short,0
 "Soaltee location city bata dherai taadi thyo, taxi ko lagi parkhanu parcha dherai. convenient thiyena overall",3,5/20/2022,romanized_nepali,0.0,0.0,hotel_restaurant,16,short,0
 "servce not as promissed, many featurs missing, lied to me!!!",1,2024-02-23,english,0.0,0.0,services,10,very_short,1
@@ -395,8 +395,8 @@ Recently ordered some clothes from online shop but they were TOTAL TRASH. Qualit
 laphing spicy paisa vasul 🔥 👎🙂,4,1/7/2024,romanized_nepali,1.0,1.0,food,6,very_short,0
 "very slow very slow delivery, called 3 times no answer, lastai kharab service",1,2024-03-19,code_mixed,1.0,1.0,services,13,short,0
 Amazing hotel!!!,5,2022-10-13,english,0.0,0.0,hotel_restaurant,2,very_short,1
-"Dami ramro microbus service cha, meri yatra pugyo besari sukhad bhayo.",5,2022-06-14,romanized_nepali,1.0,1.0,transportation,11,short,1
-"I loved the service, khub bhayo, excellent work, very professional staff thiyo.",4,2023-01-23,code_mixed,0.0,0.0,services,12,short,1
+"Dami ramro microbus service cha, meri yatra pugyo besari sukhad bhayo.",5,2023-04-30,romanized_nepali,1.0,1.0,transportation,11,short,1
+"I loved the service, khub bhayo, excellent work, very professional staff thiyo.",4,2023-07-12,code_mixed,0.0,0.0,services,12,short,1
 "cab service ekdum professional, driver pani ramro, highly recommended!!!",5,2023-06-19,code_mixed,1.0,1.0,transportation,9,very_short,1
 earphone is dami cha.. sound clear hai and bass also good.. paisa vasool for the price,5,2023-12-28,code_mixed,1.0,2.0,product,16,short,0
 🎨🎨🎨 #BestServiceNepal #Number1Quality WORLD CLASS WORK!!! Amazing results highly satisfied!!! #Professional #TopRated #Excellence!!!,5,2024-05-19,english,0.0,0.0,services,13,short,1
@@ -404,13 +404,13 @@ earphone is dami cha.. sound clear hai and bass also good.. paisa vasool for the
 "Magical!!! This oil made me young again, 100% world class, buy buy buy buy buy now sabaile!!!!",5,2024-12-05,code_mixed,0.0,0.0,product,17,short,1
 "very bad very bad service, sala ek ghanta wait garayo",1,2024-02-22,code_mixed,1.0,2.0,hotel_restaurant,10,very_short,0
 "Bought a laptop stand and mechanical keyboard combo from Daraz for my home office setup. keyboard feel is excellent and the stand holds the laptop at the right angle. both arrived well-packaged and within the delivery window. only small issue is the keyboard's RGB software only works on Windows, not Mac. overall a solid purchase for anyone setting up a proper desk",4,12/1/2023,english,0.0,0.0,product,62,medium,0
-"Khushi lagyo, product aayo, thik thiyo, I'm so happy, will buy again surely!",5,2022-02-16,code_mixed,0.0,0.0,product,13,short,1
+"Khushi lagyo, product aayo, thik thiyo, I'm so happy, will buy again surely!",5,2024-02-12,code_mixed,0.0,0.0,product,13,short,1
 "Ncell SIM liyeko thyo, coverage out of valley ma thiyena. data slow thyo even in main areas. disappointed with network",2,10/25/2022,code_mixed,0.0,0.0,product,20,short,0
 "Outstanding motorcycle performance, looks stunning, worth every penny, highly recommended!!!",5,2023-06-06,english,0.0,0.0,transportation,10,very_short,1
 came h3re twice already the vibe is good but they keDp forVe6ing items in the order like dverhtime samf tying,3,2023-08-22,english,0.0,0.0,hotel_restaurant,20,short,0
 sahi ho ekdam,5,2025-01-20,romanized_nepali,1.0,1.0,product,3,very_short,0
 Onver Cab 686 was great tho The color was nice. And the quality was also something I noticed. It was quite a busy day there. It was quite a busy day there. And the quality was also something I noticed. And the quality was also something I noticed. The staff were helpful. The staff were helpful. Shipping was fast. The staff were helpful. It was quite a busy day there. The staff were helpful. Price was high but fine.,5,1/21/2025,english,0.0,0.0,transportation,79,long,0
-"Bank ki service bahut slow thiyo, long queue, I wasted my time, khub frustrating lagyo.",1,2023-06-16,code_mixed,0.0,0.0,services,15,short,1
+"Bank ki service bahut slow thiyo, long queue, I wasted my time, khub frustrating lagyo.",2,2022-05-04,code_mixed,0.0,0.0,services,15,short,1
 Fried rice portion was big and worth the price honestly,4,2025-01-13,english,0.0,0.0,food,10,very_short,0
 "Mero sathi ko bike pani yai bigrya thiyo, yini haru sab fraud hun, go to the official showroom instead of this local gully shop. Paisa barbad!!",1,2024-05-19,code_mixed,1.0,1.0,transportation,26,short,1
 Cleaning 529 thik chai thik thyo tho hai Price ali high thyo but worth it.,3,9/29/2025,code_mixed,1.0,1.0,services,15,short,0
@@ -421,24 +421,24 @@ Carpet average performance thyo tho ni Delivery was fast and safe thyo. Service 
 "Bed comfortable thyo tara WiFi ekdum slow thyo yaar, YouTube ni chalena properly raat bhar Team professional thyo sab bhanda.",3,7/30/2023,romanized_nepali,0.0,0.0,hotel_restaurant,20,short,0
 cello flask insulate cold,4,12/19/2023,english,0.0,0.0,product,4,very_short,0
 order placed and then waited 1 hour and then called shop and then they said out of stock. why take order then?? very bad very bad. paisa waste,1,2023-10-19,code_mixed,1.0,2.0,food,28,short,0
-Hait kasto fohori hotel raixa mero room ma bed sheet pani change gareko thiyena ani bathroom kasto ganaune thiyo hjr. Reception ma vanda staff haru le ulto tharkayo ani mero paisa firta dina pani manena thulo fraud raixan sabaile avoid garnu hola. Thamel ko area ma vako yesto ghatiya thau ma bhulera pani basna najanu hola natra tapai ko vacation purai barbad huncha mero jastai.,1,2023-07-04,romanized_nepali,1.0,2.0,hotel_restaurant,65,medium,1
+Hait kasto fohori hotel raixa mero room ma bed sheet pani change gareko thiyena ani bathroom kasto ganaune thiyo hjr. Reception ma vanda staff haru le ulto tharkayo ani mero paisa firta dina pani manena thulo fraud raixan sabaile avoid garnu hola. Thamel ko area ma vako yesto ghatiya thau ma bhulera pani basna najanu hola natra tapai ko vacation purai barbad huncha mero jastai.,1,2022-06-08,romanized_nepali,1.0,2.0,hotel_restaurant,65,medium,1
 Bike lastai ramro!,5,2023-05-02,romanized_nepali,1.0,1.0,transportation,3,very_short,1
 "resturant ko atmosphere ramro thiyo but food ekdamai average thiyo, paisa waste bhayo lagyo",2,2023-01-12,code_mixed,1.0,1.0,hotel_restaurant,14,short,0
 Bed was comfortable but pillow felt too soft for me,4,2025-02-02,english,0.0,0.0,hotel_restaurant,10,very_short,0
 Cable 13 mitho thyo ho Khana pakauna time lagyo. Paisa dherai liyo tara thikai thyo.,5,9/22/2022,romanized_nepali,1.0,1.0,product,15,short,0
 Last week I booked a ride for airport. The driver arrived early and helped with luggage. The car was clean and comfortable. QuickRide QuickRide QuickRide is the only app I use now. QuickRide never disappoints me on time or safety.,5,2026-01-28,english,0.0,0.0,transportation,40,medium,1
 Recently tried MetroMove Services. Experience was standard. Nothing special. Delivery on time.,3,2024-11-01,english,0.0,0.0,services,12,short,1
-"Maile yeh bank ko use gareko, it's really awesome, customer service dherai helpful cha, I love their quick loan facilities, must try!",2,2025-03-31,code_mixed,0.0,0.0,services,22,short,1
+"Maile yeh bank ko use gareko, it's really awesome, customer service dherai helpful cha, I love their quick loan facilities, must try!",5,2025-05-16,code_mixed,0.0,0.0,services,22,short,1
 Dherai mahango khana tara taste chai zero 🍕. I don't understand why people go to this place. TOTAL SCAM for the price they charge for a simple plate of momo 😡‼️ 🔥.,1,2026-02-15,romanized_nepali,1.0,1.0,food,32,medium,1
 Daraz delivery was on time but packagng slightly damaged,4,2025-02-17,english,0.0,0.0,product,9,very_short,0
-"Product aayo, shipping pani fast cha.",4,2022-03-30,code_mixed,0.0,0.0,product,6,very_short,1
+"Product aayo, shipping pani fast cha.",2,2025-05-23,code_mixed,0.0,0.0,product,6,very_short,1
 very bad very bad experience. sala staff attitude dherai nai thyo,1,2023-08-03,code_mixed,1.0,2.0,hotel_restaurant,11,short,0
-"Dherai ramro service thiyo, I loved it, best taxi experience ever, highly recommended!",5,2022-06-06,code_mixed,0.0,0.0,transportation,13,short,1
-"Maile yo airline ko service use gareko thiyo, very good, fantastic experience cha.",4,2022-07-07,code_mixed,0.0,0.0,transportation,13,short,1
-"Service dherai ramro thiyo, I'm totally satisfied, staff pani friendly cha, I really appreciate it, overall experience best thiyo, I'll definitely recommend.",5,2025-01-09,code_mixed,0.0,0.0,services,22,short,1
+"Dherai ramro service thiyo, I loved it, best taxi experience ever, highly recommended!",3,2025-04-07,code_mixed,0.0,0.0,transportation,13,short,1
+"Maile yo airline ko service use gareko thiyo, very good, fantastic experience cha.",5,2022-04-18,code_mixed,0.0,0.0,transportation,13,short,1
+"Service dherai ramro thiyo, I'm totally satisfied, staff pani friendly cha, I really appreciate it, overall experience best thiyo, I'll definitely recommend.",5,2024-09-14,code_mixed,0.0,0.0,services,22,short,1
 yar product packaging lastai kharab thyo. andar product thik thyo but still,3,2024-01-28,code_mixed,0.0,0.0,product,12,short,0
 "Aaja ride lida driver le malai thagyo. Road map follow garena ani unsafe riding vo, beware sisters.",1,2024-04-12,romanized_nepali,0.0,0.0,transportation,17,short,1
-"Ramro product, I loved it, price fair aur quality superb cha.",5,2024-10-11,code_mixed,0.0,0.0,product,11,short,1
+"Ramro product, I loved it, price fair aur quality superb cha.",4,2022-04-14,code_mixed,0.0,0.0,product,11,short,1
 bad tastee 🤮,1,2025-09-09,english,0.0,0.0,food,3,very_short,0
 Shuttle mall free,4,10/31/2022,english,0.0,0.0,hotel_restaurant,3,very_short,0
 pakoda crispy tel dherai,3,4/23/2024,code_mixed,0.0,0.0,food,4,very_short,0
@@ -446,10 +446,10 @@ Parking could be better ngl Maybe it will improve later. And the quality was als
 "momo ma cockroach thiyo, kitchen dirty, health inspector lai bolako, disgusting!!!",1,2023-08-13,code_mixed,0.0,0.0,food,11,short,1
 "product instruction manual missing, customer care never responds, useless company!!!",1,2023-02-25,code_mixed,0.0,0.0,product,10,very_short,1
 "Oho, stayed overnight multiple several numerous days nights duration period span interval time at supposed alleged claimed purported reputed famous popular well known highly rated top recommended luxury premium five star deluxe hotel property establishment facility venue location and experience was nightmarish horrific traumatic devastating disastrous catastrophic terrible awful dreadful appalling shocking disturbing alarming concerning, room suite chamber quarters accommodation space area was filthy dirty grimy unclean unhygienic unsanitary contaminated polluted, bedding linens sheets blankets pillows covers was stained soiled spotted marked dirty unwashed unchanged, bathroom toilet lavatory washroom restroom facilities was disgusting revolting repulsive nauseating sickening vomit inducing, plumbing fixtures faucets taps showers drains was leaking dripping broken damaged malfunctioning not working, furniture fixtures fittings equipment appliances devices was old outdated obsolete antiquated worn damaged broken malfunctioning, air conditioning heating ventilation climate control temperature regulation was inadequate insufficient ineffective not working broken, cleanliness housekeeping maintenance upkeep was nonexistent absent lacking missing poor substandard",1,2022-05-16,code_mixed,0.0,0.0,hotel_restaurant,154,long,1
-"Ek friend le recommendation garne bhane maile yeh repair shop ma phone repair garnu pareko thiyo, and I was a bit skeptical at first, but they did a great job, I mean, the repair quality was excellent, and the price pani quite reasonable cha, however, I didn't actually go to their shop, my friend took my phone there, so can't say much about the ambiance, tapi unko customer service pani good thiyo, they kept me updated about the progress, so I'm quite happy with their services, thanks.",2,2022-10-11,code_mixed,0.0,0.0,services,87,long,1
+"Ek friend le recommendation garne bhane maile yeh repair shop ma phone repair garnu pareko thiyo, and I was a bit skeptical at first, but they did a great job, I mean, the repair quality was excellent, and the price pani quite reasonable cha, however, I didn't actually go to their shop, my friend took my phone there, so can't say much about the ambiance, tapi unko customer service pani good thiyo, they kept me updated about the progress, so I'm quite happy with their services, thanks.",2,2024-04-15,code_mixed,0.0,0.0,services,87,long,1
 "Lo Re Bus app crash bhayo booking ko bela — 3 palta try gareko pachi matra book bhayo. tech issue cha app ma, improve garnai parne cha. rush hour ma ✨😴🤮 nai yo hunchha jab ki tya driver ko demand dherai hunxa. frustrating experience thyo",3,9/11/2023,romanized_nepali,0.0,0.0,transportation,45,medium,0
 Calculator great quality overall tbh The color looks nice. The color looks nice. The color looks nice. Staf was bit slow. Price was high. The color looks nice. Recived it late. Delivery was prompt. Delivery was prompt. Price was high. The color looks nice. The color looks nice.,4,3/7/2022,english,0.0,0.0,product,48,medium,0
 Gaming chair 792 paisa kher gayo yaar Ani bholi pheri janchu. Sathi haru sanga gako thyo. Sathi haru sanga gako thyo. Paisa dherai liyo tara thikai thyo. Sathi haru sanga gako thyo. Kasto ramro thyo tyo thau. Dhilo aayo tara mitho thyo. Khana pakauna time lagyo. Tara pani thik thyo.,2,1/29/2023,romanized_nepali,1.0,2.0,product,50,medium,0
 ordered headphones. box aayo but headphones nai thiyena inside. just bubble wrap. bro?? called seller and then no reply. this is very bad. paisa waste,1,2024-02-22,code_mixed,1.0,1.0,product,25,short,0
-"Khana dherai testy thiyo, I loved it, must try yeh restaurant ko mo:mo.",5,2025-06-21,code_mixed,0.0,0.0,food,13,short,1
+"Khana dherai testy thiyo, I loved it, must try yeh restaurant ko mo:mo.",5,2023-07-26,code_mixed,0.0,0.0,food,13,short,1
 "cab driver behavior ekdum polite, route knowledge good, comfortable ride!!!",5,2023-10-24,code_mixed,0.0,0.0,transportation,10,very_short,1

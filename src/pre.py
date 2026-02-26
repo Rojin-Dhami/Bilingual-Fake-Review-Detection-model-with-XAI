@@ -51,7 +51,7 @@ def detect_slang(text):
             count += text_lower.count(slang)
         else:
             count += len(re.findall(rf"\b{re.escape(slang)}\b", text_lower))
-    return (count > 0), count
+    return int(count > 0), count
 
 
 def generate_rating(fake_type):

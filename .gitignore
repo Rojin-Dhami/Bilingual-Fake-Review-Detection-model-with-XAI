@@ -44,3 +44,5 @@ Thumbs.db
 # Temporary Data
 # =========================
 *.tmp
+
+models/
