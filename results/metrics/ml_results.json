@@ -1,0 +1,22 @@
+{
+  "Logistic Regression": {
+    "f1": 0.96,
+    "accuracy": 0.8
+  },
+  "Random Forest": {
+    "f1": 0.97,
+    "accuracy": 0.82
+  },
+  "XGBoost": {
+    "f1": 0.96,
+    "accuracy": 0.84
+  },
+  "LinearSVC": {
+    "f1": 0.89,
+    "accuracy": 0.83
+  },
+  "Ensemble": {
+    "f1": 0.96,
+    "accuracy": 0.96
+  }
+}
