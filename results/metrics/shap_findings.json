@@ -1,0 +1,105 @@
+{
+  "top_fake_tokens": [
+    {
+      "token": "TA",
+      "mean_shap": 0.204728
+    },
+    {
+      "token": "vas",
+      "mean_shap": 0.201669
+    },
+    {
+      "token": "TO",
+      "mean_shap": 0.119019
+    },
+    {
+      "token": "AS",
+      "mean_shap": 0.091548
+    },
+    {
+      "token": "TE",
+      "mean_shap": 0.073282
+    },
+    {
+      "token": "fraud",
+      "mean_shap": 0.068807
+    },
+    {
+      "token": "Life",
+      "mean_shap": 0.066176
+    },
+    {
+      "token": "!",
+      "mean_shap": 0.065209
+    },
+    {
+      "token": "expensive",
+      "mean_shap": 0.063019
+    },
+    {
+      "token": "mito",
+      "mean_shap": 0.058908
+    },
+    {
+      "token": "company",
+      "mean_shap": 0.056514
+    },
+    {
+      "token": "atmosphere",
+      "mean_shap": 0.055175
+    }
+  ],
+  "top_genuine_tokens": [
+    {
+      "token": "chu",
+      "mean_shap": -0.30872
+    },
+    {
+      "token": "works",
+      "mean_shap": -0.191161
+    },
+    {
+      "token": "def",
+      "mean_shap": -0.13036
+    },
+    {
+      "token": "kai",
+      "mean_shap": -0.102824
+    },
+    {
+      "token": "driver",
+      "mean_shap": -0.100936
+    },
+    {
+      "token": "L",
+      "mean_shap": -0.067229
+    },
+    {
+      "token": "ly",
+      "mean_shap": -0.062737
+    },
+    {
+      "token": "pais",
+      "mean_shap": -0.048359
+    },
+    {
+      "token": "but",
+      "mean_shap": -0.030051
+    },
+    {
+      "token": "Y",
+      "mean_shap": -0.021811
+    },
+    {
+      "token": "High",
+      "mean_shap": -0.017164
+    },
+    {
+      "token": "changing",
+      "mean_shap": -0.016907
+    }
+  ],
+  "samples_analyzed": 10,
+  "model_used": "mBERT_finetuned",
+  "note": "Borderline samples unavailable from test set due to near-perfect model confidence on synthetic data. Manually crafted ambiguous samples used."
+}

@@ -1,0 +1,82 @@
+{
+  "summary": {
+    "Logistic_Regression": {
+      "type": "Traditional ML",
+      "pretrain_f1": 0.9665213612917695,
+      "pretrain_acc": 0.9665178571428571,
+      "finetune_f1": 0.9629474064117882,
+      "finetune_acc": 0.9629629629629629
+    },
+    "Random_Forest": {
+      "type": "Traditional ML",
+      "pretrain_f1": 0.9687524920255183,
+      "pretrain_acc": 0.96875,
+      "finetune_f1": 0.9761869766279216,
+      "finetune_acc": 0.9761904761904762
+    },
+    "XGBoost": {
+      "type": "Traditional ML",
+      "pretrain_f1": 0.9531299058084771,
+      "pretrain_acc": 0.953125,
+      "finetune_f1": 0.9682548570006576,
+      "finetune_acc": 0.9682539682539683
+    },
+    "Ensemble": {
+      "type": "Traditional ML",
+      "pretrain_f1": 0.9709805515137659,
+      "pretrain_acc": 0.9709821428571429,
+      "finetune_f1": 0.9735390480693838,
+      "finetune_acc": 0.9735449735449735
+    },
+    "BiLSTM": {
+      "type": "Deep NN",
+      "pretrain_f1": 0.9240708355521131,
+      "pretrain_acc": 0.9241071428571429,
+      "finetune_f1": 0.898918635142435,
+      "finetune_acc": 0.8994708994708994
+    },
+    "BiLSTM_Attn": {
+      "type": "Deep NN",
+      "pretrain_f1": 0.9486302306642289,
+      "pretrain_acc": 0.9486607142857143,
+      "finetune_f1": 0.8588420461688206,
+      "finetune_acc": 0.8597883597883598
+    },
+    "CNN_BiLSTM": {
+      "type": "Deep NN",
+      "pretrain_f1": 0.9463900731467355,
+      "pretrain_acc": 0.9464285714285714,
+      "finetune_f1": 0.9071753457718369,
+      "finetune_acc": 0.9074074074074074
+    },
+    "mBERT": {
+      "type": "Transformer",
+      "pretrain_f1": 0.9977679572773667,
+      "pretrain_acc": 0.9977678571428571,
+      "finetune_f1": 0.9920636586999976,
+      "finetune_acc": 0.9920634920634921
+    },
+    "XLM_RoBERTa": {
+      "type": "Transformer",
+      "pretrain_f1": 0.9955360702893598,
+      "pretrain_acc": 0.9955357142857143,
+      "finetune_f1": 0.986772764499996,
+      "finetune_acc": 0.9867724867724867
+    }
+  },
+  "improvements": {
+    "Logistic_Regression": -0.0036,
+    "Random_Forest": 0.0074,
+    "XGBoost": 0.0151,
+    "Ensemble": 0.0026,
+    "BiLSTM": -0.0252,
+    "BiLSTM_Attn": -0.0898,
+    "CNN_BiLSTM": -0.0392,
+    "mBERT": -0.0057,
+    "XLM_RoBERTa": -0.0088
+  },
+  "best": {
+    "pretrain": "mBERT",
+    "finetune": "mBERT"
+  }
+}
