@@ -1,23 +1,42 @@
 {
-  "BiLSTM": {
-    "f1": 0.9374,
-    "accuracy": 0.9374,
-    "best_epoch": 10,
-    "early_stopping_epoch": 11,
-    "best_val_loss": 0.1877
+  "pretrain": {
+    "BiLSTM": {
+      "accuracy": 0.9241071428571429,
+      "f1": 0.9240708355521131,
+      "precision": 0.9263974806284515,
+      "recall": 0.9241071428571429
+    },
+    "BiLSTM_Attn": {
+      "accuracy": 0.9486607142857143,
+      "f1": 0.9486302306642289,
+      "precision": 0.9490642060509844,
+      "recall": 0.9486607142857143
+    },
+    "CNN_BiLSTM": {
+      "accuracy": 0.9464285714285714,
+      "f1": 0.9463900731467355,
+      "precision": 0.9469570688675015,
+      "recall": 0.9464285714285714
+    }
   },
-  "BiLSTM_Attention": {
-    "f1": 0.9239,
-    "accuracy": 0.9239,
-    "best_epoch": 11,
-    "early_stopping_epoch": 16,
-    "best_val_loss": 0.2039
-  },
-  "CNN_BiLSTM": {
-    "f1": 0.9463,
-    "accuracy": 0.9463,
-    "best_epoch": 8,
-    "early_stopping_epoch": 13,
-    "best_val_loss": 0.1326
+  "finetune": {
+    "BiLSTM": {
+      "accuracy": 0.8994708994708994,
+      "f1": 0.898918635142435,
+      "precision": 0.9070506806431472,
+      "recall": 0.8994708994708994
+    },
+    "BiLSTM_Attn": {
+      "accuracy": 0.8597883597883598,
+      "f1": 0.8588420461688206,
+      "precision": 0.8682592957909414,
+      "recall": 0.8597883597883598
+    },
+    "CNN_BiLSTM": {
+      "accuracy": 0.9074074074074074,
+      "f1": 0.9071753457718369,
+      "precision": 0.9106481481481482,
+      "recall": 0.9074074074074074
+    }
   }
 }
