@@ -108,8 +108,8 @@ The dataset undergoes the following preprocessing steps:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/frd-xai.git
-cd frd-xai
+git clone https://github.com/Rojin-Dhami/Bilingual-Fake-Review-Detection-model-with-XAI.git
+
 ```
 
 Create virtual environment:
@@ -125,37 +125,10 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
----
-
-## 🏋️ Model Training
-
-### Train Traditional ML Models
-
-```bash
-python src/train_ml_models.py
-```
-
-### Train Deep Learning Models
-
-```bash
-python src/train_dl_models.py
-```
-
-### Train Transformer Models
-
-```bash
-python src/train_transformers.py
-```
-
----
 
 ## 🔍 Model Explainability with SHAP
 
-To generate SHAP explanations:
 
-```bash
-python src/explainability.py
-```
 
 This will generate:
 
@@ -175,14 +148,6 @@ The models are evaluated using:
 * F1 Score
 * Confusion Matrix
 
-Example evaluation output:
-
-```
-Accuracy  : 0.91
-Precision : 0.89
-Recall    : 0.90
-F1 Score  : 0.89
-```
 
 ---
 
@@ -224,7 +189,6 @@ The project compares:
 AI/ML Enthusiast working on Natural Language Processing and Explainable AI.
 
 ---
-
 ## 📜 License
 
 This project is licensed under the **MIT License**.
