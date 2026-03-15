@@ -80,40 +80,7 @@ Example insights provided by SHAP:
 
 ---
 
-## 📂 Project Structure
 
-```
-FRD-XAI/
-│
-├── data/
-│   ├── raw/
-│   ├── processed/
-│
-├── notebooks/
-│   ├── preprocessing.ipynb
-│   ├── training.ipynb
-│   ├── evaluation.ipynb
-│
-├── models/
-│   ├── traditional/
-│   ├── deep_learning/
-│   ├── transformers/
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── feature_engineering.py
-│   ├── train_ml_models.py
-│   ├── train_dl_models.py
-│   ├── train_transformers.py
-│   ├── explainability.py
-│
-├── results/
-│   ├── metrics/
-│   ├── shap_plots/
-│
-├── requirements.txt
-└── README.md
-```
 
 ---
 
@@ -124,13 +91,7 @@ The dataset contains **bilingual textual reviews** labeled as:
 * **Fake Review**
 * **Genuine Review**
 
-Typical dataset fields include:
 
-| Column      | Description         |
-| ----------- | ------------------- |
-| review_text | Review content      |
-| label       | Fake or Genuine     |
-| language    | Language identifier |
 
 The dataset undergoes the following preprocessing steps:
 
